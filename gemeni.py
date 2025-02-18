@@ -9,7 +9,7 @@ import os
     exceptions.TooManyRequests,
     exceptions.ServiceUnavailable
 ))
-def get_narrator_info(pages_text):
+def get_narrator_info(pages_text, current_pages):  # Modified to accept page numbers
     genai.configure(api_key="AIzaSyAGMdxQCc8joq2MicuKEHi3spvJR1wSuqM")
     model = genai.GenerativeModel('gemini-1.5-flash-8b', generation_config={
         "temperature": 0.3,  # Lower temperature for more focused responses
@@ -20,14 +20,15 @@ def get_narrator_info(pages_text):
     
     prompt = f"""
     You are an expert in Islamic narrator biographies (علم الرجال). Analyze this Arabic text and extract narrator information.
-    Focus ONLY on clear biographical information. Return valid JSON with no additional text.
+    Focus ONLY on clear biographical information and teacher-student relationships. Return valid JSON with no additional text.
 
     Important rules:
     1. Only extract information explicitly stated in the text
     2. Use "Unknown" for missing information
     3. Include Arabic text where available
-    4. Generate sequential IDs starting from 1
-    5. Focus on main biographical elements: name, dates, locations, scholarly status
+    4. Focus on main biographical elements and relationships
+    5. Look specifically for terms like "روى عن", "حدثنا", "أخبرنا", "سمعت من" for teacher relationships
+    6. Look for "روى عنه", "حدث عنه", "أخذ عنه" for student relationships
     
     Text to analyze:
     {pages_text}
@@ -37,7 +38,6 @@ def get_narrator_info(pages_text):
         "narrators": [
             {{
                 "narrator": "الاسم بالعربية",
-                "narrator_id": "رقم تسلسلي",
                 "full_name": "الاسم الكامل مع النسب",
                 "aliases": ["الأسماء البديلة"],
                 "birth_year": "سنة الولادة الهجرية",
@@ -52,7 +52,21 @@ def get_narrator_info(pages_text):
                 "scholarly_reliability": ["درجة الثقة والضبط"],
                 "scholarly_evaluations": {{
                     "اسم العالم": "تقييمه وتعليله"
-                }}
+                }},
+                "teachers": [
+                    {{
+                        "name": "اسم الشيخ",
+                        "relationship_type": "نوع العلاقة (سماع/إجازة/مناولة)",
+                        "notable_narrations": ["أهم المرويات عنه"]
+                    }}
+                ],
+                "students": [
+                    {{
+                        "name": "اسم التلميذ",
+                        "relationship_type": "نوع العلاقة",
+                        "notable_narrations": ["أهم المرويات"]
+                    }}
+                ]
             }}
         ]
     }}
@@ -79,7 +93,7 @@ def clean_json_response(response_text):
     # Remove any non-JSON text before or after
     start_idx = cleaned.find("{")
     end_idx = cleaned.rfind("}") + 1
-    if start_idx >= 0 and end_idx > 0:
+    if (start_idx >= 0 and end_idx > 0):
         cleaned = cleaned[start_idx:end_idx]
     
     try:
@@ -116,17 +130,23 @@ def process_json_file(input_file="output/output.json", output_file="narrators_in
     pages = data['pages']
     
     # Process pages in batches of 2
-    batch_size = 2
-    for i in range(1, 10, batch_size):
+    batch_size = 3
+    
+    for i in range(0, len(pages), batch_size):
         batch_pages = pages[i:i + batch_size]
+        
+        # Get page range for current batch
+        start_page = batch_pages[0].get('page_number', str(i+1))
+        end_page = batch_pages[-1].get('page_number', str(i+batch_size))
+        page_range = f"{start_page}-{end_page}"
         
         # Combine text from batch pages
         combined_text = "\n".join(page['text'] for page in batch_pages)
         
-        print(f"\nProcessing batch {i//batch_size + 1}...")
+        print(f"\nProcessing pages {page_range}...")
         
-        # Get narrator information
-        narrator_info = get_narrator_info(combined_text)
+        # Get narrator information with page numbers
+        narrator_info = get_narrator_info(combined_text, page_range)
         if not narrator_info:
             print(f"No valid response for batch {i//batch_size + 1}")
             continue
@@ -143,10 +163,11 @@ def process_json_file(input_file="output/output.json", output_file="narrators_in
         if "narrators" in cleaned_data:
             batch_narrators = cleaned_data["narrators"]
             if batch_narrators:
-                # Update IDs to avoid conflicts
+                # Update IDs and page numbers
                 next_id = len(all_narrators) + 1
                 for narrator in batch_narrators:
                     narrator["narrator_id"] = str(next_id)
+                    narrator["page_from"] = page_range
                     next_id += 1
                 
                 # Add new narrators

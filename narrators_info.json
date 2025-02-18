@@ -1,8 +1,7 @@
 {
   "narrators": [
     {
-      "narrator": "عبد الله بن ثوب",
-      "narrator_id": "1",
+      "narrator": "أبو مسلم الخولاني",
       "full_name": "عبد الله بن ثوب الداراني",
       "aliases": [
         "عبد الله بن عبد الله",
@@ -27,841 +26,289 @@
         "ثقة"
       ],
       "scholarly_evaluations": {
-        "إسماعيل بن عيّاش": "حدثنا شرحبيل بن مسلم قال: أتى أبو مسلم الخولاني المدينة وقد قبض النبي صلى الله عليه وسلم واستُخلف أبو بكر"
-      }
-    },
-    {
-      "narrator": "شرحبيل بن مسلم",
-      "narrator_id": "2",
-      "full_name": "شرحبيل بن مسلم",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "إسماعيل بن عيّاش": "حدثنا شرحبيل بن مسلم"
-      }
-    },
-    {
-      "narrator": "عبد الوهاب بن نجد",
-      "narrator_id": "3",
-      "full_name": "عبد الوهاب بن نجد",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "ثقة"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "رواه عن إسماعيل، لكن شرحبيل أرسل الحكاية"
-      }
-    },
-    {
-      "narrator": "مالك بن دينار",
-      "narrator_id": "4",
-      "full_name": "مالك بن دينار",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "يُروى عنه أن كعبًا رأى أبا مسلم الخولاني، فقال: من هذا؟"
-      }
-    },
-    {
-      "narrator": "أَبُو مُسْلِم",
-      "narrator_id": "5",
-      "full_name": "أَبُو مُسْلِمٍ الخَوْلَانِيّ",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "أرض الروم",
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "مَعْمَرٌ",
-      "narrator_id": "6",
-      "full_name": "معمر",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "الزُّهْرِيّ",
-      "narrator_id": "7",
-      "full_name": "الزهري",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "أَبُو إِدْرِيْسَ الخَوْلَانِيّ",
-      "narrator_id": "8",
-      "full_name": "أبو إدريس الخولاني",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "عُثْمَانُ بنُ أَبِي العَاتِكَةِ",
-      "narrator_id": "9",
-      "full_name": "عثمان بن أبي العاتكة",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "إِسْماعِيْلُ بنُ عَيَّاشٍ",
-      "narrator_id": "10",
-      "full_name": "إسماعيل بن عيّاش",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "وَ لِيْدُ بنُ مُسْلِمٍ",
-      "narrator_id": "11",
-      "full_name": "وليد بن مسلم",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "أَبُو بَكْرٍ بنُ أَبِي مَرْيَمَ",
-      "narrator_id": "12",
-      "full_name": "أبو بكر بن أبي مريم",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "عَطِيَّةَ بنِ قَيْسٍ",
-      "narrator_id": "13",
-      "full_name": "عطية بن قيس",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "مُحَمَّدُ بنُ زِ يَادٍ األَلْهَانِيُّ",
-      "narrator_id": "14",
-      "full_name": "محمد بن زياد الألهاني",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "أرض الروم",
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "سُلَيْمَانُ بنُ المُغِيْرَةِ",
-      "narrator_id": "15",
-      "full_name": "سليمان بن المغيرة",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "حُمَيْدٍ الطَّوِيْل",
-      "narrator_id": "16",
-      "full_name": "حميد الطويل",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "عَنْبَسَةُ بنُ عَبْدِ الوَاحِدِ",
-      "narrator_id": "17",
-      "full_name": "عنبسة بن عبد الواحد",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "عَبْدِ المَلِكِ بنِ عُمَيْرٍ",
-      "narrator_id": "18",
-      "full_name": "عبد الملك بن عمير",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "بَقِيَّةُ",
-      "narrator_id": "19",
-      "full_name": "بقية",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "ضَمْرَةُ بنُ رَبِيْعَةَ",
-      "narrator_id": "20",
-      "full_name": "ضمراء بن ربيعة",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "بِالَ لِ بنِ كَعْب",
-      "narrator_id": "21",
-      "full_name": "بلا ل بن كعب",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "أَبُو مُسْهِرٍ",
-      "narrator_id": "22",
-      "full_name": "أبو مُسهر",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "سَعِيْدِ بنِ عَبْدِ العَزِ يْز",
-      "narrator_id": "23",
-      "full_name": "سعيد بن عبد العزيز",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "عَطَاءٍ الخُرَاسَانِي",
-      "narrator_id": "24",
-      "full_name": "عطاء الخراساني",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
+        "Unknown": "Unknown"
+      },
+      "teachers": [
+        {
+          "name": "عمر",
+          "relationship_type": "سمع من",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "معاذ بن جبل",
+          "relationship_type": "سمع من",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أبي عبيدة",
+          "relationship_type": "سمع من",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أبي ذر الغفاري",
+          "relationship_type": "سمع من",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عبادة بن الصامت",
+          "relationship_type": "سمع من",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "students": [
+        {
+          "name": "أبو إدريس الخولاني",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أبو العالية الرياحي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "جبير بن نفير",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عطاء بن أبي رباح",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "شرحبيل بن مسلم",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عطية بن قيس",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أبو قالة الجرمي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "محمد بن زياد الألهاني",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عمير بن هانئ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "يونس بن ميسرة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "narrator_id": "1",
+      "page_from": "1-3"
     },
     {
       "narrator": "أبو مسلم",
-      "narrator_id": "25",
       "full_name": "أبو مسلم الخولاني",
       "aliases": [],
       "birth_year": "Unknown",
       "death_year": "Unknown",
       "birthplace": "Unknown",
       "primary_locations": [
-        "صفين",
-        "أرض الروم"
+        "Unknown"
       ],
       "era": "Unknown",
       "travel_history": [
-        "إلى معاوية"
+        "Unknown"
       ],
       "did_travel_for_hadith": "Unknown",
       "memory_changes": "Unknown",
       "known_tadlis": "Unknown",
       "scholarly_reliability": [],
-      "scholarly_evaluations": {}
+      "scholarly_evaluations": {},
+      "teachers": [
+        {
+          "name": "أبي إدريس الخولاني",
+          "relationship_type": "حدثني",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أهل الشام",
+          "relationship_type": "سمع",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        }
+      ],
+      "students": [
+        {
+          "name": "معمر",
+          "relationship_type": "روى عن",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "محمد بن زياد الألهاني",
+          "relationship_type": "روى عن",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "بقية",
+          "relationship_type": "روى عن",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عطية بن قيس",
+          "relationship_type": "حدث",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "وليد بن عبد الملك",
+          "relationship_type": "سمع",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عثمان بن أبي العاتكة",
+          "relationship_type": "قال",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "سليمان بن المغيرة",
+          "relationship_type": "حدث",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عبسة بن عبد الواحد",
+          "relationship_type": "حدث",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أبو بشر بن أبي مريم",
+          "relationship_type": "حدث",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أبو مسهر",
+          "relationship_type": "حدث",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "شرحبيل بن مسلم",
+          "relationship_type": "حدث",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "ضمرة بن ربيعة",
+          "relationship_type": "حدث",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عطاء الخراساني",
+          "relationship_type": "حدث",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "محمد بن شعيب",
+          "relationship_type": "حدثنا",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "بعض المشيخة",
+          "relationship_type": "حدثنا",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "سعيد بن هانئ",
+          "relationship_type": "حدث",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "معاوية",
+          "relationship_type": "قال",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "المفضل بن غسان الغالبي",
+          "relationship_type": "قال",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أحمد بن حنبل",
+          "relationship_type": "حدثنا",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "بسر بن أبي أرطاة",
+          "relationship_type": "حدث",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "الزهري",
+          "relationship_type": "روى عن",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        }
+      ],
+      "narrator_id": "2",
+      "page_from": "4-6"
     },
     {
-      "narrator": "بسْرُ بنُ أَبِي أَرْ طَاة",
-      "narrator_id": "26",
-      "full_name": "بسْرُ بنُ أَبِي أَرْ طَاة",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "أبو بكر بن أبي مريم",
-      "narrator_id": "27",
-      "full_name": "أبو بكر بن أبي مريم",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "عطية بن قيس",
-      "narrator_id": "28",
-      "full_name": "عطية بن قيس",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "شرحبيل بن مسلم",
-      "narrator_id": "29",
-      "full_name": "شرحبيل بن مسلم",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "سعید بن عبدالعزیز",
-      "narrator_id": "30",
-      "full_name": "سعید بن عبدالعزیز",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "أحمد بن حنبل",
-      "narrator_id": "31",
-      "full_name": "أحمد بن حنبل",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "محمد بن شعيب",
-      "narrator_id": "32",
-      "full_name": "محمد بن شعيب",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "إسماعيل بن عيّاش",
-      "narrator_id": "33",
-      "full_name": "إسماعيل بن عيّاش",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "معاوية",
-      "narrator_id": "34",
-      "full_name": "معاوية",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "الراوي عبد الرحمن بن عبد المدني",
-      "narrator_id": "35",
+      "narrator": "القَارَّ ِ",
       "full_name": "عبد الرحمن بن عبد المدني",
       "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "أبو داود",
-      "narrator_id": "36",
-      "full_name": "أبو داود",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "الزبیر بن بکّار",
-      "narrator_id": "37",
-      "full_name": "الزبیر بن بکّار",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "عمر",
-      "narrator_id": "38",
-      "full_name": "عمر",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "أبي طلحه",
-      "narrator_id": "39",
-      "full_name": "أبي طلحه",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "أبي أيوب",
-      "narrator_id": "40",
-      "full_name": "أبي أيوب",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "عامر بن عبد قيس",
-      "narrator_id": "41",
-      "full_name": "عامر بن عبد قيس التميمي العنبري البصري",
-      "aliases": [
-        "أبو عبد الله",
-        "أبو عمر"
-      ],
-      "birth_year": "Unknown",
-      "death_year": "80",
-      "birthplace": "Unknown",
+      "birth_year": "أيام النبوة",
+      "death_year": "ثمانين",
+      "birthplace": "المدينة",
       "primary_locations": [
-        "البصرة"
+        "المدينة"
       ],
       "era": "Unknown",
-      "travel_history": [
-        "إلى الشام"
-      ],
+      "travel_history": [],
       "did_travel_for_hadith": "Unknown",
       "memory_changes": "Unknown",
       "known_tadlis": "Unknown",
@@ -869,96 +316,1816 @@
         "ثقة"
       ],
       "scholarly_evaluations": {
-        "ابن معين": "ثقة"
-      }
-    },
-    {
-      "narrator": "سلمان",
-      "narrator_id": "42",
-      "full_name": "سلمان",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "الحسن",
-      "narrator_id": "43",
-      "full_name": "الحسن",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "محمد بن سيرين",
-      "narrator_id": "44",
-      "full_name": "محمد بن سيرين",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [],
-      "era": "Unknown",
-      "travel_history": [],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
+        "ابن معين": "ثقّه"
+      },
+      "teachers": [
+        {
+          "name": "عمر",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبي طلحة",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبي أيوب",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "غيرهم",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        }
+      ],
+      "students": [
+        {
+          "name": "السائب بن يزيد",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "الزُّهْرِيّ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "العرَوة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "الأعرج",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "محمد (ابنه)",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "طائفة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        }
+      ],
+      "narrator_id": "3",
+      "page_from": "7-9"
     },
     {
       "narrator": "عامر بن عبد قيس",
-      "narrator_id": "45",
-      "full_name": "عامر بن عبد قيس",
+      "full_name": "عامر بن عبد قيس التميمي العنبري البصري",
+      "aliases": [
+        "أبو عبد الله",
+        "أبو عمر"
+      ],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "البصرة"
+      ],
+      "era": "تابعي",
+      "travel_history": [
+        "الشام"
+      ],
+      "did_travel_for_hadith": "نعم",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [
+        "ثقة",
+        "من عباد التابعين"
+      ],
+      "scholarly_evaluations": {
+        "العجلِيّ": "كان ثقة",
+        "كعب الأحبار": "رأه، فقال: هذا راهب هذه الأمة"
+      },
+      "teachers": [
+        {
+          "name": "عمر",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "سلمان",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "الحسن",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "محمد بن سيري",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبو عبد الرحمن الحبلِيّ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "غيرهم",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        }
+      ],
+      "students": [
+        {
+          "name": "عباد",
+          "relationship_type": "حدثنا",
+          "notable_narrations": []
+        },
+        {
+          "name": "يونس",
+          "relationship_type": "عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبي الحسين المجاشعي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "كعب",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبو عمران الجوني",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "همام",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "حماد",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أيوب",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "محمد بن واسع",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "يزيد بن الشخير",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "جعفر بن برقان",
+          "relationship_type": "حدثنا",
+          "notable_narrations": []
+        },
+        {
+          "name": "مَيْمُونُ بنُ مِهْرَان",
+          "relationship_type": "حدثنا",
+          "notable_narrations": []
+        },
+        {
+          "name": "مالك بن دينار",
+          "relationship_type": "حدثني",
+          "notable_narrations": []
+        },
+        {
+          "name": "عثمان بن عطاء الخراساني",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "جعفر بن سليمان",
+          "relationship_type": "قال",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبي قبة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "قتادة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "الحسن البصري",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "ابن المبارك",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        }
+      ],
+      "narrator_id": "4",
+      "page_from": "7-9"
+    },
+    {
+      "narrator": "أُوَيْسٌ",
+      "full_name": "أُوَيْسُ بنُ عَامِرٍ",
       "aliases": [],
       "birth_year": "Unknown",
       "death_year": "Unknown",
       "birthplace": "Unknown",
       "primary_locations": [
-        "الشام",
-        "البصرة"
+        "اليمن",
+        "مُرَاد",
+        "قَرَن",
+        "الكوفة"
+      ],
+      "era": "التابعين",
+      "travel_history": [
+        "سافر من اليمن إلى الكوفة"
+      ],
+      "did_travel_for_hadith": "نعم",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [
+        "Unknown"
+      ],
+      "scholarly_evaluations": {},
+      "teachers": [
+        {
+          "name": "عُمَرُ بنُ الخَطَّابِ",
+          "relationship_type": "سمع منه",
+          "notable_narrations": []
+        },
+        {
+          "name": "رسول الله صلى الله عليه وسلم",
+          "relationship_type": "سمع منه",
+          "notable_narrations": []
+        }
+      ],
+      "students": [],
+      "narrator_id": "5",
+      "page_from": "10-12"
+    },
+    {
+      "narrator": "أُسَيْرُ بنُ جَابِرٍ",
+      "full_name": "أُسَيْرُ بنُ جَابِرٍ",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "البصرة",
+        "الكوفة"
       ],
       "era": "Unknown",
       "travel_history": [
-        "إلى الشام"
+        "سافر إلى البصرة"
       ],
+      "did_travel_for_hadith": "نعم",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [
+        "Unknown"
+      ],
+      "scholarly_evaluations": {},
+      "teachers": [
+        {
+          "name": "عُمَرُ بنُ الخَطَّابِ",
+          "relationship_type": "سمع منه",
+          "notable_narrations": []
+        },
+        {
+          "name": "رسول الله صلى الله عليه وسلم",
+          "relationship_type": "سمع منه",
+          "notable_narrations": []
+        }
+      ],
+      "students": [
+        {
+          "name": "ابنُ مُثَنَّى",
+          "relationship_type": "حدثه",
+          "notable_narrations": []
+        },
+        {
+          "name": "محمد بن مُثَنَّى",
+          "relationship_type": "حدثه",
+          "notable_narrations": []
+        },
+        {
+          "name": "حماد بن سلمة",
+          "relationship_type": "حدثه",
+          "notable_narrations": []
+        },
+        {
+          "name": "سليمان بن المغيرة",
+          "relationship_type": "حدثه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبي نضرة",
+          "relationship_type": "حدثه",
+          "notable_narrations": []
+        }
+      ],
+      "narrator_id": "6",
+      "page_from": "10-12"
+    },
+    {
+      "narrator": "يُسَيْرُ بنُ عَمْرٍ",
+      "full_name": "يُسَيْرُ بنُ عَمْرٍ",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "Unknown"
+      ],
+      "era": "Unknown",
+      "travel_history": "Unknown",
       "did_travel_for_hadith": "Unknown",
       "memory_changes": "Unknown",
       "known_tadlis": "Unknown",
       "scholarly_reliability": [
         "Unknown"
       ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
+      "scholarly_evaluations": {},
+      "teachers": [
+        {
+          "name": "أُوَيْسُ بنُ عَامِرٍ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        }
+      ],
+      "students": [],
+      "narrator_id": "7",
+      "page_from": "10-12"
     },
     {
-      "narrator": "أُوَ يْسٌ القَرَنِيُّ أَبُو عَمْرٍ و",
-      "narrator_id": "46",
-      "full_name": "أُوَ يْسُ بنُ عَامِرِ بنِ جَزْ ءِ بنِ مَالِكٍ المُرَ ادِي",
+      "narrator": "أُوَيْسٌ بنُ عَامِرٍ",
+      "full_name": "أُوَيْسٌ بنُ عَامِرٍ القَرَنِيُّ",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "المدينة",
+        "الكوفة"
+      ],
+      "era": "التابعين",
+      "travel_history": [
+        "خرج من اليمن إلى الكوفة"
+      ],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [
+        "رجل من قرن"
+      ],
+      "scholarly_evaluations": {
+        "Unknown": "Unknown"
+      },
+      "teachers": [],
+      "students": [
+        {
+          "name": "أَبُو أُسَامَةَ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "سُلَيْمَانَ بنِ المُغِيْرَة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عُثْمَانُ بنُ عَطَاءٍ الخُرَ اسَانِيُّ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أَبُو المَكَارِمِ التَّيْمِيّ",
+          "relationship_type": "أخبرنا",
+          "notable_narrations": []
+        },
+        {
+          "name": "أَبُو عَلِيٍ  المُقْرِ ئُ",
+          "relationship_type": "أخبرنا",
+          "notable_narrations": []
+        },
+        {
+          "name": "أَبُو نُعَيْمٍ الحَافِظُ",
+          "relationship_type": "أخبرنا",
+          "notable_narrations": []
+        },
+        {
+          "name": "الضَّحَّاكُ بنُ مُزَاحِمٍ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "مَخْلَدِ بنِ يَزِ يْدَ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "نَوْفَلِ بنِ عَبْدِ هللاِ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        }
+      ],
+      "narrator_id": "8",
+      "page_from": "13-15"
+    },
+    {
+      "narrator": "عُمَرُ",
+      "full_name": "عُمَرُ بنُ الخَطَّاب",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "المدينة",
+        "الكوفة"
+      ],
+      "era": "Unknown",
+      "travel_history": [],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [],
+      "scholarly_evaluations": {
+        "Unknown": "Unknown"
+      },
+      "teachers": [],
+      "students": [],
+      "narrator_id": "9",
+      "page_from": "13-15"
+    },
+    {
+      "narrator": "هَرِمِ بنِ حَيَّانَ",
+      "full_name": "هَرِمِ بنِ حَيَّانَ",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "الكوفة"
+      ],
+      "era": "Unknown",
+      "travel_history": [
+        "سافر إلى الكوفة"
+      ],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [],
+      "scholarly_evaluations": {
+        "Unknown": "Unknown"
+      },
+      "teachers": [],
+      "students": [],
+      "narrator_id": "10",
+      "page_from": "13-15"
+    },
+    {
+      "narrator": "أُوَيْسٌ القَرَنِيّ",
+      "full_name": "أُوَيْسٌ القَرَنِيّ",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "Unknown"
+      ],
+      "era": "Unknown",
+      "travel_history": [
+        "Unknown"
+      ],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [
+        "ثقة",
+        "صادق"
+      ],
+      "scholarly_evaluations": {
+        "أبي أحمد بن عدي": "ثقة، صادق، ومالك",
+        "Unknown": "Unknown"
+      },
+      "teachers": [
+        {
+          "name": "رسول الله صلى الله عليه وسلم",
+          "relationship_type": "سماع",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        }
+      ],
+      "students": [],
+      "narrator_id": "11",
+      "page_from": "16-18"
+    },
+    {
+      "narrator": "أُصْبَغُ بنُ زَيْدٍ",
+      "full_name": "أُصْبَغُ بنُ زَيْدٍ",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "Unknown"
+      ],
+      "era": "Unknown",
+      "travel_history": [
+        "Unknown"
+      ],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [],
+      "scholarly_evaluations": {
+        "Unknown": "Unknown"
+      },
+      "teachers": [],
+      "students": [],
+      "narrator_id": "12",
+      "page_from": "16-18"
+    },
+    {
+      "narrator": "عمر بن الخطاب",
+      "full_name": "عمر بن الخطاب",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "Unknown"
+      ],
+      "era": "Unknown",
+      "travel_history": [
+        "Unknown"
+      ],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [],
+      "scholarly_evaluations": {
+        "Unknown": "Unknown"
+      },
+      "teachers": [],
+      "students": [],
+      "narrator_id": "13",
+      "page_from": "16-18"
+    },
+    {
+      "narrator": "مالك بن الحارث النخعي",
+      "full_name": "مالك بن الحارث النخعي",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "Unknown"
+      ],
+      "era": "Unknown",
+      "travel_history": [
+        "Unknown"
+      ],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [],
+      "scholarly_evaluations": {
+        "Unknown": "Unknown"
+      },
+      "teachers": [
+        {
+          "name": "عمر",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "خالد بن الوليد",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        }
+      ],
+      "students": [],
+      "narrator_id": "14",
+      "page_from": "16-18"
+    },
+    {
+      "narrator": "عبيدة بن عمرو",
+      "full_name": "عبيدة بن عمرو السلماني المرادِي الكوفي",
       "aliases": [
-        "أَبُو عَمْرٍ و"
+        "ابن قيس"
       ],
       "birth_year": "Unknown",
       "death_year": "Unknown",
-      "birthplace": "القَرَنِيُّ",
+      "birthplace": "أرض اليمن",
+      "primary_locations": [
+        "الكوفة"
+      ],
+      "era": "Unknown",
+      "travel_history": [
+        "Unknown"
+      ],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "مدلس",
+      "scholarly_reliability": [
+        "ثبت في الحديث",
+        "برع في الفقه",
+        "أحد الأعالم"
+      ],
+      "scholarly_evaluations": {
+        "ابن سيرين": "ما رأيت رجلاً كان أشَد توَقياً منه",
+        "أحمد العِجْلِيّ": "أحد أصحاب عبد الله بن مسعود الذين يُقرئون ويُفتون"
+      },
+      "teachers": [
+        {
+          "name": "علي",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "ابن مسعود",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "غيرهما",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        }
+      ],
+      "students": [
+        {
+          "name": "إبراهيم النخعي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "الشعبي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "محمد بن سيرين",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عبد الله بن",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        }
+      ],
+      "narrator_id": "15",
+      "page_from": "22-24"
+    },
+    {
+      "narrator": "عبد الرحمن بن غنم",
+      "full_name": "عبد الرحمن بن غنم الأشعري",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "فلسطين"
+      ],
+      "era": "Unknown",
+      "travel_history": [
+        "بُعث إلى الشام يُفَقِهُ الناس"
+      ],
+      "did_travel_for_hadith": "نعم",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [
+        "فقيه",
+        "إمام",
+        "شيخ أهل فلسطين",
+        "ثقة"
+      ],
+      "scholarly_evaluations": {
+        "ابن سعد": "ثقة"
+      },
+      "teachers": [
+        {
+          "name": "معاذ بن جبل",
+          "relationship_type": "حدث عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عمر بن الخطاب",
+          "relationship_type": "حدث عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أبي ذر الغفارِي",
+          "relationship_type": "حدث عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أبي مالك الأشعري",
+          "relationship_type": "حدث عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أبي الدرداء",
+          "relationship_type": "حدث عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "غيرهم",
+          "relationship_type": "حدث عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        }
+      ],
+      "students": [
+        {
+          "name": "ولده محمد",
+          "relationship_type": "حدث عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أبو سالم ممطوّر",
+          "relationship_type": "حدث عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "رجاء بن حيّوة",
+          "relationship_type": "حدث عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أبو إدريس الخولاني",
+          "relationship_type": "حدث عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "شهر بن حوشب",
+          "relationship_type": "حدث عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "مكحول",
+          "relationship_type": "حدث عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عبادة بن نسي",
+          "relationship_type": "حدث عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "صفوان بن سليم",
+          "relationship_type": "حدث عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "إسماعيل بن عبد الله",
+          "relationship_type": "حدث عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        }
+      ],
+      "narrator_id": "16",
+      "page_from": "22-24"
+    },
+    {
+      "narrator": "كثير بن مُرّة",
+      "full_name": "أبو شجرة الحضرمي",
+      "aliases": [
+        "الرُّهَاوِيُّ",
+        "الشَّامِيُّ",
+        "الحِمْصِيُّ",
+        "الأَعْرَج",
+        "أَبُو القَاسِم"
+      ],
+      "birth_year": "Unknown",
+      "death_year": "٧٧",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "فلسطين",
+        "الشام"
+      ],
+      "era": "التابعين",
+      "travel_history": [
+        "Unknown"
+      ],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [
+        "صَادِقاً",
+        "فَاضِلاً",
+        "كَبِيْرَ القَدْر"
+      ],
+      "scholarly_evaluations": {
+        "ابن سعد": "Unknown",
+        "أحمد العجلِيّ": "Unknown",
+        "ابن خراش": "صَدُوْ ق",
+        "النسائي": "لَ بَأْسَ بِه"
+      },
+      "teachers": [
+        {
+          "name": "النبي صلى الله عليه وسلم",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "معاذ بن جبل",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عمر بن الخطاب",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "تميم الداري",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عبادة بن الصامت",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عفان بن مالک",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أبي الدرداء",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "نعيم بن همار",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أبي هريرة",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عقبة بن عامر",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أبي فاطمة الأزدي",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "شرحبيل بن السمط",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عبد الله بن عمر",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "ابن عمر",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        }
+      ],
+      "students": [
+        {
+          "name": "أبي الزاهر حُدَيْر بن كُرَيْب",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "خالد بن معدان",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "صالح بن أبي عريب",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "مكحول",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "شريح بن عبيد",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عبد الرحمن بن جبير بن نفير",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "لقمان بن عامر",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "نصر بنعلقمة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عبد الرحمن بن عائذ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "آخرون",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "زيد بن واقد",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "مُرْ سَال"
+          ]
+        }
+      ],
+      "narrator_id": "17",
+      "page_from": "25-27"
+    },
+    {
+      "narrator": "هرم بن حيان",
+      "full_name": "هرم بن حيان العبدي البصري",
+      "aliases": [
+        "الأزدي",
+        "البصري",
+        "أحد العابدين"
+      ],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "المدينة",
+        "دمشق"
+      ],
+      "era": "Unknown",
+      "travel_history": [
+        "Unknown"
+      ],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "scholarly_reliability": [
+        "ثقة",
+        "له فضل وعبادة"
+      ],
+      "scholarly_evaluations": {
+        "ابن سعد": "Unknown",
+        "أبو القاسم ابن عساكر": "Unknown"
+      },
+      "teachers": [
+        {
+          "name": "عمر",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عثمان",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "يوسف بن عطية",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "المعلّى بن زياد",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "الحسن",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        }
+      ],
+      "students": [
+        {
+          "name": "الحسن البصري",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "آخرون",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "حُمَيْد بن هلال",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أبي عمرو الجوني",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "زيد بن ثابت",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "قتادة",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "السرى بن يحيى",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "هشام",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "وليد بن هشام القحذمي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        }
+      ],
+      "narrator_id": "18",
+      "page_from": "25-27"
+    },
+    {
+      "narrator": "أَسْوَد بن يزيد بن قيس",
+      "full_name": "أبو عمرو النخعي",
+      "aliases": [
+        "أبو عبد الرحمن",
+        "الكوفي"
+      ],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "الكوفة"
+      ],
+      "era": "Unknown",
+      "travel_history": [
+        "Unknown"
+      ],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "scholarly_reliability": [
+        "Unknown"
+      ],
+      "scholarly_evaluations": {
+        "ابن سعد": "Unknown"
+      },
+      "teachers": [
+        {
+          "name": "معاذ بن جبل",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "بلاال",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "ابن مسعود",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عائشة",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "حذيفة بن اليمان",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "طائفة غيرهم",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        }
+      ],
+      "students": [
+        {
+          "name": "ابنه عبد الرحمن",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أخوه",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "إبراهيم النخعي",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عمارة بن عمير",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أبي إسحاق السبيعي",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "الشعبي",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "آخرون",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        }
+      ],
+      "narrator_id": "19",
+      "page_from": "25-27"
+    },
+    {
+      "narrator": "الأسود بن يزيد",
+      "full_name": "عبد الرحمن بن الأسود بن يزيد",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "75",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "الكوفة"
+      ],
+      "era": "تابعي",
+      "travel_history": [
+        "حج ثمانين مرة بين الحج والعمرة"
+      ],
+      "did_travel_for_hadith": "نعم",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [],
+      "scholarly_evaluations": {
+        "Unknown": "Unknown"
+      },
+      "teachers": [
+        {
+          "name": "الصديق",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "عمر",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "علي",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "معاذ",
+          "relationship_type": "سمع من",
+          "notable_narrations": []
+        },
+        {
+          "name": "عبد الله بن أحمد",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "عبد الله بن صندل",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "فضيل بن عياض",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "ميمون",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "منصور",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "إبراهيم",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "الحكم",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "موسى بن عمير",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        }
+      ],
+      "students": [
+        {
+          "name": "عبد الرحمن بن الأسود",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "إسحاق بن طارق",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عبد الله بن مسعود",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "يحيى بن وثاب",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "إبراهيم النخعي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبو إسحاق السبيعي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "يحيى بن سعيد العطار",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "يزيد بن عطاء",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "علقمة بن مرثد",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "شعبة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "حمام",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "منصور",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        }
+      ],
+      "narrator_id": "20",
+      "page_from": "28-30"
+    },
+    {
+      "narrator": "علقمة بن مرثد",
+      "full_name": "علقمة بن مرثد",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "الكوفة"
+      ],
+      "era": "تابعي",
+      "travel_history": [
+        "سافر إلى الشام"
+      ],
+      "did_travel_for_hadith": "نعم",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [
+        "ثقة"
+      ],
+      "scholarly_evaluations": {
+        "يحيى بن معين": "ثقة"
+      },
+      "teachers": [
+        {
+          "name": "عبد الله بن مسعود",
+          "relationship_type": "سمع من",
+          "notable_narrations": []
+        },
+        {
+          "name": "إبراهيم النخعي",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "عمارة بن عمير",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        }
+      ],
+      "students": [
+        {
+          "name": "الأعمش",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "سفيان بن عيينة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        }
+      ],
+      "narrator_id": "21",
+      "page_from": "28-30"
+    },
+    {
+      "narrator": "علقمة",
+      "full_name": "علقمة بن وقاص بن محصن بن كلبة الليثي",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "المدينة",
+      "primary_locations": [
+        "المدينة"
+      ],
+      "era": "تابعي",
+      "travel_history": [
+        "Unknown"
+      ],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [
+        "ثقة",
+        "أحد العلماء"
+      ],
+      "scholarly_evaluations": {
+        "ابن سعد": "ثقة",
+        "النسائي": "Unknown"
+      },
+      "teachers": [
+        {
+          "name": "عمر",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عائشة",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "بلال بن الحارث المزني",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عمرو بن العاص",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "ابن عمر",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "Unknown",
+          "relationship_type": "Unknown",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        }
+      ],
+      "students": [
+        {
+          "name": "إبراهيم",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "الأعمش",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "مالك بن الحارث",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عبد الرحمن بن يزيد",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "شقيق",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "مسيب بن رفاع",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عمرو",
+          "relationship_type": "ولد له",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عبد الله",
+          "relationship_type": "ولد له",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "الزهري",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "ابن أبي مُلَيْكَة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "محمد بن إبراهيم التيمي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عمرو بن يحيى المازني",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "منصور",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "يحيى القطان",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "عبد الرحمن بن مهدي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "علي بن المديني",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        },
+        {
+          "name": "أبو عبد الله البخاري",
+          "relationship_type": "روى عنه",
+          "notable_narrations": [
+            "Unknown"
+          ]
+        }
+      ],
+      "narrator_id": "22",
+      "page_from": "31-33"
+    },
+    {
+      "narrator": "جنادة بن أبي أمية",
+      "full_name": "جنادة بن أبي أمية الأزدي الدوسي",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "Unknown"
+      ],
+      "era": "كبار التابعين",
+      "travel_history": [
+        "Unknown"
+      ],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [],
+      "scholarly_evaluations": {},
+      "teachers": [
+        {
+          "name": "معاذ بن جبل",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عمر",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبي الدرداء",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عبادة بن الصامت",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "بسر بن أبي أرطاة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        }
+      ],
+      "students": [
+        {
+          "name": "ولده سليمان",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "بسر بن سعيد",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "مجاهد بن جبر",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "رجاء بن حيوة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عبد الرحمن الصنابحي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبي الخير مرثد اليَزَنِيّ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "علي بن رباح",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عمير بن هانئ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عبادة بن نسي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "آخرون",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        }
+      ],
+      "narrator_id": "23",
+      "page_from": "34-36"
+    },
+    {
+      "narrator": "مسروق بن الأجدع",
+      "full_name": "مسروق بن الأجدع بن مالك الوادعي الهَمْداني",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
       "primary_locations": [
         "Unknown"
       ],
@@ -969,253 +2136,278 @@
       "did_travel_for_hadith": "Unknown",
       "memory_changes": "Unknown",
       "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
+      "scholarly_reliability": [],
+      "scholarly_evaluations": {},
+      "teachers": [
+        {
+          "name": "أُبي بن كعب",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عمر",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبي بكر الصديق",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أم رومان",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "معاذ بن جبل",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "خباب",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عائشة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "ابن مسعود",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عثمان",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "علي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عبد الله بن عمر",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "سبيعة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "معقل بن سنان",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "المغيرة بن شعبة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "زيد",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عبيد بن عمير",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        }
       ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
+      "students": [
+        {
+          "name": "الشعبي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "إبراهيم النخعي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "يحيى بن وثاب",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عبد الله بن مُرّة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبو وايل",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "يحيى بن الجزّار",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبو الضحى",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عبد الرحمن بن عبد الله بن مسعود",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عبيد بن نضيلة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "مكحول الشامي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبو إسحاق",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "محمد بن المنتشر",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "محمد بن نشر الهَمْداني",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبو الأحوص الجُشَمِيّ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أيوب بن هانئ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عمارة بن عمير",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "حبال بن رفيدة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أنس بن سيرين",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبي الشعثاء المحاربي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "آخرون",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        }
+      ],
+      "narrator_id": "24",
+      "page_from": "34-36"
     },
     {
-      "narrator": "عُقْبَة",
-      "narrator_id": "47",
-      "full_name": "عُقْبَة",
+      "narrator": "مسروق",
+      "full_name": "مسروق بن الأجدع",
       "aliases": [],
       "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "أرض الروم"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "بِالَ لُ بنُ سَعْدٍ",
-      "narrator_id": "48",
-      "full_name": "بِالَ لُ بنُ سَعْدٍ",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "أرض الروم"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "ابن المبارك",
-      "narrator_id": "49",
-      "full_name": "ابن المبارك",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "همام",
-      "narrator_id": "50",
-      "full_name": "همام",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "قتادة",
-      "narrator_id": "51",
-      "full_name": "قتادة",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "أبي الحسين المجاشعي",
-      "narrator_id": "52",
-      "full_name": "أبي الحسين المجاشعي",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "كعب",
-      "narrator_id": "53",
-      "full_name": "كعب",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "الشام"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "أبو عمران الجوني",
-      "narrator_id": "54",
-      "full_name": "أبو عمران الجوني",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "حماد",
-      "narrator_id": "55",
-      "full_name": "حماد",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
+      "death_year": "260",
       "birthplace": "Unknown",
       "primary_locations": [
         "Unknown"
       ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
+      "era": "تابعي",
+      "travel_history": [],
       "did_travel_for_hadith": "Unknown",
       "memory_changes": "Unknown",
       "known_tadlis": "Unknown",
       "scholarly_reliability": [
-        "Unknown"
+        "ثقة"
       ],
       "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
+        "أحمد بن حنبل": "لا يُسْأَلُ عَنْ مِثْلِه",
+        "يحيى بن معين": "ثِقَةٌ",
+        "علي بن المديني": "ما أُقَد ْمُ عَلَى مَسْرُوْ قٍ أَحَداً مِنْ أَصْحَابِ عَبْدِ هللاِ",
+        "العِجْلِيُّ": "ثِقَةٌ، كَانَ أَحَدَ أَصْحَابِ عَبْدِ هللاِ الَّذِيْنَ يُقْرِ ئُوْ ن وَ يُفْتُوْ ن"
+      },
+      "teachers": [
+        {
+          "name": "عبد الله بن عمرو",
+          "relationship_type": "روى عن",
+          "notable_narrations": []
+        },
+        {
+          "name": "عبد الله",
+          "relationship_type": "أصحاب عبد الله",
+          "notable_narrations": []
+        }
+      ],
+      "students": [
+        {
+          "name": "أبو الضحى",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أعمش",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "هلال بن يساف",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "الشعبي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "إبراهيم بن محمد بن المنتشر",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عثمان بن سعيد",
+          "relationship_type": "سأل عنه",
+          "notable_narrations": []
+        }
+      ],
+      "narrator_id": "25",
+      "page_from": "37-39"
     },
     {
-      "narrator": "أيوب",
-      "narrator_id": "56",
-      "full_name": "أيوب",
+      "narrator": "سويد بن غفلة",
+      "full_name": "سويد بن غفلة بن عوسجة بن عامر الجعفي",
       "aliases": [],
       "birth_year": "Unknown",
-      "death_year": "Unknown",
+      "death_year": "182",
       "birthplace": "Unknown",
       "primary_locations": [
         "Unknown"
       ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
+      "era": "صاحب",
+      "travel_history": [],
       "did_travel_for_hadith": "Unknown",
       "memory_changes": "Unknown",
       "known_tadlis": "Unknown",
@@ -1224,535 +2416,842 @@
       ],
       "scholarly_evaluations": {
         "Unknown": "Unknown"
-      }
+      },
+      "teachers": [
+        {
+          "name": "رسول الله",
+          "relationship_type": "سمع منه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبي بكر الصديق",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عمر",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عثمان",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "علي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        }
+      ],
+      "students": [
+        {
+          "name": "علي بن المديني",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "أحمد بن حنبل",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        }
+      ],
+      "narrator_id": "26",
+      "page_from": "37-39"
     },
     {
-      "narrator": "أبي قبة",
-      "narrator_id": "57",
-      "full_name": "أبي قبة",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
+      "narrator": "أبي تميم الجيّشاني",
+      "full_name": "عبد الله بن مالك بن أبي الأَسحَم",
+      "aliases": [
+        "أبي تميم الجيّشاني"
+      ],
+      "birth_year": "في حياة النبي صلى الله عليه وسلم",
+      "death_year": "سبع وسبعين",
       "birthplace": "Unknown",
       "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "محمد بن واسع",
-      "narrator_id": "58",
-      "full_name": "محمد بن واسع",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "يزيد بن الشخير",
-      "narrator_id": "59",
-      "full_name": "يزيد بن الشخير",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "جعفر بن برقان",
-      "narrator_id": "60",
-      "full_name": "جعفر بن برقان",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "البصرة"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "ميمون بن مهران",
-      "narrator_id": "61",
-      "full_name": "ميمون بن مهران",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "مالك بن دينار",
-      "narrator_id": "62",
-      "full_name": "مالك بن دينار",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "جعفر بن سليمان",
-      "narrator_id": "63",
-      "full_name": "جعفر بن سليمان",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "الجريري",
-      "narrator_id": "64",
-      "full_name": "الجريري",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "عثمان بن عطاء",
-      "narrator_id": "65",
-      "full_name": "عثمان بن عطاء الخُرَ اسَانِيُّ",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "الحسن البصري",
-      "narrator_id": "66",
-      "full_name": "الحسن البصري",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "البصرة",
-      "primary_locations": [
-        "البصرة"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "معاوية",
-      "narrator_id": "67",
-      "full_name": "معاوية",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "الشام"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "عثمان",
-      "narrator_id": "68",
-      "full_name": "عثمان",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {
-        "Unknown": "Unknown"
-      }
-    },
-    {
-      "narrator": "أُوَيْسٌ",
-      "narrator_id": "69",
-      "full_name": "أُوَيْسُ بنُ عَامِرٍ",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "مُرَاد",
-      "primary_locations": [
-        "اليَمَن",
-        "الكُوْفَة"
+        "مصر"
       ],
       "era": "التابعين",
       "travel_history": [
-        "من مُرَاد إلى قَرَن",
-        "إلى الكُوْفَة"
+        "قدم المدينة زمان عمر"
+      ],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [
+        "من أئمة التابعين بمصر",
+        "كان من أعبد أهل مصر"
+      ],
+      "scholarly_evaluations": {
+        "يزيد بن أبي حبيب": "كان من أعبد أهل مصر"
+      },
+      "teachers": [
+        {
+          "name": "عمر",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "علي",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أبي ذر",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "معاذ بن جبل",
+          "relationship_type": "Unknown",
+          "notable_narrations": "قرأ القرآن عليه"
+        }
+      ],
+      "students": [
+        {
+          "name": "عبد الله بن هبيرة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "كعب بن العلقة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "مرثد بن عبد الله اليَزَنِيّ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "بكر بن سودة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "غيرهم",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "narrator_id": "27",
+      "page_from": "40-42"
+    },
+    {
+      "narrator": "أبو سالم الجيّشاني",
+      "full_name": "سفيان بن هانئ المصري",
+      "aliases": [
+        "أبو سالم الجيّشاني"
+      ],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "مصر"
+      ],
+      "era": "Unknown",
+      "travel_history": [
+        "شهد فتح مصر"
+      ],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [],
+      "scholarly_evaluations": {},
+      "teachers": [
+        {
+          "name": "أبي ذر",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "علي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "زيد بن خالد",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "students": [
+        {
+          "name": "ابنه سالم",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "بكر بن سودة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "يزيد بن أبي حبيب",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عبيد الله بن أبي جعفر",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "حفيده سعيد بن سالم",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "narrator_id": "28",
+      "page_from": "40-42"
+    },
+    {
+      "narrator": "مرة الطيب بن شراحيل",
+      "full_name": "مرة بن شراحيل الهَمْداني الكوفي",
+      "aliases": [
+        "مرة الخير"
+      ],
+      "birth_year": "Unknown",
+      "death_year": "نيف و ثمانين",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "الكوفي"
+      ],
+      "era": "Unknown",
+      "travel_history": [],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [
+        "رجاله ثقات"
+      ],
+      "scholarly_evaluations": {},
+      "teachers": [
+        {
+          "name": "أبي بكر الصديق",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عمر",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أبي ذر",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "ابن مسعود",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أبي موسى الأشعري",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "جماعة",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "students": [
+        {
+          "name": "أسلم الكوفي",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "زبيد اليامي",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "حصين بن عبد الرحمن",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عطاء بن السائب",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "إسماعيل بن أبي خالد",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "آخرون",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "narrator_id": "29",
+      "page_from": "40-42"
+    },
+    {
+      "narrator": "الحارث بن قيس",
+      "full_name": "الحارث بن قيس الجُعْفي الكوفي",
+      "aliases": [],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "الكوفي"
+      ],
+      "era": "Unknown",
+      "travel_history": [],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [
+        "عابد، فقيه",
+        "صحب عليا وابن مسعود"
+      ],
+      "scholarly_evaluations": {},
+      "teachers": [
+        {
+          "name": "علي",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "ابن مسعود",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "students": [
+        {
+          "name": "خيثمة بن عبد الرحمن",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "narrator_id": "30",
+      "page_from": "40-42"
+    },
+    {
+      "narrator": "جبير بن نفير",
+      "full_name": "جبير بن نفير بن مالك بن عامر الحضرمي",
+      "aliases": [],
+      "birth_year": "أدرك حياة النبي صلى الله عليه وسلم",
+      "death_year": "خمس وسبعين",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "الشام"
+      ],
+      "era": "التابعين",
+      "travel_history": [],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [
+        "إمام كبير",
+        "من علماء أهل الشام"
+      ],
+      "scholarly_evaluations": {},
+      "teachers": [
+        {
+          "name": "أبي بكر",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عمر",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "المقداد",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أبي ذر",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أبي الدرداء",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عبادة بن الصامت",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عائشة",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أبي هريرة",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عدد",
+          "relationship_type": "Unknown",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "students": [
+        {
+          "name": "ولده عبد الرحمن",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "مكحول",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "خالد بن معدان",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أبي الزاهرية حُدَيْر بن كريب",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "رُبَيْعَة بن يزيد",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "شرحبيل بن مسلم",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "سُلَيْم بن عامر",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "آخرون",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "مالك بن يَخامِر السكسكي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أبي مسلم الخولاني",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أم الدرداء",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "narrator_id": "31",
+      "page_from": "40-42"
+    },
+    {
+      "narrator": "عَمْرُو بنُ األَسْوَ دِ",
+      "full_name": "عَمْرُو بنُ األَسْوَ دِ العَنْسِيّ",
+      "aliases": [
+        "عُمَيْرُ بنُ األَسْوَ دِ",
+        "أَبُو عِيَاض",
+        "أَبُو عَبْدِ الرَّحْمَنِ"
+      ],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "الحِمْصِ",
+        "دَارِ يَّا"
+      ],
+      "era": "التابعين",
+      "travel_history": [
+        "حَجَّ إلى المدينة"
       ],
       "did_travel_for_hadith": "نعم",
       "memory_changes": "Unknown",
       "known_tadlis": "Unknown",
       "scholarly_reliability": [
-        "مُتَّقٍ",
-        "مِنْ عِبَادِهِ المُخْلَصِينَ"
+        "ثقة",
+        "رفيع القدر من الجلة"
       ],
-      "scholarly_evaluations": {}
+      "scholarly_evaluations": {
+        "ابنُ معين": "Unknown",
+        "أبو زرعة": "رفيع القدر من الجلة",
+        "حُسَيْنٌ الجُعْفِيّ": "كان يُقال له: الكيس؛ لتلطفه في العبادة"
+      },
+      "teachers": [
+        {
+          "name": "عُمَرَ",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "ابْنِ مَسْعُوْ دٍ",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أَبِي الدَّرْ دَاءِ",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عُبَادَةَ بنِ الصَّامِتِ",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أُم ِ حَرَامٍ بِنْتِ مِلْحَانَ الشَّهِيَّه",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "العِرْبَاضِ بنِ سَارِيَة",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "صفوان بن عمرو",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عبد الرحمن بن جبير",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أبيه",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عمه؛ الأسود",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عم أبيه؛علقمة",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "students": [
+        {
+          "name": "زُبَيْدٌ اليَامِيُّ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "الحَكَمُ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "مَنْصُوْرٌ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "األَعْمَشُ",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "الحَسَنُ بنُ عَمْرٍو الفُقَيْمِي",
+          "relationship_type": "روى عنه",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "محمد بن عبد الرحمن بن يزيد النخعي",
+          "relationship_type": "ابن",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "narrator_id": "32",
+      "page_from": "43-45"
     },
     {
-      "narrator": "يُسَيْرُ بنُ عَمْرٍ",
-      "narrator_id": "70",
-      "full_name": "يُسَيْرُ بنُ عَمْرٍ",
+      "narrator": "عُمَيْرُ بنُ هَانِىء العَنْسِيُّ",
+      "full_name": "عُمَيْرُ بنُ هَانِىء العَنْسِيُّ الدَّارَ انِي",
       "aliases": [],
       "birth_year": "Unknown",
-      "death_year": "Unknown",
+      "death_year": "107",
       "birthplace": "Unknown",
       "primary_locations": [
-        "البَصْرَة"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "بَصْرِيٌّ"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "أَبُو عَبْدِ رَبٍّ الدِّمَشْقِيُّ",
-      "narrator_id": "71",
-      "full_name": "أَبُو عَبْدِ رَبٍّ الدِّمَشْقِيُّ",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "عَبْدُ الرَّحْمَنِ بنُ أَبِي لَيْلَى",
-      "narrator_id": "72",
-      "full_name": "عَبْدُ الرَّحْمَنِ بنُ أَبِي لَيْلَى",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [
-        "Unknown"
-      ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "أُسَيْرُ بنُ جَابِرٍ",
-      "narrator_id": "73",
-      "full_name": "أُسَيْرُ بنُ جَابِرٍ",
-      "aliases": [
-        "يُسَيْرُ بنُ عَمْرٍ"
-      ],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "البَصْرَة"
+        "دِمَشْق"
       ],
       "era": "التابعين",
       "travel_history": [
+        "سار رسولًا إلى الحجاج وهو يحاصر ابن الزبير",
+        "لِيَ الخَرَاجَ بِدِمَشْقَ لِعُمَرَ بنِ عَبْدِ العَزِيز"
+      ],
+      "did_travel_for_hadith": "نعم",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [
+        "تابعي صغير جليل"
+      ],
+      "scholarly_evaluations": {
+        "Unknown": "Unknown"
+      },
+      "teachers": [
+        {
+          "name": "ابْنِ عُمَر",
+          "relationship_type": "روى عن",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "students": [],
+      "narrator_id": "33",
+      "page_from": "43-45"
+    },
+    {
+      "narrator": "أَبُو األَسْوَ دِ الدُّؤَلِيُّ",
+      "full_name": "ظَالِمُ بنُ عَمْرٍو",
+      "aliases": [
+        "الد ِيْلِي"
+      ],
+      "birth_year": "Unknown",
+      "death_year": "Unknown",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "البصرة"
+      ],
+      "era": "Unknown",
+      "travel_history": [],
+      "did_travel_for_hadith": "Unknown",
+      "memory_changes": "Unknown",
+      "known_tadlis": "Unknown",
+      "scholarly_reliability": [
+        "عالمة، فاضل، قاضي البصرة"
+      ],
+      "scholarly_evaluations": {
+        "أحمد العجلِيّ": "ثقة",
+        "الواقِدِيّ": "أسلم في حياة النبي صلى الله عليه وسلم",
+        "Unknown": "Unknown"
+      },
+      "teachers": [
+        {
+          "name": "عُمَرَ",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عَلِيٍ",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أُبَي ِ بنِ كَعْبٍ",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "أَبِي ذَرٍ",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عَبْدِ هللاِ بنِ مَسْعُوْ دٍ",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "الزُّب.ٍيْرِ بنِ العَوَّ امِ",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "students": [
+        {
+          "name": "ابنه",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "نَصْرُ بنُ عَاصِ مٍ اللَّيْثِيُّ",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "حُمْرَ انُ بنُ أَعْيَنَ",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "يَحْيَى بنُ يَعْمَر",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "ابْنُ بُرَيْدَةَ",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        },
+        {
+          "name": "عُمَرُ مَوْ لَى غُفْرَةَ",
+          "relationship_type": "حدث",
+          "notable_narrations": "Unknown"
+        }
+      ],
+      "narrator_id": "34",
+      "page_from": "43-45"
+    },
+    {
+      "narrator": "أبي الأسود",
+      "full_name": "أبي الأسود الدؤلي",
+      "aliases": [
+        "أبي الأسود الظالم بن عمرو بن الظالم",
+        "عثمان بن عمرو",
+        "عمرو بن الظالم"
+      ],
+      "birth_year": "Unknown",
+      "death_year": "69",
+      "birthplace": "Unknown",
+      "primary_locations": [
+        "البصرة"
+      ],
+      "era": "Unknown",
+      "travel_history": [
         "Unknown"
       ],
       "did_travel_for_hadith": "Unknown",
       "memory_changes": "Unknown",
       "known_tadlis": "Unknown",
       "scholarly_reliability": [
-        "بَصْرِيٌّ",
-        "مِنْ أَصْحَابِ ابْنِ مَسْعُوْد"
+        "مقدم في طبقات الناس",
+        "معدود في الفقهاء والشعراء والمحدثين والأشراف والفرسان والأمراء والدهاء والنحاة والحاضرين الجواب والشيعة والبخلاء والصلع الأشراف"
       ],
-      "scholarly_evaluations": {}
+      "scholarly_evaluations": {
+        "الجاحظ": "مقدم في طبقات الناس، معدود في الفقهاء والشعراء والمحدثين والأشراف والفرسان والأمراء والدهاء والنحاة والحاضرين الجواب والشيعة والبخلاء والصلع الأشراف",
+        "ابن عساكر": "ظالم بن عمرو بن الظالم",
+        "الحازمي": "الدولي منسوب إلى دول بن حنيفه بن لجيم",
+        "أبي اليقظان": "الدول بضم الدال وسكون الواو من بكر بن وائل",
+        "ابن حبيب": "في عنزة الدول بن سعد مناة",
+        "أبو محمد بن قتيبة": "الدول في بني حنيفه",
+        "أبو علي الغساني": "الدؤلي على زنة العمري هكذا يقول البصريون منسوب إلى دؤل حي من كنانة",
+        "عيسى بن عمر": "بالكسر على الأصل",
+        "ابن فارس": "قبيلة من كنانة",
+        "أبو عبد الله البخاري": "الديل من بني حنيفه",
+        "محمد بن سلام الجُمحي": "الدئلي بضم الدال وكسر الهمزة",
+        "المبرد": "بضم الدال وفتح الهمزة من الدئل بالكسر"
+      },
+      "teachers": [],
+      "students": [],
+      "narrator_id": "35",
+      "page_from": "46-48"
     },
     {
-      "narrator": "أَبُو الخَبَّازِ",
-      "narrator_id": "74",
-      "full_name": "أَبُو الخَبَّازِ",
+      "narrator": "الأحنف بن قيس",
+      "full_name": "ضحاك بن صخر بن قيس الأحنف",
       "aliases": [],
       "birth_year": "Unknown",
       "death_year": "Unknown",
       "birthplace": "Unknown",
       "primary_locations": [
-        "البَصْرَة"
+        "Unknown"
       ],
       "era": "Unknown",
       "travel_history": [
         "Unknown"
       ],
       "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
+      "memory_changes": "قليل الرواية",
       "scholarly_reliability": [
-        "بَصْرِيٌّ"
+        "ثقة، مأمون",
+        "قليل الحديث",
+        "صديق لمُصعب بن الزبير"
       ],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "عُمَرُ بنُ الخَطَّابِ",
-      "narrator_id": "75",
-      "full_name": "عُمَرُ بنُ الخَطَّابِ",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "الكُوْفَة"
+      "scholarly_evaluations": {
+        "ابن سعد": "ثقة، مأمون، قليل الحديث",
+        "أحمد الحاكم": "افتتح مرو الروذ"
+      },
+      "teachers": [
+        {
+          "name": "عمر",
+          "relationship_type": "سماع",
+          "notable_narrations": []
+        },
+        {
+          "name": "علي",
+          "relationship_type": "سماع",
+          "notable_narrations": []
+        },
+        {
+          "name": "أبي ذر",
+          "relationship_type": "سماع",
+          "notable_narrations": []
+        },
+        {
+          "name": "العباس",
+          "relationship_type": "سماع",
+          "notable_narrations": []
+        },
+        {
+          "name": "ابن مسعود",
+          "relationship_type": "سماع",
+          "notable_narrations": []
+        },
+        {
+          "name": "عثمان بن عفان",
+          "relationship_type": "سماع",
+          "notable_narrations": []
+        }
       ],
-      "era": "الصحابة",
-      "travel_history": [
-        "Unknown"
+      "students": [
+        {
+          "name": "عمرو بن جاوة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "الحسن البصري",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عروة بن الزبير",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "طلق بن حبيب",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "عبد الله بن عميرة",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "يزيد بن الشخير",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        },
+        {
+          "name": "خليد العصري",
+          "relationship_type": "روى عنه",
+          "notable_narrations": []
+        }
       ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "أَبِي نَضْرَةَ",
-      "narrator_id": "76",
-      "full_name": "أَبِي نَضْرَةَ",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "حَمَّادُ بنُ سَلَمَةَ",
-      "narrator_id": "77",
-      "full_name": "حَمَّادُ بنُ سَلَمَةَ",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
-    },
-    {
-      "narrator": "الجُرَيْرِ ي",
-      "narrator_id": "78",
-      "full_name": "الجُرَيْرِ ي",
-      "aliases": [],
-      "birth_year": "Unknown",
-      "death_year": "Unknown",
-      "birthplace": "Unknown",
-      "primary_locations": [
-        "Unknown"
-      ],
-      "era": "Unknown",
-      "travel_history": [
-        "Unknown"
-      ],
-      "did_travel_for_hadith": "Unknown",
-      "memory_changes": "Unknown",
-      "known_tadlis": "Unknown",
-      "scholarly_reliability": [],
-      "scholarly_evaluations": {}
+      "narrator_id": "36",
+      "page_from": "46-48"
     }
   ]
 }
