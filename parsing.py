@@ -1,6 +1,7 @@
 import argparse
 import json
 import os
+import re
 from concurrent.futures import ProcessPoolExecutor
 from pathlib import Path
 
@@ -42,6 +43,149 @@ def process_page_range(pdf_path, start_page, end_page):
         print(f"Error processing pages {start_page}-{end_page}: {str(e)}")
     
     return results
+
+def extract_narrators_from_book(book):
+    """
+    Extract narrators from a book by analyzing the full text across all pages.
+    Handles narratives that might be split across multiple pages.
+    Ensures consecutive numbering of narrators.
+    
+    Args:
+        book: Book dictionary with pages
+        
+    Returns:
+        list: List of narrator dictionaries
+    """
+    # First, concatenate all the pages with page markers
+    full_text = ""
+    page_markers = {}
+    
+    for page in book['pages']:
+        # Mark the position where this page begins in the full text
+        page_markers[len(full_text)] = page['page_number']
+        full_text += page['text'] + "\n"
+    
+    expected_number = 1
+    found_narrators = {}
+    
+    # Improved pattern for Arabic narrator format:
+    # This pattern matches "{number} - {narrator_name}"
+    pattern = r'(\d+)\s*-\s*(\*?)\s*([^\n]+)'
+    
+    matches = re.finditer(pattern, full_text)
+    last_valid_number = 0
+    
+    for match in matches:
+        narrator_num_str = match.group(1).strip()
+        has_asterisk = bool(match.group(2))
+        narrator_text = match.group(3).strip()
+        
+        # Skip if the text after the hyphen starts with another number (like "40 - 42")
+        if re.match(r'^\d+', narrator_text):
+            print(f"Skipping number-number pattern: {narrator_num_str} - {narrator_text}")
+            continue
+        
+        try:
+            narrator_num = int(narrator_num_str)
+            
+            # Strict sequence checking
+            # Only accept if it's the expected next number or within a small tolerance
+            if narrator_num != expected_number:
+                # If far from expected sequence, skip it as likely not a real narrator
+                if abs(narrator_num - expected_number) > 2 and narrator_num != 1:  # Allow reset to 1
+                    print(f"Skipping out-of-sequence number: {narrator_num_str} - {narrator_text}")
+                    continue
+                    
+                # If it's a duplicate or going backwards significantly, skip
+                if narrator_num <= last_valid_number and narrator_num != 1:  # Allow reset to 1
+                    print(f"Skipping duplicate or backwards number: {narrator_num_str} - {narrator_text}")
+                    continue
+                
+                print(f"Warning: Expected narrator number {expected_number}, but found {narrator_num}")
+            
+            # Clean up the narrator text - remove trailing punctuation and special chars
+            narrator_text = re.sub(r'[،.؟:!]$', '', narrator_text).strip()
+            
+            # Skip if this narrator number already exists
+            if narrator_num in found_narrators:
+                print(f"Warning: Duplicate narrator number found: {narrator_num}")
+                continue
+            
+            # Update last valid number and expected number
+            last_valid_number = narrator_num
+            expected_number = narrator_num + 1
+            
+            # Find the starting page for this narrator
+            start_position = match.start()
+            start_page = None
+            for pos, page_num in sorted(page_markers.items()):
+                if pos <= start_position:
+                    start_page = page_num
+                else:
+                    break
+            
+            # To find the end position of this narrator's content, look for the start of the next narrator
+            # or use a reasonable amount of text if this is the last narrator
+            next_narrator_pattern = r'(?:\n|\A)(\d+)\s*-\s*(?:\n\*|\*)?'
+            next_narrator_matches = list(re.finditer(next_narrator_pattern, full_text))
+            
+            # Find the next narrator after the current one
+            end_position = None
+            for i, next_match in enumerate(next_narrator_matches):
+                if next_match.start() > match.start():
+                    end_position = next_match.start()
+                    break
+            
+            # If no next narrator found, use the end of the text
+            if end_position is None:
+                end_position = len(full_text)
+                
+            # Extract the full content for this narrator
+            full_content = full_text[match.start():end_position].strip()
+                
+            # Find ending page (where the narrator text ends)
+            end_page = start_page
+            for pos, page_num in sorted(page_markers.items()):
+                if pos <= end_position:
+                    end_page = page_num
+                else:
+                    break
+            
+            # Create pages list if narrative spans multiple pages
+            span_pages = list(range(start_page, end_page + 1))
+            
+            # Extract first line as narrator name
+            narrator_name = narrator_text.split('\n')[0].strip()
+            
+            # Store the narrator entry
+            found_narrators[narrator_num] = {
+                'number': narrator_num_str,
+                'narrator': narrator_name,       # Just the name line
+                'full_text': full_content,       # Full content including header
+                'narrator_content': narrator_text, # Just the narrator text content
+                'start_page': start_page,
+                'end_page': end_page,
+                'span_pages': span_pages
+            }
+            
+            # Update expected number for the next narrator
+            expected_number = narrator_num + 1
+            
+        except ValueError:
+            print(f"Warning: Invalid narrator number format: {narrator_num_str}")
+    
+    # Convert the found_narrators dict to a sorted list
+    narrators = [found_narrators[num] for num in sorted(found_narrators.keys())]
+    
+    # Check for gaps in narrators
+    if narrators:
+        all_numbers = [int(n['number']) for n in narrators]
+        max_num = max(all_numbers)
+        missing = [i for i in range(1, max_num + 1) if i not in all_numbers]
+        if missing:
+            print(f"Warning: Missing narrator numbers: {missing}")
+    
+    return narrators
 
 def extract_pdf_to_book(pdf_path, pages_per_process=10, max_workers=None):
     """
@@ -96,7 +240,11 @@ def extract_pdf_to_book(pdf_path, pages_per_process=10, max_workers=None):
             }
         }
         
-        print(f"Successfully extracted {total_pages} pages")
+        # Extract narrators from the complete book
+        narrators = extract_narrators_from_book(book)
+        book['narrators'] = narrators
+        
+        print(f"Successfully extracted {total_pages} pages and {len(narrators)} narrators")
         return book
         
     except Exception as e:
@@ -120,9 +268,32 @@ def save_book_to_json(book, output_path):
             json.dump(book, f, ensure_ascii=False, indent=2)
         
         print(f"Successfully saved book with {book['total_pages']} pages to {output_path}")
+        print(f"Total narrators extracted: {len(book.get('narrators', []))}")
         
     except Exception as e:
         print(f"Error saving book to JSON: {str(e)}")
+        raise
+
+def save_narrators_to_json(narrators, output_path):
+    """
+    Save just the narrators dictionary to a JSON file.
+    
+    Args:
+        narrators: List of narrator dictionaries
+        output_path: Path to save the JSON output
+    """
+    try:
+        # Create output directory if it doesn't exist
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        
+        # Save to JSON
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(narrators, f, ensure_ascii=False, indent=2)
+        
+        print(f"Successfully saved {len(narrators)} narrators to {output_path}")
+        
+    except Exception as e:
+        print(f"Error saving narrators to JSON: {str(e)}")
         raise
 
 def get_sample_book():
@@ -132,19 +303,19 @@ def get_sample_book():
     This sample represents a very small Arabic book with just a few pages.
     In a real application, you'd replace this with actual extraction from a PDF.
     """
-    # Sample Arabic text (small snippets for demonstration)
+    # Sample Arabic text with narrators split across pages
     sample_text = [
         # First page - book title and introduction
         "كتاب الأدب العربي\n\nمقدمة في تاريخ الأدب العربي وتطوره عبر العصور",
         
-        # Second page - chapter title and content
-        "الفصل الأول: العصر الجاهلي\n\nيعتبر العصر الجاهلي من أهم العصور في الأدب العربي حيث ظهرت فيه المعلقات والقصائد الشهيرة...",
+        # Second page - chapter title and start of first narrator
+        "الفصل الأول: العصر الجاهلي\n\n1 - المَجْنُوْنُ قَيْسُ بنُ المُلَوِّحِ العَامِرِي\nيعتبر العصر الجاهلي من أهم العصور في الأدب العربي",
         
-        # Third page - more content
-        "استمرار الفصل الأول\n\nمن أبرز شعراء العصر الجاهلي: امرؤ القيس، وزهير بن أبي سلمى، وعنترة بن شداد...",
+        # Third page - continuation of first narrator and start of second
+        "حيث ظهرت فيه المعلقات والقصائد الشهيرة...\n\n2 - امرؤ القيس بن حجر الكندي\nمن أبرز شعراء",
         
-        # Fourth page - new chapter
-        "الفصل الثاني: العصر الإسلامي\n\nمع ظهور الإسلام، تأثر الأدب العربي بالقيم الإسلامية وظهرت أغراض جديدة في الشعر..."
+        # Fourth page - continuation of second narrator and start of third
+        "العصر الجاهلي: امرؤ القيس، وزهير بن أبي سلمى، وعنترة بن شداد...\n\n3 - حسان بن ثابت الأنصاري\nمع ظهور الإسلام"
     ]
     
     # Construct sample book structure
@@ -166,6 +337,10 @@ def get_sample_book():
             'word_count': sum(len(text.split()) for text in sample_text)
         }
     }
+    
+    # Extract narrators from the sample book
+    narrators = extract_narrators_from_book(sample_book)
+    sample_book['narrators'] = narrators
     
     return sample_book
 
@@ -216,10 +391,17 @@ def main():
     # Access and work with the book variable here if needed
     print(f"Book title: {book['metadata'].get('title', 'Unknown')}")
     print(f"Total pages: {book['total_pages']}")
+    print(f"Total narrators: {len(book.get('narrators', []))}")
     print(f"Total words: {book['metadata'].get('word_count', 'Unknown')}")
     
     # Save book to JSON
     save_book_to_json(book, args.output)
+    
+    # Generate narrators output path and save narrators separately
+    narrators_output = str(Path(args.output).with_name(
+        f"{Path(args.output).stem}_narrators.json"
+    ))
+    save_narrators_to_json(book.get('narrators', []), narrators_output)
 
 if __name__ == "__main__":
     main()

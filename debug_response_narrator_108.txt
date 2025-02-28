@@ -1,0 +1,197 @@
+{
+    "narrators": [
+        {
+            "narrator": "أَبُو سَلَمَةَ بنُ عَبْدِ الرَّ حْمَنِ بنِ عَوْ فٍ الزُّهْرِ ي",
+            "full_name": "أَبُو سَلَمَةَ بنُ عَبْدِ الرَّ حْمَنِ بنِ عَوْ فٍ بنِ عَبْدِ عَوْ فٍ بنِ عَبْدِ بنِ الحَارِ ثِ بنِ زُهْرَةَ بنِ كِالَ بِ بنِ مُرَّةَ بنِ كَعْبٍ القُرَشِيُّ، الزُّهْرِ يُّ، الحَا.ِفِظُ",
+            "aliases": ["عَبْدُ هللا", "إِسْمَاعِيْل"],
+            "birth_year": "بِضْعٍ وَ عِشْرِ يْن",
+            "death_year": "أَرْ بَعٍ وَ تِسْعِيْنَ",
+            "birthplace": "المَدِيْنَة",
+            "primary_locations": ["المَدِيْنَة"],
+            "era": "تابعي",
+            "travel_history": ["البَصْرَةَ", "مِصْرَ", "الكُوْ فَةَ"],
+            "did_travel_for_hadith": "نعم",
+            "memory_changes": "غير معروف",
+            "known_tadlis": "لا",
+            "scholarly_reliability": ["ثقة", "فقيه", "كثير الحديث"],
+            "scholarly_evaluations": {
+                "ابن سَعْد": "ثقة، فقيه، كثير الحديث",
+                "أَبُو زُرْ عَة": "ثقة، إمام",
+                "شُعْبَة": "في زمانه خير من ابن عمر في زمانه",
+                "مَالِك": "كان عندنا من رجال أهل العلم"
+            },
+            "teachers": [
+                {
+                    "name": "أَبِيْهِ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["شيء قليل"]
+                },
+                {
+                    "name": "أُسَامَةَ بنِ زَيْدٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "عَبْدِ هللاِ بنِ سَالَ مٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "أَبِي أَيُّوْ بَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "عَائِشَةَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "أُم ِ س ٍلَمَةَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "زَ يْنَبَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "أُم ِ سُلَيْمٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "أَبِي هُرَيْرَةَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "أَبِي أُسَيْد",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "مُعَيْقِيْبٍ الدَّوْ سِي",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "المُغِيْرَةِ بنِ شُعْبَةَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "أَبِي الدَّرْ دَاء",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "عُثْمَانَ بنِ عَفَّانَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "حَسَّانِ بنِ ثَابِتٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "ث َوْ ب ،َان",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "حَمْزَةَ بنِ عَمْرٍ و األَسْلَمِي",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "عُبَادَةَ بنِ الصَّامِت",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "طَلْحَةَ بنِ عُبَيْدِ هللا",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "رَ بِيْعَةَ بنِ كَعْبٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "عَبْدِ هللاِ بنِ عَمْرٍ و",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "ابْنِ عَبَّاسٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "ابْنِ عُمَرَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "جَابِرٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "زَيْدِ بنِ خَالِدٍ الجُهَن ي",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "نَافِعِ بنِ عَبْدِ الحَارِ ثِ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "بُسْرِ بنِ سَعِيْدٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "جَعْفَرِ بنِ عَمْرِ و بنِ أُمَيَّةَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "عُرْ وَ ةَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "عَطَاءِ بنِ يَسَارٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "عُمَر بنِ عَبْدِ العَزِ يْز",
+                    "relationship_type": "سماع",
+                    "notable_narrations": []
+                }
+            ],
+            "students": [
+                {
+                    "name": "عُمَرُ بنُ أَبِي سَلَمَةَ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "سَعْدُ بنُ إِبْرَ اهِيْمَ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "عَبْدُ المَجِ يْدِ بنُ س ُّهَيْلٍ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": []
+                },
+                {
+                    "name": "زُرَ ار

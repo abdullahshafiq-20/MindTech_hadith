@@ -1,0 +1,187 @@
+```json
+{
+    "narrators": [
+        {
+            "narrator": "الحَسَنُ البَصْرِ يُّ أَبُو سَعِيْدٍ",
+            "full_name": "الحَسَنُ بنُ أَبِي ا ٍلحَسَنِ يَسَارٍ ، أَبُو سَعِيْدٍ، مَوْ لَى زَيْدِ بنِ ثَابِت",
+            "aliases": ["الحَسَنُ البَصْرِ يُّ", "أَبُو سَعِيْدٍ"],
+            "birth_year": "غير معروف",
+            "death_year": "120 هـ",
+            "birthplace": "المدينة",
+            "primary_locations": ["البَصْرَة"],
+            "era": "تابع",
+            "travel_history": ["البَصْرَة", "المَدِيْنَة"],
+            "did_travel_for_hadith": "نعم",
+            "memory_changes": "غير معروف",
+            "known_tadlis": "نعم",
+            "scholarly_reliability": ["ثقة", "فقيه", "مأمون"],
+            "scholarly_evaluations": {
+                "يحيى بن معين": "لم يسمع من أبي هريرة",
+                "البخاري": "لم يسمع من سلمة بن المخزوم",
+                "ابن سعد": "جامع، عالم، رفيق، فقيه، ثقة، حجة، مأمون، عابد، ناسك، كثير العلم"
+            },
+            "teachers": [
+                {
+                    "name": "عِمْرَانَ بنُ حُصَيْنٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "المُغِيْرَةِ بنِ شُعْبَةَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "عَبْدِ الرَّ حْمَنِ بنِ سَمُرَةَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "سَمُرَةَ بنِ جُنْدَبٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "أَبِي بَكْرَةَ الثَّقَفِي ِ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "النُّعْمَانِ بنُ بُشَيْرٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "جَابِرٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "جُنْد ْبٍ البَجَلِي ِ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "ابْنِ عَبَّاسٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "عَمْرِ و بنِ تَغْلِبٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "مَعْقِلِ بنِ يَسَارٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "األَسْوَ دِ بنِ سَرِ يْعٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "أَنَسٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["روى عنه"]
+                }
+            ],
+            "students": [
+                {
+                    "name": "أَيُّوْ بُ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "شَيْبَانُ النَّحْوِيُّ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "يُوْ نُسُ بنُ عُبَيْدٍ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "ابْنُ عَوْ نٍ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "حُمَيْدٌ الطَّوِيْلُ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "ثَابِتٌ الب ُنَانِيُّ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "مَالِكُ بنُ دِيْنَارٍ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "هِشَامُ بن  َح ،ٍسَّان",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "جَرِ يْرُ بنُ حَازِ مٍ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "الرَّبِيْعُ بنُ صَبِيْحٍ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "يَزِ يْدُ بنُ إِبْرَ اهِيْمَ التُّسْتَرِ يُّ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "مُبَارَكُ بنُ فَضَالَةَ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "أَبَانُ بنُ يَزِ يْدَ العَطَّارُ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "قُرَّةُ بنُ خَال ،ٍد",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "حَزْ مٌ القُطَعِيُّ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "سَالِمُ بنُ مِسْكِيْنٍ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "شُمَيْطُ بن  ُعَجْالَ نَ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "صَالِحٌ أَبُو عَامِرٍ الخَزَّ ازُ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "عَبَّادُ بنُ رَ اشِدٍ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["روى عنه"]
+                },
+                {
+                    "name": "أَبُو حَرِ يْزٍ عَبْدُ هللاِ بن  ُّالحُسَ

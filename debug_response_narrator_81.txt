@@ -1,0 +1,182 @@
+```json
+{
+    "narrators": [
+        {
+            "narrator": "ُّقَيْسُ بنُ أَبِي حَازِ مٍ أَبُو عَبْدِ هللاِ البَجَلِي",
+            "full_name": "ُّقَيْسُ بنُ أَبِي حَازِ مٍ أَبُو عَبْدِ هللاِ البَجَلِيُّ، األَحْمَسِيُّ، الكُوْ فِي",
+            "aliases": ["أَبُو عَبْدِ هللاِ البَجَلِيُّ", "األَحْمَسِيُّ", "الكُوْ فِي"],
+            "birth_year": "Unknown",
+            "death_year": "ثَمَانٍ وَ تِسْعِيْن",
+            "birthplace": "Unknown",
+            "primary_locations": ["الكوفة"],
+            "era": "تابع",
+            "travel_history": ["Unknown"],
+            "did_travel_for_hadith": "غير معروف",
+            "memory_changes": "كَبِرَ قَيْسٌ حَتَّى جَازَ المائَةَ بِسِنِيْنَ كَثِيْرَةٍ، حَتَّى خَرِ فَ ، وَ ذَهَبَ عَقْلُه",
+            "known_tadlis": "لا",
+            "scholarly_reliability": ["العَالِمُ، الث ِقَةُ، الحَافِظُ"],
+            "scholarly_evaluations": {
+                "سُفْيَانُ بنُ عُيَيْنَةَ": "مَا كَانَ بِالكُوْ فَةِ أَحَدٌ أَرْ وَ ى عَنْ أَصْحَابِ رَسُوْ لِ هللاِ صلى هللا عليه وسلم مِن قَيْسِ بنِ أَبِي حَازِ م",
+                "أَبُو دَاوُ دَ": "أَجْوَ دُ التَّابِعِيْنَ إِسْنَاداً قَيْس",
+                "عَبْدُ الرَّ حْمَنِ بنُ خِ رَ اشٍ": "هُوَ كُوْ فِيٌّ جَلِيْلٌ، لَيْسَ فِي التَّابِعِيْنَ أَحَدٌ رَوَ ى عَنِ العَشْرَة إَِل قَيْسُ بنُ أَبِي حَازِ م"
+            },
+            "teachers": [
+                {
+                    "name": "أَبِي بَكْرٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "عُمَرَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "عُثْمَانَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "عَلِيٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "عَمَّارِ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "ابْنِ مَسْعُوْ دٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "خَالِدٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "الزُّبَيْرِ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "خَب ،ٍابٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "حُذَيْفَةَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "مُعَاذٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "طَلْحَةَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "سَعْد",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "سَعِيْدِ بنِ زَيْدٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "عَائِشَةَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "أَبِي مُوْ سَى",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "ع مْرٍ و",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "مُعَاوِيَةَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "المُغِيْرَةِ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "بِالَ لٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "جَرِ يْرٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "عَدِي ِ بنِ عُمَيْرَةَ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "عُقْبَةَ بنِ عَامِرٍ",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "أَبِي مَسْعُوْ دٍ عُقْبَةَ بنِ عَمْرٍ و",
+                    "relationship_type": "سماع",
+                    "notable_narrations": ["Unknown"]
+                }
+            ],
+            "students": [
+                {
+                    "name": "أَبُو إِسْحَاقَ السَّبِيْعِيُّ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "المُغِيْرَةُ بنُ شُبَيْل",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "بَيَانُ بنُ بِشْرٍ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "إِسْمَاعِيْلُ بنُ أَبِي خَالِدٍ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "سُلَيْمَانُ األَعْمَشُ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "م ُجَالِدُ بن سَعِيْدٍ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "عُمَرُ بنُ أَبِي زَ ائِدَةَ",
+                    "relationship_type": "أخذ عنه",
+                    "notable_narrations": ["Unknown"]
+                },
+                {
+                    "name": "الحَكَمُ بن
