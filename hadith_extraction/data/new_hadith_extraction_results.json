@@ -1,0 +1,1261 @@
+{
+  "total_pages_processed": 443,
+  "valid_entries_processed": 360,
+  "hadiths_extracted": 126,
+  "results": [
+    {
+      "hadith": "وخير الهدي هدي محمد ﷺ",
+      "context": "Opening remarks of a sermon or lecture.",
+      "explanation": "The best guidance is the guidance of Muhammad (peace be upon him).",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 19)",
+      "source_index": 19
+    },
+    {
+      "hadith": "لأسن سُنَّة حسنة، وإنْ سبقني إليها غيري فأنا أُحييها",
+      "context": "The author is explaining why he included a large number of names of contributors in the book's acknowledgements.",
+      "explanation": "The author states his intention to establish a good practice, and if others have done it before, he is reviving it.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 22)",
+      "source_index": 22
+    },
+    {
+      "hadith": "قَدْ أَفْلَحَ مَن رَّكَّهَا وَقَدْ خَابَ مَن دَسَّمَهَا",
+      "context": "The text presents this as a saying related to the topic of scientific work and its proper attribution.",
+      "explanation": "This is a saying that translates to: \"He has succeeded who has purified it, and he has failed who has corrupted it.\"",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 23",
+      "source_index": 23
+    },
+    {
+      "hadith": "أين تحري الحلال، والبعد عن المشتبهات؟",
+      "context": "The text is discussing the importance of seeking halal and avoiding the doubtful.",
+      "explanation": "This is a rhetorical question emphasizing the importance of seeking what is permissible (halal) and avoiding the doubtful matters.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 28)",
+      "source_index": 28
+    },
+    {
+      "hadith": "أين درء المفاسد وسد الذرائع؟",
+      "context": "The text is discussing the importance of preventing harm and blocking the means to evil.",
+      "explanation": "This is a rhetorical question emphasizing the importance of preventing harm and blocking the means to evil.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 28)",
+      "source_index": 28
+    },
+    {
+      "hadith": "ولا يزال الرجل يكذب ويتحرى الكذب حتى يكتب عِند اللهِ كذابًا",
+      "context": "The text discusses the characteristics of someone who lies frequently.",
+      "explanation": "A person who continually lies and seeks out falsehood will eventually be recorded as a liar in the sight of Allah.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 31)",
+      "source_index": 31
+    },
+    {
+      "hadith": "هو علم الحديث الشريف الذي تُعرف به جوامع الكلم، وتنفجر منه ينابيع الحكم وتدور عليه رحى الشر ع بالأثر، وهو ملاك كل أمر ونهي",
+      "context": "Describing the importance of the science of hadith.",
+      "explanation": "This section highlights the importance of the science of hadith, emphasizing its role in understanding the Prophet's concise and comprehensive speech, the sources of wisdom, and the basis for all commands and prohibitions.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 37)",
+      "source_index": 37
+    },
+    {
+      "hadith": "كيف وهو كلام رسول اللّ 䋦، والرسول أشرف الخلق كلهم أجمعين .. وهو تلو كلام الله تعالى، وثاني أدلة الأحكام",
+      "context": "Further emphasizing the importance of hadith.",
+      "explanation": "This part emphasizes the importance of the Prophet's words (hadith), highlighting that they are second only to the words of Allah (Quran) and are a primary source of legal rulings.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 37)",
+      "source_index": 37
+    },
+    {
+      "hadith": "ويقول عبد الله بن المبارك ت١٨١هـ: الإسناد من الدين، ولولا الإسناد لقال من شاء ما شاء().",
+      "context": "Discussing the importance of the chain of narration (isnad) in hadith.",
+      "explanation": "Abdullah ibn al-Mubarak states that the isnad (chain of narration) is from the religion, and without it, anyone could say whatever they wanted.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 39)",
+      "source_index": 39
+    },
+    {
+      "hadith": "وعنه أيضًا: مثل الذي يطلب أمر دينه بلا إسناد كمثل الذي يرتقي السطح بلا سلم.",
+      "context": "Discussing the importance of the chain of narration (isnad) in hadith.",
+      "explanation": "Abdullah ibn al-Mubarak compares seeking religious knowledge without a chain of narration to climbing to a roof without a ladder.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 39)",
+      "source_index": 39
+    },
+    {
+      "hadith": "والأثر رواه مسلم في المقدمة باب: بيان أن الإسناد من الدين.",
+      "context": "Discussing the importance of the chain of narration (isnad) in hadith.",
+      "explanation": "This refers to the hadith that states the isnad is from the religion, and it was narrated by Muslim in the introduction to his Sahih.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 40)",
+      "source_index": 40
+    },
+    {
+      "hadith": "قال سبحانه وتعالى : }قُلْ إِن كُنتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهُ { (آل عمران: ٣١)",
+      "context": "Supporting the authenticity of the Sunnah, the text quotes verses from the Quran and mentions the Prophet's (ﷺ) sayings.",
+      "explanation": "This is a verse from the Quran (Surah Al-Imran, 3:31), not a hadith. It states that if people love Allah, they should follow the Prophet (ﷺ), and then Allah will love them.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 42",
+      "source_index": 42
+    },
+    {
+      "hadith": "وقال : }يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ فَإِن تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا (١) [النساء: ٥٩]",
+      "context": "Supporting the authenticity of the Sunnah, the text quotes verses from the Quran and mentions the Prophet's (ﷺ) sayings.",
+      "explanation": "This is a verse from the Quran (Surah An-Nisa, 4:59), not a hadith. It commands believers to obey Allah, the Messenger, and those in authority, and to refer disputes to Allah and the Messenger.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 42",
+      "source_index": 42
+    },
+    {
+      "hadith": "قـــد قـــال : : }فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمًا (1) [النساء: ٦٥]",
+      "context": "Supporting the authenticity of the Sunnah, the text quotes verses from the Quran and mentions the Prophet's (ﷺ) sayings.",
+      "explanation": "This is a verse from the Quran (Surah An-Nisa, 4:65), not a hadith. It states that people will not truly believe until they accept the Prophet's (ﷺ) judgment and submit to it completely.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 42",
+      "source_index": 42
+    },
+    {
+      "hadith": "وقال: }لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا (١) [الأحزاب: ٢١]",
+      "context": "Supporting the authenticity of the Sunnah, the text quotes verses from the Quran and mentions the Prophet's (ﷺ) sayings.",
+      "explanation": "This is a verse from the Quran (Surah Al-Ahzab, 33:21), not a hadith. It states that the Prophet (ﷺ) is a good example for those who hope for Allah and the Last Day.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 42",
+      "source_index": 42
+    },
+    {
+      "hadith": "وقال: }وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانتَهُوا وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ [الحشر: ٧]",
+      "context": "Supporting the authenticity of the Sunnah, the text quotes verses from the Quran and mentions the Prophet's (ﷺ) sayings.",
+      "explanation": "This is a verse from the Quran (Surah Al-Hashr, 59:7), not a hadith. It commands believers to take what the Messenger gives them and abstain from what he forbids.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 42",
+      "source_index": 42
+    },
+    {
+      "hadith": "وَأَنزَلْنَا إِلَيْكَ الذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَكَ [النحل: ٤٤]",
+      "context": "Supporting the authenticity of the Sunnah, the text quotes verses from the Quran and mentions the Prophet's (ﷺ) sayings.",
+      "explanation": "This is a verse from the Quran (Surah An-Nahl, 16:44), not a hadith. It states that Allah revealed the Quran to the Prophet (ﷺ) so he could explain it to the people.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 42",
+      "source_index": 42
+    },
+    {
+      "hadith": "وأمر العلماء بالحديث وإظهار السنة.",
+      "context": "Describing the actions of Al-Mutawakkil during the second Abbasid era.",
+      "explanation": "Al-Mutawakkil ordered the scholars to focus on narrating hadith and making the Sunnah apparent.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 47)",
+      "source_index": 47
+    },
+    {
+      "hadith": "يا هذِّه قد رَدَّ الله على ابنك بَصَرَهُ بكَثْرة دُعائِكُ",
+      "context": "The context is a dream seen by the mother of Muhammad al-Bukhari, where she is told that Allah has restored her son's sight due to her prayers.",
+      "explanation": "This is a statement made in a dream, attributed to the Prophet Ibrahim (Abraham), informing the mother of Al-Bukhari that her son's sight has been restored due to her prayers.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 56)",
+      "source_index": 56
+    },
+    {
+      "hadith": "قال : فأصبح وقد ردَّ الله عليه بصره",
+      "context": "The context is the aftermath of the dream where the mother of Muhammad al-Bukhari was told that Allah has restored her son's sight due to her prayers.",
+      "explanation": "This is a statement describing the result of the dream, indicating that Al-Bukhari's sight was restored the next morning.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 56)",
+      "source_index": 56
+    },
+    {
+      "hadith": "فقلتُ: إن أبا الزبير لم يرو عن إبراهيم.",
+      "context": "The context is a discussion between Muhammad al-Bukhari and a scholar named Al-Nakhli regarding a chain of narration.",
+      "explanation": "This is a statement made by Al-Bukhari, correcting a scholar's mistake in a chain of narration, stating that Abu al-Zubair did not narrate from Ibrahim.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 56)",
+      "source_index": 56
+    },
+    {
+      "hadith": "فقلتُ له : أرجع إلى الأصلِ إنْ كان عِنْدك",
+      "context": "The context is a discussion between Muhammad al-Bukhari and a scholar named Al-Nakhli regarding a chain of narration.",
+      "explanation": "This is a statement made by Al-Bukhari, advising the scholar to check the original source of the narration.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 56)",
+      "source_index": 56
+    },
+    {
+      "hadith": "قلتُ: هو الزبير بن عدي عن إبراهيم.",
+      "context": "The context is a discussion between Muhammad al-Bukhari and a scholar named Al-Nakhli regarding a chain of narration.",
+      "explanation": "This is a statement made by Al-Bukhari, correcting the scholar by providing the correct chain of narration.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 56)",
+      "source_index": 56
+    },
+    {
+      "hadith": "صدقتَ",
+      "context": "The context is a discussion between Muhammad al-Bukhari and a scholar named Al-Nakhli regarding a chain of narration.",
+      "explanation": "This is a statement made by the scholar Al-Nakhli, acknowledging the correctness of Al-Bukhari's correction.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 56)",
+      "source_index": 56
+    },
+    {
+      "hadith": "خرجتُ مع أمي وأخي أحمد إلى مَكَّة، فلما حججتُ رجع بها أخي، وتخلفتُ في طلبِ الحديث",
+      "context": "The context is a biographical account of Al-Bukhari's life, describing his journey to Mecca and his subsequent pursuit of hadith collection.",
+      "explanation": "Al-Bukhari recounts that he traveled to Mecca with his mother and brother Ahmad. After performing Hajj, his brother and mother returned home, but he remained behind to seek knowledge and collect hadith.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Page/section reference where found"
+    },
+    {
+      "hadith": "الإيمان قولُ وعمل، يزيد وينقص",
+      "context": "This is a statement attributed to hadith scholars, mentioned in the context of Al-Bukhari's travels and the people he learned from.",
+      "explanation": "This statement describes the understanding of faith (Iman) as comprising both verbal affirmation (قول) and actions (عمل), and that it is subject to increase and decrease.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Page/section reference where found"
+    },
+    {
+      "hadith": "لم أتئتم منذ أربعين سنة",
+      "context": "Quoting Al-Bukhari's statement about his actions.",
+      "explanation": "Al-Bukhari stated that he had not backbitten anyone for forty years.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 59)",
+      "source_index": 59
+    },
+    {
+      "hadith": "ما أغتبتُ أحد قط منذ علمت أن الغيبة حرام",
+      "context": "Quoting Al-Bukhari's statement about his actions.",
+      "explanation": "Al-Bukhari stated that he had never backbitten anyone since he learned that backbiting is forbidden.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 59)",
+      "source_index": 59
+    },
+    {
+      "hadith": "كنت أستغل في كل شهر خمسمائة درهم، فأنفقها في الطلب وما عند الله خير وأبقى",
+      "context": "Quoting Al-Bukhari's statement about his actions.",
+      "explanation": "Al-Bukhari stated that he earned 500 dirhams each month and spent it on seeking knowledge, and that what is with Allah is better and more lasting.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 59)",
+      "source_index": 59
+    },
+    {
+      "hadith": "إن أخذتُ منهم كتابًا طمعوا، ولن أبيع ديني بدنياي",
+      "context": "Quoting Al-Bukhari's statement about his actions.",
+      "explanation": "Al-Bukhari stated that if he took a document from his debtors, they would become greedy, and he would not sell his religion for the sake of worldly gain.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 60)",
+      "source_index": 60
+    },
+    {
+      "hadith": "هَذا الذي ينفعني؟",
+      "context": "Quoting Al-Bukhari's statement about his actions.",
+      "explanation": "Al-Bukhari's response when asked why he was helping to build a structure.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 60)",
+      "source_index": 60
+    },
+    {
+      "hadith": "ما قدمتُ على أحدٍ إلا كان أنتفاعه بي أكثر من أنتفاعي به.",
+      "context": "Statements of Al-Bukhari and praise for him",
+      "explanation": "Al-Bukhari said: \"I did not come to anyone except that their benefit from me was greater than my benefit from them.\"",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 61)",
+      "source_index": 61
+    },
+    {
+      "hadith": "ما أستصخرتُ نفسي عند أحدٍ إلا عند عليّ ابن المديني، وربما كنت أغْرِبُ عليه.",
+      "context": "Statements of Al-Bukhari",
+      "explanation": "Al-Bukhari said: \"I did not belittle myself before anyone except Ali ibn al-Madini, and I would sometimes be surprised by him.\"",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 62)",
+      "source_index": 62
+    },
+    {
+      "hadith": "أحفظ مائة ألف حديث صحيح، وأحفظ مائتي ألف حديث غير صحيح.",
+      "context": "Statements of Al-Bukhari",
+      "explanation": "Al-Bukhari said: \"I memorize one hundred thousand authentic hadith, and I memorize two hundred thousand inauthentic hadith.\"",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 62)",
+      "source_index": 62
+    },
+    {
+      "hadith": "إني أرجو أن ألقى الله ولا يحاسبني أني أغتبت أحدًا.",
+      "context": "Statements of Al-Bukhari",
+      "explanation": "Al-Bukhari said: \"I hope to meet Allah and that He will not hold me accountable for backbiting anyone.\"",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 62)",
+      "source_index": 62
+    },
+    {
+      "hadith": "كتبت عن ألف ثقة من العلماء وزيادة، وليس عندي حديث لا أذكر إسناده",
+      "context": "The context is a quote from Imam Bukhari about his rigorous approach to hadith collection and verification.",
+      "explanation": "Imam Bukhari states that he wrote from over a thousand trustworthy scholars and that he does not have a hadith without knowing its chain of narration.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 67)",
+      "source_index": 67
+    },
+    {
+      "hadith": "كتبت عن ألف وثمانين نفسًا ليس فيهم إلا صاحب حديث",
+      "context": "The context is a quote from Imam Bukhari about the number of narrators he collected hadith from.",
+      "explanation": "Imam Bukhari states that he wrote from 1080 people, all of whom were hadith narrators.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 67)",
+      "source_index": 67
+    },
+    {
+      "hadith": "فقال البخاري لرسول الأمير: قل له إنني لا أذل العلم ولا أحمله إلى أبواب السلاطين، فإن كانت له حاجة إلى شيء منه فليحضرني في مسجدي أو في داري فإن لم يعجبك هذا فأنت سلطان، فامنعني من المجلس ليكون لي عذر عند الله يوم القيامة أني لا أكتم العلم",
+      "context": "The context is a narration about Imam Bukhari's refusal to bring his books to the ruler of Bukhara.",
+      "explanation": "Imam Bukhari refused to take his books to the ruler, stating he would not humiliate knowledge by bringing it to the doors of rulers. He offered the ruler to come to him in the mosque or his house. If the ruler did not like this, he could prevent him from teaching so that he would have an excuse before Allah on the Day of Judgment for not concealing knowledge.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 69)",
+      "source_index": 69
+    },
+    {
+      "hadith": "اللهم قد ضاقت علي الأرض بما رحبت فاقبضني إليك",
+      "context": "Imam Bukhari's supplication before his death.",
+      "explanation": "Imam Bukhari supplicated, \"O Allah, the earth has become narrow for me despite its vastness, so take me to Yourself.\"",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 70)",
+      "source_index": 70
+    },
+    {
+      "hadith": "(أرسلوني فقد ضعفت)",
+      "context": "The context is Imam Bukhari's last moments before his death.",
+      "explanation": "Imam Bukhari said, \"Release me, for I have become weak.\"",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 70)",
+      "source_index": 70
+    },
+    {
+      "hadith": "ما وضعت في \"الصحيح\" حديثًا إلا أغتسلت قبل ذلك وصليت ركعتين",
+      "context": "Referring to Imam Bukhari's meticulous approach to compiling Sahih al-Bukhari.",
+      "explanation": "Imam Bukhari stated that he would perform ablution and pray two rak'ahs before including any hadith in his Sahih collection.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 74)",
+      "source_index": 74
+    },
+    {
+      "hadith": "كنت عند إسحاق بن راهويه، فقال رجل لو جمعتم كتابًا مختصرًا للسنن، فوقع ذلك في قلبي، فأخذت في جمع هذا الكتاب",
+      "context": "Explaining the motivation behind Imam Bukhari compiling Sahih al-Bukhari.",
+      "explanation": "Imam Bukhari narrates that while in the presence of Ishaq bin Rahwayh, someone suggested compiling a concise book of Sunnah, which inspired him to begin compiling his collection.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "TEXT 2 (Index: 75)",
+      "source_index": 75
+    },
+    {
+      "hadith": "رأيت النبي 䍗 في المنام وأنا بين يديه أذّب عنه بمروحة في يدي، فسألت بعض المعبرين في ذلك فقال لي: أنت ذنب الكذب عن النبي 䍗",
+      "context": "Another reason for compiling Sahih al-Bukhari, a dream.",
+      "explanation": "Imam Bukhari recounts a dream where he was fanning the Prophet (peace be upon him) and was interpreted as protecting the Prophet from lies.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "TEXT 2 (Index: 75)",
+      "source_index": 75
+    },
+    {
+      "hadith": "قال شيخنا أبو عبد الله الحافظ: أروي من وجهين ثابتين عن البخاري أنه قال: (أخرجت هذا الكتاب من نحو ستمائة ألف حديث، وصنفته في ست عشرة سنة، وجعلته حجة فيما بيني وبين الله، وما أدخلت في الجامع إلا ما صح، وتركت من الصـحاح لأجل الطول).",
+      "context": "The text discusses how Al-Bukhari compiled his Sahih collection and quotes Al-Bukhari's statement about the process.",
+      "explanation": "Al-Bukhari stated that he compiled his Sahih collection from approximately 600,000 hadiths over 16 years. He considered it a proof between himself and God, including only authentic hadiths and omitting some authentic ones to avoid excessive length.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 76)",
+      "source_index": 76
+    },
+    {
+      "hadith": "روي عنه أنه قال: صنفت جميع كتبي ثلاث مرات",
+      "context": "The text discusses Al-Bukhari's care for his works and quotes him saying he revised them three times.",
+      "explanation": "Al-Bukhari said that he revised all his books three times.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "TEXT 2 (Index: 78)",
+      "source_index": 78
+    },
+    {
+      "hadith": "كتبت عن ألف ثقة من العلماء وزيادة، وليس عندي حديث لا أذكر",
+      "context": "Referring to Imam Bukhari's method of selecting his teachers and in his research and compilation.",
+      "explanation": "Imam Bukhari stated that he wrote from over a thousand trustworthy scholars and that he did not have a hadith that he did not remember.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 79)",
+      "source_index": 79
+    },
+    {
+      "hadith": "صنفت كتاب الجامع في المسجد الحرام، وما أدخلت فيه حديثًا إلا بعدما أستخرت الله تعالى وصليت ركعتين وتيقنت صحته",
+      "context": "Describing the location of the compilation of Sahih al-Bukhari and the process of selecting hadiths.",
+      "explanation": "Imam Bukhari said that he compiled the book \"Al-Jami\" in the Masjid al-Haram (the Sacred Mosque in Mecca) and that he did not include any hadith in it except after performing Istikhara prayer (a prayer for guidance) and praying two rak'ahs (units of prayer) and being certain of its authenticity.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 80)",
+      "source_index": 80
+    },
+    {
+      "hadith": "الانتصال عندهم أن يعبر كل من الرواة في روايته عن شيخه، بصيغة صريحة في السماع منه، كسمعت وحدثني وأخبرني، أو ظاهرة كعن وأن فلانًا قال",
+      "context": "The text is explaining Al-Bukhari's methodology in hadith criticism.",
+      "explanation": "This is a description of how narrators should transmit hadith according to Al-Bukhari, using explicit terms like \"I heard,\" \"He narrated to me,\" or \"He informed me,\" or implicit terms like \"from\" and \"that so-and-so said.\"",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 83",
+      "source_index": 83
+    },
+    {
+      "hadith": "ورجل آتاه الله الحكمة، فهو يقضي بها ويعلمها",
+      "context": "The text describes a righteous man.",
+      "explanation": "A man whom Allah has given wisdom, he judges by it and teaches it.",
+      "is_complete": false,
+      "completion": "This is a partial hadith. A more complete version is found in various collections like Sahih al-Bukhari and Sahih Muslim. A possible completion is: \"لا حسد إلا في اثنتين: رجل آتاه الله القرآن فهو يقوم به آناء الليل وآناء النهار، ورجل آتاه الله الحكمة فهو يقضي بها ويعلمها\" (There is no envy except in two cases: a man whom Allah has given the Quran, so he recites it during the night and during the day, and a man whom Allah has given wisdom, so he judges by it and teaches it).",
+      "is_narrated": false,
+      "span": "img-148.jpeg"
+    },
+    {
+      "hadith": "أن رسول اللّ خُطَب الناس يوم النحر فقال: \"يا أيها الناس أي يوم هذا؟ قالوا : يوم حرام إلى أن قال : اللهم هل بلغت هل بلغت\".",
+      "context": "The hadith is presented as an example of how Al-Bukhari presents hadiths in different forms to clarify and strengthen them. It is narrated by Ibn Abbas.",
+      "explanation": "Prophet Muhammad (ﷺ) delivered a sermon on the day of sacrifice (Eid al-Adha), asking the people about the day and then saying, \"O Allah, have I conveyed the message?\" (repeated twice).",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "TEXT 2 (Index: 91)",
+      "source_index": 91
+    },
+    {
+      "hadith": "قال رسول اللّ يوم فتح مكة، إن هذا البلد حرمه الله لا يعضد شوكه ولا ينفر صيده، ولا يلتقط لقطته إلا من عرفها",
+      "context": "Mentioned in the context of Imam Bukhari's methodology in his Sahih, specifically discussing how he presents hadiths with different isnads and matns.",
+      "explanation": "The Prophet Muhammad (ﷺ) said on the day of the conquest of Mecca: \"Indeed, this city is made sacred by Allah. Its thorns should not be cut, its game should not be chased, and its lost property should not be picked up except by one who announces it.\"",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 92)",
+      "source_index": 92
+    },
+    {
+      "hadith": "وروي حديث جابر أكثر من عشرين مرة، اكنت مع النبي ﷺ في غزوة فأبطأ بي جملي وأعيا.. الحديث.",
+      "context": "Mentioning the repetition of a hadith narrated by Jabir.",
+      "explanation": "This refers to a hadith narrated by Jabir, where he was with the Prophet (peace be upon him) in a battle and his camel was slow and tired. The text indicates that this hadith was narrated more than twenty times.",
+      "is_complete": false,
+      "completion": "The full hadith is not provided. A complete version would include the full text of the narration.",
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 94)",
+      "source_index": 94
+    },
+    {
+      "hadith": "وروي حديث عائشة : \"أن النبي ﷺ أشترىْ طعامًا من يهودي إلى أجل ورهنه درعًا من حديد؛",
+      "context": "Mentioning a hadith narrated by Aisha.",
+      "explanation": "This is a hadith narrated by Aisha (may Allah be pleased with her) stating that the Prophet (peace be upon him) bought food from a Jew on credit and pledged an iron shield as collateral.",
+      "is_complete": false,
+      "completion": "The full hadith is not provided. A complete version would include the full text of the narration.",
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 94)",
+      "source_index": 94
+    },
+    {
+      "hadith": "وأكثر من روىْ عنه من الصحابة أبو هريرة 䍗.",
+      "context": "Mentioning Abu Hurairah as a frequent narrator.",
+      "explanation": "This statement indicates that Abu Hurairah (may Allah be pleased with him) narrated the most hadiths from the Prophet (peace be upon him).",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 94)",
+      "source_index": 94
+    },
+    {
+      "hadith": "قال القاضي عياض في \"المشارق\": أكثر الرواة عندنا من طريق الفربري والنسفي، ولم يصل إلينا من غير هذين الطريقين عنه ولا دخل المغرب والأندلس إلا عنهما، علىُ كثرة رواة البخاري عنه لكتابه",
+      "context": "Mentioning the statement of Qadi 'Iyad regarding the most common narrations of Sahih al-Bukhari in the Maghreb.",
+      "explanation": "Qadi 'Iyad states that the most common narrations of Sahih al-Bukhari in their region (Maghreb) come from al-Firabri and al-Nasafi, and that no other narrations reached them or entered the Maghreb and Andalusia except through these two.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 97)",
+      "source_index": 97
+    },
+    {
+      "hadith": "هُلْهِ خمسون طريقًا لإسناد كتاب \"صحيح البخاري\" أخذتها عن مشايخي.",
+      "context": "This statement is attributed to `عمر النسفي` and appears in the context of describing his work and its methodology.",
+      "explanation": "This is a statement by `عمر النسفي` indicating that he has 50 chains of narration for the book `Sahih al-Bukhari` which he received from his teachers.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 114)",
+      "source_index": 114
+    },
+    {
+      "hadith": "حين عرضت على النبي ﷺ أن يتزوج أختها",
+      "context": "Mention of a woman named Hamnah bint Abi Salama and a reference to a hadith about Umm Habiba offering her sister to the Prophet (ﷺ) in marriage.",
+      "explanation": "This is a reference to a hadith where Umm Habiba offered her sister to the Prophet (ﷺ) for marriage.",
+      "is_complete": false,
+      "completion": "The complete hadith would include the full narration and the Prophet's (ﷺ) response or action. A possible completion might be: '...when she offered her sister to the Prophet (ﷺ), and he (ﷺ) said...'",
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 148)",
+      "source_index": 148
+    },
+    {
+      "hadith": "لا هجرة بعد الفتح",
+      "context": "Mentioned within the context of discussing Ibn Hajar's commentary on Sahih al-Bukhari, specifically regarding the famous saying.",
+      "explanation": "This is a well-known saying, meaning 'There is no migration after the Conquest (of Mecca)'.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 151)",
+      "source_index": 151
+    },
+    {
+      "hadith": null,
+      "context": "The text discusses various commentaries on Sahih al-Bukhari.",
+      "explanation": "The text is a bibliographic entry, listing authors and titles of books, not a hadith.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 177",
+      "source_index": 177
+    },
+    {
+      "hadith": null,
+      "context": "The text discusses various commentaries on Sahih al-Bukhari.",
+      "explanation": "The text is a bibliographic entry, listing authors and titles of books, not a hadith.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 178",
+      "source_index": 178
+    },
+    {
+      "hadith": "إني لما وصلت إلى المدينة المؤسسة في أوائل سنة إحدىُ وخمسين ومائة وألف من الهجرة المقدسة",
+      "context": "The author is describing his experience upon arriving in Medina.",
+      "explanation": "This is a statement made by the author, not a hadith of the Prophet Muhammad (ﷺ).",
+      "is_complete": false,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 184)",
+      "source_index": 184
+    },
+    {
+      "hadith": "ومن حديثه: ما أخبرنا بقية الحفاظ صلاح الدين أبو سعيد خليل بن كيكلدي بن عبد الله العلائي، بالقدس الشريف، بقراءتي عليه، قال: ..",
+      "context": "Mentioning a hadith from Imam al-Rafi'i, the author cites a chain of narration.",
+      "explanation": "The author narrates a hadith through a chain of transmission, starting with Al-Ala'i.",
+      "is_complete": false,
+      "completion": "The text is incomplete, as the actual matn (main text) of the hadith is missing. It is likely the author is providing the isnad (chain of narration) and will then provide the matn.",
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 203)",
+      "source_index": 203
+    },
+    {
+      "hadith": "السواك مظهرة للفم مرضاة للرب",
+      "context": "The author mentions the hadith while discussing the book 'Al-Badr al-Munir'.",
+      "explanation": "The use of the miswak (tooth stick) cleanses the mouth and pleases the Lord.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 203)",
+      "source_index": 203
+    },
+    {
+      "hadith": "قال ابن خزيمة.. وفي هذا ما بان وثبت أن التيمم بالسباخ جائز هذا لفظه ومن \"صحيحه\" في رحلتي إلى القدس نقلته",
+      "context": "The author quotes Ibn Khuzaymah regarding the permissibility of tayammum (dry ablution) with the dust of salt flats.",
+      "explanation": "Ibn Khuzaymah states that tayammum with the dust of salt flats is permissible. The author mentions he saw this in Ibn Khuzaymah's Sahih.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 203)",
+      "source_index": 203
+    },
+    {
+      "hadith": "*حمص من الشام، رأيتها في رحلتين إليها*",
+      "context": "Mentioned in the context of Ibn al-Mulaqqin's travels and his commentary on a hadith.",
+      "explanation": "Homs is from Sham (Greater Syria), I saw it in two of my journeys to it.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 204)",
+      "source_index": 204
+    },
+    {
+      "hadith": "بلغني أنه حضر في الطاعون العام بيع كتب شخص من المحدثين، فكان وصيه لا يبيع إلا بالنقد الحاضر، قال: فتوجهت إلى منزلي فأخذت كيسًا من الدراهم ودخلت الحلقة فصببته فصرت لا أزيد في الكتاب شيئًا إلا قال: بع له، فكان فيما أشتريت \"مسند الإمام أحمد\" بثلاثين درهمًا",
+      "context": "This is a narration about Ibn al-Mulaqqin's acquisition of books during a plague.",
+      "explanation": "This is a narration by Ibn Hajar about Ibn al-Mulaqqin's book purchases during a plague. The narrator describes how he bought books, including Musnad Ahmad, by paying in cash.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 205)",
+      "source_index": 205
+    },
+    {
+      "hadith": "عَنْ أَبِي هُرَيْرَةَ قَالَ: كَانَ النَّبِيُّ يَأْزِرُا يَوْمًا لِلنَّاسِ، فَأَتَاهُ جِبْرِيلُ فَقَالَ : مَا الإِيمَانُ؟ قَالَ: \"إِإِيمَانُ أَنْ تُؤْمِنَ بِاللَّهِ وَمَلَائِكَتُهِ وَبِإِقَائِهِ وَرُسُلِهِ، وَتُؤْمِنَ بِالْبَعْثِ\".",
+      "context": "In a discussion about the explanation of the Hadith of Gabriel.",
+      "explanation": "This is the beginning of the famous Hadith of Gabriel, where the angel Gabriel asks the Prophet (ﷺ) about Islam, Iman (faith), and Ihsan (excellence). This part defines Iman as believing in Allah, His angels, His books, His messengers, and the Last Day.",
+      "is_complete": false,
+      "completion": "The full hadith continues to describe Islam, Ihsan, and the signs of the Hour. A complete version can be found in Sahih al-Bukhari and Sahih Muslim.",
+      "is_narrated": true,
+      "span": "TEXT 2 (Index: 208)",
+      "source_index": 208
+    },
+    {
+      "hadith": "عن أبي ذَرّ مرفوعا: فَخُزِجَ عَنْ سَقْفِ بَيْتِي وَأَنَا بِمَكَّةَ، فَنَزَلَ جِبْرِيلُ فَفَرَجَ صَدْرِي",
+      "context": "In a discussion about the Isra' (Night Journey) and Mi'raj (Ascension).",
+      "explanation": "This is a narration from Abu Dharr describing the Prophet's (ﷺ) chest being opened by Gabriel. This is related to the event of the Isra' and Mi'raj.",
+      "is_complete": false,
+      "completion": "The hadith continues to describe the events of the Isra' and Mi'raj. A complete version can be found in various hadith collections.",
+      "is_narrated": true,
+      "span": "TEXT 2 (Index: 208)",
+      "source_index": 208
+    },
+    {
+      "hadith": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّاسَ قَالُوا: يَا رَسُولَ اللَّهِ، هَلْ نَرَىٰ رَبَّنَا يَوْمَ القِيَامَةِ؟ قَالَ: «هَلْ تُمَارُونَ فِي القَمَرِ لَيْلَةَ البَدْرِ لَيْسَ دُونَهُ سَحَابٌ؟». قَالُوا: لاَ يَا رَسُولَ اللَّهِ. قَالَ: «فَهَلْ تُمَارُونَ فِي الشَّمْسِ لَيْسَ دُونَهَا سَحَابٌ؟». قَالُوا: لاَ. قَالَ: «فَإِنَّكُمْ تَرَوْنَهُ كَذَلِكَ، ..",
+      "context": "In the explanation of hadith (806), the Prophet (ﷺ) is asked if people will see their Lord on the Day of Judgment.",
+      "explanation": "The Prophet (ﷺ) responds with rhetorical questions about seeing the moon and sun, implying that seeing Allah will be as clear as seeing them. This is a hadith about the vision of Allah on the Day of Judgment.",
+      "is_complete": false,
+      "completion": "فَيَأْتِيهِمُ اللَّهُ فَيَقُولُ: أَنَا رَبُّكُمْ. فَيَقُولُونَ: أَنْتَ رَبُّنَا. فَيَدْعُوهُمُ فَيُضْرَبُ الصِّرَاطُ بَيْنَ ظَهْرَانَي جَهَنَّمَ, as mentioned in the text.",
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 209)",
+      "source_index": 209
+    },
+    {
+      "hadith": "عَنْ أَبِى هُرَيْرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ قَالَا: \"يَضْحَكُ اللّ إِلَى رَجُلَيْنِ يَقْتُلُ أَحَدُهُمَا الآخَرَ يَدْخُلَانِ الجَنَّةَ، يُقَاتِلُ هذا فِي سَبِيلِ اللهِ فَيُقْتَلُ، ثُمَّ يَتُوبُ اللّ عَلَى القَاتِلِ فَيُسْتَشْهَدُ\".",
+      "context": "In the explanation of hadith (2826), the hadith describes Allah laughing at two men.",
+      "explanation": "The hadith describes Allah's pleasure with two men: one who is killed fighting in the way of Allah, and the other who is the killer, who then repents and is martyred.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "TEXT 2 (Index: 210)",
+      "source_index": 210
+    },
+    {
+      "hadith": "جَاءَ خَبْرٌ مِنَ الأخبَارِ إِلَىٰ رَسُولِ اللهِ قَطَّالْ: يَا مُحَمَّدُ، إِنَّا نَجِدُ أَنَّ اللهَ يَجْعَلُ السَّمَوَاتِ عَلَىٰ إِصْبَحٍ وَالأَرْضِينَ عَلَىٰ إِصْبَحٍ، وَالشَّجَرَ عَلَىٰ إِصْبَحٍ، .. وفي آخره: فَضَحِكْ رسول الله",
+      "context": "In the context of explaining the verse \"وَمَا قَدَرُواْ أَنَّهُ حَقَّ قَدَرِهِ\", the text mentions a hadith about God's attributes.",
+      "explanation": "A report came to the Prophet Muhammad (ﷺ) from Qattal, stating that God places the heavens on a finger, the earth on a finger, and the trees on a finger. The Prophet (ﷺ) then laughed.",
+      "is_complete": false,
+      "completion": "تَصْبِيقًا لِلْوَلِ الحَبْرِ، ثُمَّ قَرَأْ: *وَمَا قَدَرُواْ أَنَّهُ حَقَّ قَدَرِهِ*",
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 211)",
+      "source_index": 211
+    },
+    {
+      "hadith": "عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيُّ قَالَا: \"يَقْبِضُ اللّ الأَرْضَ وَيَطْوِي السَّمَاءَ بِيَمِينِهِ، ثُمَّ يَقُولُ: أَنَا المَلِكُ أَيْنَ مُلُوكُ الأَرْضِ؟\".",
+      "context": "In a discussion about the attributes of Allah, specifically regarding the meaning of 'قبض' (to grasp/collect) and 'طي' (to fold).",
+      "explanation": "This hadith describes Allah's power and sovereignty on the Day of Judgment, where He will grasp the earth and fold the heavens with His right hand, then declare His kingship.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 213)",
+      "source_index": 213
+    },
+    {
+      "hadith": "أَبِيّ سَعِيدٍ الْخُدْرِيُّ قَالَ النَّبِيُّ قَالَا: \"تَكُونُ الأَرْضُ يَوْمَ القِيَامَةِ خُبْزَةً وَاحِدَةً، يَتَكَفَّوُهَا الجَبَّارُ بِيَدِهِ كَمَا يَكْفَأُ أَحَدَكُمُ خُبْزَتَهُ فِي السِّفَرِ، نُزُلًا لأَهْلٍ ..",
+      "context": "In the same context as the previous hadith, discussing the attributes of Allah and the Day of Judgment.",
+      "explanation": "This hadith describes the Day of Judgment where the earth will be like a single loaf of bread, which Allah will turn over with His hand, just as one of you turns over his bread while traveling, as a provision for the people.",
+      "is_complete": false,
+      "completion": "The hadith is incomplete. A possible completion is: '...for the people of Paradise.'",
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 213)",
+      "source_index": 213
+    },
+    {
+      "hadith": "*إن قلوب بني آدم بين إصبعين من أصابع الرحممن؟",
+      "context": "In a discussion about the attributes of Allah, specifically regarding the meaning of 'إصبعين' (two fingers).",
+      "explanation": "This hadith states that the hearts of the children of Adam are between two fingers of the fingers of the Most Merciful (Allah).",
+      "is_complete": false,
+      "completion": "The hadith is incomplete. A possible completion is: '...He turns them as He wills.'",
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 215)",
+      "source_index": 215
+    },
+    {
+      "hadith": "*كلتا يديه يمين",
+      "context": "In a discussion about the attributes of Allah, specifically regarding the meaning of 'يد' (hand) and the concept of right and left.",
+      "explanation": "This statement affirms that both of Allah's hands are right hands, signifying completeness and perfection.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 215)",
+      "source_index": 215
+    },
+    {
+      "hadith": "عَنْ عَائِشَةَ رضي الله عنها أَنَّهَا قَالَتْ: أَوَّلُ مَا بُدِئَ بِهِ رَسُولُ اللّهِ  ﷺ مِنَ الوَحْيِ الرُّؤْيَا الصَّادِقَةُ",
+      "context": "Mentioned in the beginning of the book of interpretation of dreams.",
+      "explanation": "Aisha (RA) reported: The first thing with which the Messenger of Allah (ﷺ) was inspired was the truthful vision in sleep.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 216)",
+      "source_index": 216
+    },
+    {
+      "hadith": "عن جَرِيرٍ قَالَ: قَالَ رَسُولُ اللّ ِوَلَ",
+      "context": "Mentioned in the explanation of hadith 7376.",
+      "explanation": "Jarir (RA) reported: The Messenger of Allah (ﷺ) said...",
+      "is_complete": false,
+      "completion": "...لا يَرْحَمُ اللَّهُ مَنْ لا يَرْحَمُ النَّاسَ (Allah does not show mercy to one who does not show mercy to people).",
+      "is_narrated": true,
+      "span": "TEXT 2 (Index: 217)",
+      "source_index": 217
+    },
+    {
+      "hadith": "لَا يَرْحَمُ اللُ مَنْ لَا يَرْحَمُ النَّاسَ",
+      "context": "The text is discussing the attributes of Allah and mentions this hadith as an example.",
+      "explanation": "Allah does not show mercy to the one who does not show mercy to the people.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 218",
+      "source_index": 218
+    },
+    {
+      "hadith": "عَنِ ابن عَبَّاسٍ أَنَّ النَّبِيُّ عَنَ كَانَ يَقُولُ: \"أَعُوذُ بِعِزَّتِكَ الذِي لَا إله إِلَّا أَنْتَ، الذِي لَا يَمُوتُ، وَالْجِنُّ وَالْإِنْسُ يَمُوتُونَ\"",
+      "context": "The text is providing an example of a hadith.",
+      "explanation": "Narrated by Ibn Abbas: The Prophet (ﷺ) used to say: \"I seek refuge in Your might, there is no god but You, Who does not die, while the jinn and mankind die.\"",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "Index: 218",
+      "source_index": 218
+    },
+    {
+      "hadith": "عَنْ أَنَسٍ، عَنِ النَّبِيُّ عَنِهِ: \"وَفِيدُ وَكَرَمِكَ",
+      "context": "The text is providing an example of a hadith.",
+      "explanation": "Narrated by Anas: The Prophet (ﷺ) said: \"And in Your loyalty and generosity.\"",
+      "is_complete": false,
+      "completion": "وَفِيدُ وَكَرَمِكَ",
+      "is_narrated": true,
+      "span": "Index: 218",
+      "source_index": 218
+    },
+    {
+      "hadith": "في حديث الرسول",
+      "context": "Referring to the Prophet's sayings regarding God's attributes.",
+      "explanation": "This refers to a hadith of the Prophet Muhammad (ﷺ). The context is discussing the attributes of God.",
+      "is_complete": false,
+      "completion": "The specific hadith is not provided, but the context suggests it relates to God's attributes such as coming, and hurrying.",
+      "is_narrated": true,
+      "span": "TEXT 2 (Index: 221)",
+      "source_index": 221
+    },
+    {
+      "hadith": "يَجْمَعُ اللُ الْمُؤْمِنِينَ يَوْمَ القِيَامَةِ كَذَلِكَ، فَيَقُولُونَ: لَوْ أَسْتَشْفَعْنَا إِلَىٰ رَبِّنَا حَتَّىٰ يُرِيحَنَا مِنْ مَكَائِنَا هَذَا.",
+      "context": "Mentioned in the context of explaining the attributes of Allah.",
+      "explanation": "This hadith describes the gathering of believers on the Day of Judgment and their desire to seek intercession to be relieved from their place.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 222",
+      "source_index": 222
+    },
+    {
+      "hadith": "يَذُ اللّ مَلاَئَى لَا يُغِيضُهَا نَفَقَةٌ، سَخَّاءُ اللُّئِلَ وَالنَّهَارَ",
+      "context": "Mentioned in the context of explaining the attributes of Allah.",
+      "explanation": "This hadith describes Allah's generosity, which is continuous and does not diminish with spending.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 222",
+      "source_index": 222
+    },
+    {
+      "hadith": "أَرَأَيْتُمْ مَا أَنْفَقَ مُنْذُ خَلَقَ السَّمَوَاتِ وَالْأَرْضَ",
+      "context": "Mentioned in the context of explaining the attributes of Allah.",
+      "explanation": "This is a rhetorical question, implying that Allah's generosity is immeasurable since the creation of the heavens and the earth.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 222",
+      "source_index": 222
+    },
+    {
+      "hadith": "عَرُشُهُ عَلَى المَاءِ، وَبِيدِهِ الأُخْرى المِيزَانُ يَخْفِضُ وَيَرْفَعُ",
+      "context": "Mentioned in the context of explaining the attributes of Allah.",
+      "explanation": "This hadith describes Allah's throne being upon the water, and that He holds the balance in His other hand, lowering and raising it.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 222",
+      "source_index": 222
+    },
+    {
+      "hadith": "إِنَّ اللّ يَفْبِضُ يَوْمَ القِيَامَةِ الأَرْضَ، وَتَكُونَ السَّمَوَاتُ بِيَمِينٍ، ثُمَّ يَقُولُ: أَنَا المَلِكُ",
+      "context": "Mentioned in the context of explaining the attributes of Allah.",
+      "explanation": "This hadith describes Allah's power on the Day of Judgment, when He will hold the earth and the heavens in His hand, and declare Himself the King.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 222",
+      "source_index": 222
+    },
+    {
+      "hadith": "قَالَ: \"يَدُ اللَّهِ مَعَ الْجَمَاعَةِ\"",
+      "context": "Mentioned in the context of explaining the attributes of Allah.",
+      "explanation": "This hadith states that Allah's support is with the community.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 222",
+      "source_index": 222
+    },
+    {
+      "hadith": "﴿لَّتَىٰ كَيْتُبِهِۦ شَىٰٖٓٓٗ﴾",
+      "context": "The text discusses the nature of God's speech and refutes the idea that God's speech is similar to that of created beings, citing a saying of the Prophet (ﷺ).",
+      "explanation": "This is a fragment of a hadith, likely referring to a specific saying of the Prophet (ﷺ) about God's attributes or actions. The exact meaning is unclear without the full hadith.",
+      "is_complete": false,
+      "completion": "The full hadith is not available in the provided text. The text only provides a fragment.",
+      "is_narrated": false,
+      "span": "Index: 226",
+      "source_index": 226
+    },
+    {
+      "hadith": "عَنِ ابن عَبَّاسٍ قَالَ شَهِدَ عِنْدِي رِجَالٌ مَرْضِيُّونُ، وَأَرْضَاهُمُ عِنْدِي عُمَرُ: أَنَّ النَّبِيُّ نَهَىٰ نَهَىٰ عَنِ الصَّـلَاةِ بَعْدَ الصُّبْحِ حَتَّىْ تَشْرُقَ الشَّمْسُ",
+      "context": "In the context of discussing the book 'التوضيح' and its views on Sufism, the text mentions a hadith related to prayer after the morning prayer.",
+      "explanation": "This hadith, narrated by Ibn Abbas, states that the Prophet (ﷺ) forbade prayer after the morning prayer until the sun rises.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "TEXT 2 (Index: 228)",
+      "source_index": 228
+    },
+    {
+      "hadith": "عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيُّ قَالَ: \"مَا بَيْنَ بَيْتِي وَمِنْبَرِي رَوْضَةٌ مِنْ رِيَاضِ الجَنَّةِ، وَمِنْبَرِي عَلَى خَوْضِي\".",
+      "context": "Mentioned in the context of criticizing Sufism and discussing the varying degrees of patience.",
+      "explanation": "The area between the Prophet's house and his pulpit is a garden from the gardens of Paradise, and his pulpit is on my pond.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 231)",
+      "source_index": 231
+    },
+    {
+      "hadith": "عَنْ عَائِشَةَ رضي الله عنها قَالَتْ لَمَّا قَدِمَ رَسُولُ اللّ",
+      "context": "Mentioned in the context of discussing the Prophet's companions' illnesses after the migration.",
+      "explanation": "This is an incomplete hadith from Aisha (RA) about the Prophet (PBUH).",
+      "is_complete": false,
+      "completion": "This hadith is incomplete. A possible completion is: قَدِمَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمَدِينَةَ وَهُوَ مَحْمُومٌ",
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 231)",
+      "source_index": 231
+    },
+    {
+      "hadith": "حديث جَابِر بن عبد الله رضي الله عنهما قَالَ: كُنَّا نَتَزَوَّدُ لُحُومَ",
+      "context": "Mentioned in the context of discussing taking provisions for travel.",
+      "explanation": "This is an incomplete hadith from Jabir ibn Abdullah (RA).",
+      "is_complete": false,
+      "completion": "This hadith is incomplete. A possible completion is: كُنَّا نَتَزَوَّدُ لُحُومَ الْأُضْحِيَّةِ عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى الْمَدِينَةِ.",
+      "is_narrated": true,
+      "span": "TEXT 2 (Index: 233)",
+      "source_index": 233
+    },
+    {
+      "hadith": "حديث سُوَيْدَ بْنَ النُّعْمَانِ رضي الله عنه أَنَّهُ خَرَجَ مَعَ النَّبِيُّ عَامَ خَيْبَرَ، .. الحديث.",
+      "context": "Mentioned in the context of discussing taking provisions for travel.",
+      "explanation": "This is an incomplete hadith from Suwayd ibn al-Nu'man (RA).",
+      "is_complete": false,
+      "completion": "This hadith is incomplete. A possible completion is: أَنَّهُ خَرَجَ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَامَ خَيْبَرَ حَتَّى إِذَا كَانُوا بِالصَّهْبَاءِ أُتِيَ بِطَعَامٍ فَأَمَرَ بِهِ فَأُكِلَ ثُمَّ دُعِيَ بِتَمْرٍ فَأَكَلَ ثُمَّ دُعِيَ بِسَوِيقٍ فَشَرِبَ.",
+      "is_narrated": true,
+      "span": "TEXT 2 (Index: 233)",
+      "source_index": 233
+    },
+    {
+      "hadith": "حديث علي قَالَ: كَانَتْ لِي شَارِفٌ مِنْ نَصِيبِي مِنَ المَغْنَمِ يَوْمَ بَذْرٍ، وَكَانَ النَّبِيُّ الْعَطَائِي شَارِفًا مِنَ الخُمُسِ، فَلَمَّا أَرَدْتُ أَنْ أَبْنَنِيَ بِقَاطِمَةَ بِنْتِ رَسُولِ اللّ وَاعَدْتُ رَجُلًا صَوَّاغًا مِنْ بَنِي قُبَيْقَاعَ أَنْ يَرْتَحِلَ مَعِيَ فَنَأْتِيَ بِإِذْخِرِ",
+      "context": "Mentioned in the context of discussing the distribution of spoils of war and marriage.",
+      "explanation": "This is an incomplete hadith from Ali (RA).",
+      "is_complete": false,
+      "completion": "This hadith is incomplete. A possible completion is:  كَانَتْ لِي شَارِفٌ مِنْ نَصِيبِي مِنَ الْمَغْنَمِ يَوْمَ بَدْرٍ، وَكَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَعْطَانِي شَارِفًا مِنَ الْخُمُسِ، فَلَمَّا أَرَدْتُ أَنْ أَبْنِيَ بِفَاطِمَةَ بِنْتِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَاعَدْتُ رَجُلًا صَوَّاغًا مِنْ بَنِي قَيْنُقَاعَ أَنْ يَرْتَحِلَ مَعِيَ فَنَأْتِيَ بِإِذْخِرٍ.",
+      "is_narrated": true,
+      "span": "TEXT 2 (Index: 233)",
+      "source_index": 233
+    },
+    {
+      "hadith": "عَنْ أَنَسَ: إِنَّ خَيَّاطًا دَعَا رَسُولَ اللهِ يَعْلِمْهُم صَنَعَهُ- قَالَ أَنَسُ: - قَدْهُبْتُ مَعَ رَسُولَ اللهِ قَرَأَيْتُهُ يَتَبَّعُ الدُّبَّاءَ مِنْ حَوَالَيْ القَصْعَةِ- قَالَ: - فَلَمْ أَرْزُ أُحِبُّ الدُّبَّاءَ مِنْ يَوْمَئِذٍ",
+      "context": "Mentioned in the context of discussing the permissibility of eating different types of food together on a table and refuting the claims of some Sufis.",
+      "explanation": "This hadith describes the Prophet Muhammad (peace be upon him) accepting an invitation from a tailor and eating with him. Anas (RA) narrates that he saw the Prophet (PBUH) seeking out the gourd (pumpkin) from around the bowl. Anas (RA) then states that he loved the gourd from that day onwards.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 235)",
+      "source_index": 235
+    },
+    {
+      "hadith": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَابِسٍ، عَنْ أَبِيهِ قَالَ: قُلْتُ لِعَائِشَةَ: أَنْهَى النَّبِيُّ قَالَتْ أَنْ تُؤْكَلَ لُحُومُ الأَضَاحِيِّ فَوْقَ ثَلاَثٍ؟ قَالَتْ: مَا فَعَلَهُ إِلَّا فِي عَامٍ جَاعَ النَّاسُ فِيهِ، فَأَرَادَ أَنْ يُطْعِمَ الغَنِيُّ الفَقِيرَ، .. الحديث.",
+      "context": "In the context of discussing what the early Muslims used to store in their homes and on journeys, including meat.",
+      "explanation": "This hadith discusses the permissibility of storing meat from sacrificial animals for more than three days. Aisha (RA) narrates that the Prophet (PBUH) only forbade it in a year when people were suffering from hunger, so that the wealthy could feed the poor.",
+      "is_complete": false,
+      "completion": "The full hadith would continue with the rest of Aisha's response, detailing the Prophet's actions and the reason for the initial prohibition.",
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 235)",
+      "source_index": 235
+    },
+    {
+      "hadith": "جَابِر قَالَ: كُنَّا نَتَرَوَّدُ لُحُومَ الهَذَيِ عَلَى عَهْدِ النَّبِيِّ",
+      "context": "In the context of discussing what the early Muslims used to store in their homes and on journeys, including meat.",
+      "explanation": "Jabir (RA) narrates that they used to store the meat of sacrificial animals during the time of the Prophet (PBUH).",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "TEXT 1 (Index: 235)",
+      "source_index": 235
+    },
+    {
+      "hadith": "عَنْ عَائِشَةَ رضي الله عنها أَنَّهَا قَالَتْ: لَمَّا قَدِمَ رَسُولُ اللهِ قَاتِلَ أَبُو بَكْرٍ وَبِلَالٌ، قَالَتْ: فَذَخَلْتُ عَلَيْهِمَا فَقُلْتُ: يَا أَبَتِ كَيْفَ تَجِدُكْ؟ وَيَا بِلَالُ كَيْفَ تَجِدُكْ؟ قَالَتْ: وَكَانَ أَبُو بَكْرٍ إِذَا أَخَذَتْهُ الحُمَّىٰ يَقُولُ: كُـلُّ أَمْـرِئٍ مُـصَـبِّـحٌ فِـي أَصْـلِـهِ وَالْـمَوَتُ أَدْنَىٰ مِنْ شِرَاكِ نَـعْـلِـهِ",
+      "context": "In the context of discussing the permissibility of supplicating to Allah to remove epidemics and fevers.",
+      "explanation": "This hadith describes Aisha (RA) visiting Abu Bakr and Bilal (RA) when they were ill. Abu Bakr (RA) would recite a verse when he had a fever, indicating that every person will face death.",
+      "is_complete": false,
+      "completion": "The hadith is incomplete. It ends with the verse recited by Abu Bakr. The full hadith would include the rest of the narration.",
+      "is_narrated": true,
+      "span": "TEXT 2 (Index: 236)",
+      "source_index": 236
+    },
+    {
+      "hadith": "عَنْ أَبِى مُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ قَاتَلَ: \"مَا أَنْزَلَ اللهُ دَاءً إِلَّا أَنْزَلَ لَهُ شِفَاءٌ\"",
+      "context": "In the context of discussing the book of medicine.",
+      "explanation": "Abu Hurairah (RA) narrates that the Prophet (PBUH) said: \"Allah has not sent down a disease but He has also sent down a cure for it.\"",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "TEXT 2 (Index: 236)",
+      "source_index": 236
+    },
+    {
+      "hadith": "وعن (الأحكام) للضياء المقدسي: ما أكثرها نفعًا.",
+      "context": " ابن الملقن's assessment of different books",
+      "explanation": "This is a quote from Ibn al-Mulaqqin praising the book \"Al-Ahkam\" by al-Diya' al-Maqdisi, stating that it is very beneficial.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 291",
+      "source_index": 291
+    },
+    {
+      "hadith": "وعن (الإمام) لابن دقيق العيد: وأما كتابه (الإمام) فهو للمسلمين إمام ولهذًا الفن زمام، لا نظير له، وقال عنه أيضًا: ولو بيض هذا الكتاب وخرج إلى الناس لاستغنىً به عن كل كتاب صنف في نوعه أو بقيت مسودته.",
+      "context": " Ibn al-Mulaqqin's assessment of different books",
+      "explanation": "This is a quote from Ibn al-Mulaqqin praising the book \"Al-Imam\" by Ibn Daqiq al-Eid, stating its importance and value.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 291",
+      "source_index": 291
+    },
+    {
+      "hadith": "وعن (الناسخ والمنسوخ) للحازمي: وهو كتاب لا نظير له في بابه، في غاية التحقيق والنفاسة.",
+      "context": " Ibn al-Mulaqqin's assessment of different books",
+      "explanation": "This is a quote from Ibn al-Mulaqqin praising the book \"Al-Nasikh wal-Mansukh\" by al-Hazimi, stating it is unparalleled in its field.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Index: 291",
+      "source_index": 291
+    },
+    {
+      "hadith": "لا يقبل الله صلاة إلا بظهور والصلاة عليَّ",
+      "context": "Mentioned in relation to the book 'تحفة المحتاج إلى أدلة المنهاج' by Ibn al-Mulaqqin, referencing the 7th hadith after the 100th.",
+      "explanation": "This is a hadith stating that Allah does not accept a prayer unless it is accompanied by the appearance of the Prophet Muhammad (ﷺ) and sending blessings upon him.",
+      "is_complete": false,
+      "completion": "The full hadith would include the chain of narration and the complete text. A common version is: \"لا تقبل صلاة بغير طهور ولا صدقة من غلول ولا صلاة بعد صلاة حتى يتوضأ\" (No prayer is accepted without purification, nor charity from embezzlement, nor prayer after prayer until one performs ablution).",
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 303)",
+      "source_index": 303
+    },
+    {
+      "hadith": "إن دم الـحيـض أسـود",
+      "context": "Mentioned in relation to the book 'تذكرة الأخيار بما في الوسيط من الأخيار', where Ibn al-Mulaqqin refers to a hadith about menstrual blood.",
+      "explanation": "This is a statement regarding the color of menstrual blood, which is described as black.",
+      "is_complete": false,
+      "completion": "The full hadith would include the chain of narration and the complete text. A common version is: \"إذا كان دم الحيض أسود عرف\" (If the menstrual blood is black, it is known).",
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 304)",
+      "source_index": 304
+    },
+    {
+      "hadith": "إن الشيطان ليأتي أحدكم فينفخ بين أليتيه",
+      "context": "Mentioned in relation to the book 'تذكرة الأخيار بما في الوسيط من الأخيار', where Ibn al-Mulaqqin refers to a hadith about the devil.",
+      "explanation": "This is a hadith describing the devil's actions, specifically that he comes to a person and blows between their buttocks.",
+      "is_complete": false,
+      "completion": "The full hadith would include the chain of narration and the complete text. A common version is: \"إذا كان أحدكم في الصلاة، جاء الشيطان فلبس عليه كما يلبس على الرجل ثوبه، فإذا فرغ من صلاته، وثب الشيطان، فإذا انصرف، ركضه ركضة، فينفخ بين أليتيه\" (If one of you is in prayer, the devil comes and confuses him as a man confuses his clothes. When he finishes his prayer, the devil jumps up, and when he turns away, he kicks him a kick and blows between his buttocks).",
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 304)",
+      "source_index": 304
+    },
+    {
+      "hadith": "إن الله لا يستحي من الحق هل على المرأة من غسل",
+      "context": "Mentioned in relation to the book 'تذكرة الأخيار بما في الوسيط من الأخيار', where Ibn al-Mulaqqin refers to a hadith about Allah not being shy of the truth.",
+      "explanation": "This is a hadith stating that Allah is not shy of the truth and poses a question about whether a woman needs to perform ghusl (ritual bath).",
+      "is_complete": false,
+      "completion": "The full hadith would include the chain of narration and the complete text. A common version is: \"إن الله لا يستحي من الحق، هل على المرأة من غسل إذا احتلمت؟\" (Allah is not shy of the truth. Does a woman need to perform ghusl if she has a wet dream?).",
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 304)",
+      "source_index": 304
+    },
+    {
+      "hadith": "كان رسول اللّ يوتر بثلاث عشرة فلما كبر وضعف أوتر بسبع",
+      "context": "The hadith is mentioned in the context of a discussion about the Prophet's (ﷺ) practice of Witr prayer, specifically in relation to the number of rak'ahs.",
+      "explanation": "The Prophet (ﷺ) used to pray Witr with thirteen rak'ahs, but when he grew old and weak, he prayed with seven.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 305)",
+      "source_index": 305
+    },
+    {
+      "hadith": "قال سألت النبي ﷺ عما يحل للرجل من آمرأته وهي جائض؟ فقال: \"ما فوق الإزار\".",
+      "context": "Mentioned in Al-Badr al-Munir while discussing the hadith of Mu'adh.",
+      "explanation": "Mu'adh asked the Prophet (ﷺ) what a man is permitted to do with his wife when she is menstruating. The Prophet (ﷺ) replied: \"What is above the waist wrapper (i.e., the area above the navel).\"",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": true,
+      "span": "Text 2 (Index: 324)",
+      "source_index": 324
+    },
+    {
+      "hadith": "قال: لما رجعت من الحبشة صليت مع رسول اللّ فعلس بعض القوم فقلت يرحمك الله.. الحديث.",
+      "context": "Mentioned in Al-Badr al-Munir when discussing the hadith of Mu'awiyah ibn al-Hakam al-Sulami.",
+      "explanation": "Mu'awiyah ibn al-Hakam al-Sulami said: \"When I returned from Abyssinia, I prayed with the Messenger of Allah (ﷺ). Some people sneezed, and I said, 'May Allah have mercy on you...'\"",
+      "is_complete": false,
+      "completion": "The full hadith continues with Mu'awiyah's account of his prayer and the Prophet's (ﷺ) response.",
+      "is_narrated": true,
+      "span": "Text 2 (Index: 324)",
+      "source_index": 324
+    },
+    {
+      "hadith": "لا تأكل منها أنت ولا أحد من أهل رفقتك",
+      "context": "Mentioned in Al-Badr al-Munir when discussing the Prophet's saying regarding a sacrificial animal that is injured.",
+      "explanation": "The Prophet (ﷺ) said regarding a sacrificial animal that is injured: \"Neither you nor anyone from your companions should eat from it.\"",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Text 2 (Index: 324)",
+      "source_index": 324
+    },
+    {
+      "hadith": "لا تبيعوا الذهب بالذهب",
+      "context": "Mentioned in Al-Badr al-Munir in the context of the hadith of 'Ubada ibn al-Samit.",
+      "explanation": "The Prophet (ﷺ) said: \"Do not sell gold for gold.\"",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "Text 2 (Index: 324)",
+      "source_index": 324
+    },
+    {
+      "hadith": "وحث النبي 䒈 على حفظ السنة وتبليغها، وامتثال الصحابة رضوان الله عليهم لأمره 䒈 وقيامهم بحفظ سنّه وتبليغها",
+      "context": "Describing the introduction of Ibn al-Mulaqqin's book and his discussion on the importance of the Sunnah.",
+      "explanation": "The Prophet (ﷺ) encouraged the preservation and transmission of the Sunnah, and the Companions (may Allah be pleased with them) followed his command by preserving and transmitting it.",
+      "is_complete": false,
+      "completion": "This is a general statement and not a complete hadith. It summarizes the actions of the Prophet and the Companions, which are supported by numerous hadiths. A complete hadith would include the isnad and matn.",
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 333)",
+      "source_index": 333
+    },
+    {
+      "hadith": "عَلَى صحيح الإمام أمير المؤمنين أبي عبد الله محمد بن إسماعيل البخاري، سقىل الله ثراه، وجعل الجنة مأواه، الذي هو أصحُّ الكتب بعد القرآن، وأجلُّها، وأعظمها، وأعمُّها نفعًا بعد الفرقان.",
+      "context": "Introduction to a book explaining Sahih al-Bukhari.",
+      "explanation": "This is a statement praising Sahih al-Bukhari, describing it as the most authentic book after the Quran.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 335)",
+      "source_index": 335
+    },
+    {
+      "hadith": "قال ابن مهدي الحافظ: لأن أعرف علة حديث أحب إلي من أن أكتب عشرين حديثًا ليس عندي.",
+      "context": "Mentioned in the context of discussing books on hadith criticism and identifying weaknesses in narrations.",
+      "explanation": "Ibn Mahdi al-Hafiz (a scholar) said: \"To know the defect (illa) of a hadith is more beloved to me than to write twenty hadiths that I do not have (i.e., whose authenticity I am unsure of).\"",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 351)",
+      "source_index": 351
+    },
+    {
+      "hadith": "باب فِي القَدَرِ حديث رقم ٦٥٩٤",
+      "context": "The context is a discussion of Ibn al-Mulaqqin's commentary on Sahih al-Bukhari, specifically regarding the chapter on Qadar (Divine Decree).",
+      "explanation": "This refers to a specific hadith number (6594) within the chapter on Qadar in Sahih al-Bukhari. The text is referring to the commentary on this hadith.",
+      "is_complete": false,
+      "completion": "The hadith itself is not present, only a reference to it. The text is referring to the commentary on this hadith.",
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 366)",
+      "source_index": 366
+    },
+    {
+      "hadith": "حدثنا محمد بن غرير الزهري قال..",
+      "context": "Describing the beginning of the first volume of a manuscript, which starts with a hadith from Sahih al-Bukhari.",
+      "explanation": "This is the beginning of a hadith narration, mentioning Muhammad ibn Ghurair al-Zuhri as a narrator.",
+      "is_complete": false,
+      "completion": "The full hadith text, including the matn (main text), is missing. The hadith likely continues with the matn after the narrator's name. A possible completion would be: حدثنا محمد بن غرير الزهري قال: حدثنا أبو هريرة قال: قال رسول الله صلى الله عليه وسلم...",
+      "is_narrated": true,
+      "span": "Index: 368",
+      "source_index": 368
+    },
+    {
+      "hadith": "باب صفة النبي ﷺ",
+      "context": "Mentioned in the context of the author's writing process, describing the sections of the book.",
+      "explanation": "This phrase indicates a section or chapter in the book dedicated to describing the Prophet Muhammad (peace be upon him).",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 372)",
+      "source_index": 372
+    },
+    {
+      "hadith": "فقال : لو أستنجيت كلما أتيت الخلاء لكان سنة",
+      "context": "The text mentions a statement about istinja (cleansing after using the toilet) and its status as a sunnah.",
+      "explanation": "This statement suggests that if one were to perform istinja every time they used the toilet, it would be considered a sunnah (recommended practice).",
+      "is_complete": false,
+      "completion": "This statement is incomplete. It is likely a statement of a scholar and not a hadith of the Prophet (ﷺ).",
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 381)",
+      "source_index": 381
+    },
+    {
+      "hadith": "عند باب قول النبي ﷺ: *اللهم علمه الكتابّ",
+      "context": "The text mentions a hadith at the chapter on the Prophet's saying.",
+      "explanation": "This refers to a supplication (dua) of the Prophet (ﷺ): \"O Allah, teach him the Book.\"",
+      "is_complete": false,
+      "completion": "The hadith is incomplete. It is likely a reference to a longer hadith. A possible completion could be: \"اللهم علمه الكتاب والحكمة وفقه في الدين\".",
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 381)",
+      "source_index": 381
+    },
+    {
+      "hadith": "باب ما منَّ النبي ﷺ على الأسارى من غير أن يخمس",
+      "context": "The text mentions a chapter title related to the Prophet's actions regarding prisoners of war.",
+      "explanation": "This refers to a chapter discussing the Prophet's (ﷺ) actions regarding the release of prisoners of war without taking a fifth of the spoils.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 383)",
+      "source_index": 383
+    },
+    {
+      "hadith": "ولم يغب له عقل، بل مات وهو يتلو",
+      "context": "Describing the death of a person and mentioning his state at the time of death.",
+      "explanation": "This is a statement about the person's mental state at the time of death, implying he was of sound mind and reciting something.",
+      "is_complete": true,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 396)",
+      "source_index": 396
+    },
+    {
+      "hadith": null,
+      "context": "The text discusses the writings and works of various scholars, including Ibn Hajar and Al-Burhan.",
+      "explanation": "This section describes the works of scholars, including the study of hadith. No hadith is present.",
+      "is_complete": false,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 1 (Index: 402)",
+      "source_index": 402
+    },
+    {
+      "hadith": null,
+      "context": "The text continues to discuss the writings and works of various scholars, including Ibn Hajar and Al-Burhan.",
+      "explanation": "This section describes the works of scholars, including the study of hadith. No hadith is present.",
+      "is_complete": false,
+      "completion": null,
+      "is_narrated": false,
+      "span": "TEXT 2 (Index: 403)",
+      "source_index": 403
+    },
+    {
+      "hadith": "قوله لا فرق قول سَندين عباره ليرهن لاهلي اصحابه فرسَله واذيابه لاهله",
+      "context": "The text discusses various aspects of speech and actions, including a statement attributed to someone.",
+      "explanation": "This appears to be a statement or saying, but it is difficult to interpret without further context. It mentions 'no difference' and refers to 'my family, his companions, his horsemen and his wolves to his family'.",
+      "is_complete": false,
+      "completion": "This statement is incomplete. It is not a complete hadith. It is a quote or saying, but it is not a complete hadith.",
+      "is_narrated": false,
+      "span": "Page/section reference where found"
+    },
+    {
+      "hadith": "قال الله ثناؤه لا حاجة بنا ان نقدر على من يكون الوفت لان اصحابنا كاذبين",
+      "context": "The text discusses various aspects of speech and actions, including a statement attributed to Allah.",
+      "explanation": "This is a statement attributed to Allah, stating that there is no need for Allah to be able to control the time because the companions are liars.",
+      "is_complete": false,
+      "completion": "This statement is incomplete. It is not a complete hadith. It is a quote or saying, but it is not a complete hadith.",
+      "is_narrated": false,
+      "span": "Page/section reference where found"
+    },
+    {
+      "hadith": "وقد قال الله لو صحبنا فالقول موجودون في لسانكم على الامر",
+      "context": "The text discusses various aspects of speech and actions, including a statement attributed to Allah.",
+      "explanation": "This is a statement attributed to Allah, stating that if Allah were to accompany, then the statement would be present in your tongues.",
+      "is_complete": false,
+      "completion": "This statement is incomplete. It is not a complete hadith. It is a quote or saying, but it is not a complete hadith.",
+      "is_narrated": false,
+      "span": "Page/section reference where found"
+    }
+  ]
+}
