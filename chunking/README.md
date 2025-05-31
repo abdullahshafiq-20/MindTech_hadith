@@ -388,7 +388,7 @@ Located in `chunked_output/chunks/`, each file follows this structure:
 ```json
 [
   {
-    "book_transliteration": "Book Title in English",
+    "book_transliteration": "Book Title",
     "book_slug": "N/A",
     "text": "Cleaned text content",
     "vol": "1",
@@ -505,4 +505,4 @@ The script handles various error cases:
 - The script preserves the original text structure while removing HTML tags
 - Titles are extracted from headings when available
 - Pages without headings are processed with null titles
-- Verification results help ensure content integrity
+- Verification results help ensure content integrity 
