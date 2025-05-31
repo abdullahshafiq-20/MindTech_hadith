@@ -3,21 +3,89 @@ from typing import List, Dict, Any
 import re
 import os
 from pathlib import Path
+from bs4 import BeautifulSoup
+import difflib
 
 def clean_text(text: str) -> str:
-    """Clean the text by removing unnecessary characters and normalizing whitespace."""
-    # Remove special characters and normalize whitespace
+    """Clean the text by removing HTML tags and normalizing whitespace."""
+    # Remove HTML tags using BeautifulSoup
+    soup = BeautifulSoup(text, 'html.parser')
+    text = soup.get_text()
+    
+    # Remove any remaining HTML-like patterns
+    text = re.sub(r'<[^>]+>', '', text)
+    
+    # Remove data-type="title" content
+    text = re.sub(r'\[.*?\]', '', text)  # Remove content in square brackets
+    
+    # Normalize whitespace
     text = re.sub(r'\s+', ' ', text)
     text = text.strip()
+    
+    return text
+
+def remove_title_from_text(text: str, title: str) -> str:
+    """Remove the title from the text if it appears at the beginning."""
+    if not title:  # If title is None or empty
+        return text
+        
+    # Clean both text and title
+    clean_title = clean_text(title)
+    
+    # If the text starts with the title, remove it
+    if text.startswith(clean_title):
+        text = text[len(clean_title):].strip()
+    
     return text
 
 def count_tokens(text: str) -> int:
     """Count the number of tokens in the text (simple word count for now)."""
     return len(text.split())
 
+def verify_text_content(original_text: str, chunked_text: str, title: str) -> Dict[str, Any]:
+    """
+    Verify that the chunked text preserves the essential content from the original text.
+    Returns a dictionary with verification results.
+    """
+    # Clean both texts
+    clean_original = clean_text(original_text)
+    clean_chunked = clean_text(chunked_text)
+    
+    # Remove title from both texts for comparison
+    clean_original = remove_title_from_text(clean_original, title)
+    clean_chunked = remove_title_from_text(clean_chunked, title)
+    
+    # Calculate similarity ratio
+    similarity = difflib.SequenceMatcher(None, clean_original, clean_chunked).ratio()
+    
+    # Get differences
+    diff = list(difflib.unified_diff(
+        clean_original.splitlines(),
+        clean_chunked.splitlines(),
+        lineterm=''
+    ))
+    
+    # Check for significant content loss
+    original_words = set(clean_original.split())
+    chunked_words = set(clean_chunked.split())
+    missing_words = original_words - chunked_words
+    extra_words = chunked_words - original_words
+    
+    verification_result = {
+        "similarity_ratio": similarity,
+        "has_differences": len(diff) > 0,
+        "missing_words": list(missing_words),
+        "extra_words": list(extra_words),
+        "diff_count": len(diff),
+        "is_valid": similarity > 0.95 and len(missing_words) < 10  # Thresholds can be adjusted
+    }
+    
+    return verification_result
+
 def create_chunks(data: Dict[str, Any], book_transliteration: str) -> List[Dict[str, Any]]:
     """Create chunks from the JSON data according to the specified structure."""
     chunks = []
+    verification_results = []
     
     # Process headings and pages
     headings = data.get('headings', [])
@@ -32,30 +100,77 @@ def create_chunks(data: Dict[str, Any], book_transliteration: str) -> List[Dict[
             key = f"{vol}_{page_num}"
             page_content[key] = page.get('text', '')
     
-    # Process each heading and create chunks
+    # Process pages with headings
+    processed_pages = set()
     for heading in headings:
-        title = heading.get('title', '')
+        title = heading.get('title')
         vol = heading.get('page', {}).get('vol')
         page_num = heading.get('page', {}).get('page')
         
         if vol and page_num:
             key = f"{vol}_{page_num}"
-            text = page_content.get(key, '')
+            processed_pages.add(key)
+            original_text = page_content.get(key, '')
+            
+            # Clean the text and remove the title if it appears
+            cleaned_text = clean_text(original_text)
+            cleaned_text = remove_title_from_text(cleaned_text, title)
+            
+            # Verify the text content
+            verification = verify_text_content(original_text, cleaned_text, title)
+            verification_results.append({
+                "vol": vol,
+                "page": page_num,
+                "title": title,
+                "verification": verification
+            })
             
             chunk = {
                 "book_transliteration": book_transliteration,
                 "book_slug": "N/A",
-                "text": clean_text(text),
+                "text": cleaned_text,
                 "vol": vol,
                 "page": page_num,
-                "title": title,
-                "tokens": count_tokens(text)
+                "title": title,  # This can be None
+                "tokens": count_tokens(cleaned_text)
             }
             chunks.append(chunk)
     
-    return chunks
+    # Process remaining pages without headings
+    for page in pages:
+        vol = page.get('vol')
+        page_num = page.get('page')
+        if vol and page_num:
+            key = f"{vol}_{page_num}"
+            if key not in processed_pages:  # Only process pages that weren't handled by headings
+                original_text = page.get('text', '')
+                
+                # Clean the text
+                cleaned_text = clean_text(original_text)
+                
+                # Verify the text content
+                verification = verify_text_content(original_text, cleaned_text, None)
+                verification_results.append({
+                    "vol": vol,
+                    "page": page_num,
+                    "title": None,
+                    "verification": verification
+                })
+                
+                chunk = {
+                    "book_transliteration": book_transliteration,
+                    "book_slug": "N/A",
+                    "text": cleaned_text,
+                    "vol": vol,
+                    "page": page_num,
+                    "title": None,  # No title for these pages
+                    "tokens": count_tokens(cleaned_text)
+                }
+                chunks.append(chunk)
+    
+    return chunks, verification_results
 
-def process_json_file(input_file: str, output_file: str) -> bool:
+def process_json_file(input_file: str, output_dir: str) -> bool:
     """Process the input JSON file and write the chunks to the output file."""
     try:
         # Read the input JSON file
@@ -68,13 +183,38 @@ def process_json_file(input_file: str, output_file: str) -> bool:
             print(f"Warning: Book transliteration not found in {input_file}")
             return False
         
-        # Create chunks
-        chunks = create_chunks(data, book_transliteration)
+        # Create chunks and get verification results
+        chunks, verification_results = create_chunks(data, book_transliteration)
         
-        # Write the output JSON file
-        with open(output_file, 'w', encoding='utf-8') as f:
+        # Create output filenames
+        input_filename = Path(input_file).stem
+        chunked_output_file = os.path.join(output_dir, 'chunks', f"{input_filename}--chunked.json")
+        verification_output_file = os.path.join(output_dir, 'verification', f"{input_filename}--verification.json")
+        
+        # Create subdirectories if they don't exist
+        os.makedirs(os.path.dirname(chunked_output_file), exist_ok=True)
+        os.makedirs(os.path.dirname(verification_output_file), exist_ok=True)
+        
+        # Write the chunked output JSON file
+        with open(chunked_output_file, 'w', encoding='utf-8') as f:
             json.dump(chunks, f, ensure_ascii=False, indent=2)
+        
+        # Write verification results to a separate file
+        with open(verification_output_file, 'w', encoding='utf-8') as f:
+            json.dump(verification_results, f, ensure_ascii=False, indent=2)
             
+        # Print verification summary
+        total_chunks = len(verification_results)
+        valid_chunks = sum(1 for v in verification_results if v['verification']['is_valid'])
+        print(f"\nVerification Summary for {os.path.basename(input_file)}:")
+        print(f"Total chunks: {total_chunks}")
+        print(f"Valid chunks: {valid_chunks}")
+        print(f"Invalid chunks: {total_chunks - valid_chunks}")
+        print(f"Pages with titles: {sum(1 for v in verification_results if v['title'] is not None)}")
+        print(f"Pages without titles: {sum(1 for v in verification_results if v['title'] is None)}")
+        print(f"Chunked output saved to: {chunked_output_file}")
+        print(f"Verification results saved to: {verification_output_file}")
+        
         return True
         
     except Exception as e:
@@ -83,8 +223,9 @@ def process_json_file(input_file: str, output_file: str) -> bool:
 
 def process_all_json_files(input_dir: str, output_dir: str):
     """Process all JSON files in the input directory and save results to output directory."""
-    # Create output directory if it doesn't exist
-    os.makedirs(output_dir, exist_ok=True)
+    # Create main output directory and subdirectories
+    os.makedirs(os.path.join(output_dir, 'chunks'), exist_ok=True)
+    os.makedirs(os.path.join(output_dir, 'verification'), exist_ok=True)
     
     # Get all JSON files in the input directory
     json_files = list(Path(input_dir).glob('*.json'))
@@ -104,15 +245,10 @@ def process_all_json_files(input_dir: str, output_dir: str):
     for i, json_file in enumerate(json_files, 1):
         print(f"\nProcessing file {i}/{total_files}: {json_file.name}")
         
-        # Create output filename
-        output_filename = f"{json_file.stem}--chunked.json"
-        output_path = os.path.join(output_dir, output_filename)
-        
         # Process the file
-        if process_json_file(str(json_file), output_path):
+        if process_json_file(str(json_file), output_dir):
             successful += 1
             print(f"✓ Successfully processed {json_file.name}")
-            print(f"  Output saved to: {output_path}")
         else:
             failed += 1
             print(f"✗ Failed to process {json_file.name}")
@@ -124,6 +260,12 @@ def process_all_json_files(input_dir: str, output_dir: str):
     print(f"Total files processed: {total_files}")
     print(f"Successfully processed: {successful}")
     print(f"Failed to process: {failed}")
+    print(f"\nOutput Directory Structure:")
+    print(f"  {output_dir}/")
+    print(f"  ├── chunks/")
+    print(f"  │   └── [chunked JSON files]")
+    print(f"  └── verification/")
+    print(f"      └── [verification JSON files]")
 
 if __name__ == "__main__":
     # Define input and output directories

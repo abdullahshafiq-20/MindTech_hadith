@@ -1,0 +1,5483 @@
+[
+  {
+    "vol": "1",
+    "page": 5,
+    "title": "مقدمة المحقق",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 6,
+    "title": "- المصنفات التي ألفت في هذا الموضوع",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 8,
+    "title": "ترجمة مختصرة للمصنف",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 8,
+    "title": "اسمه ونسبه",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 8,
+    "title": "مولده",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 8,
+    "title": "نشأته وطلبه للعلم",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 9,
+    "title": "وفاته",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 9,
+    "title": "مصادر الترجمة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 10,
+    "title": "مقدمة المؤلف",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 10,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 11,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 0.9964373801041381,
+      "has_differences": true,
+      "missing_words": [
+        "٣٨]",
+        "[النساء:"
+      ],
+      "extra_words": [],
+      "diff_count": 5,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 12,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 13,
+    "title": "الباب الأول باب بيان جواز النسخ والفرق بينه وبين البداء",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 13,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 14,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 14,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 14,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 15,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 15,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 15,
+    "title": "الباب الثاني باب إثبات أن في القرآن منسوخا",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 17,
+    "title": "الباب الثالث باب بيان حقيقة النسخ",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 19,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 20,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 20,
+    "title": "الباب الرابع باب شروط النسخ",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 20,
+    "title": "الشرط الأول: أن يكون الحكم في الناسخ والمنسوخ متناقضا",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 21,
+    "title": "والشرط الثاني: أن يكون الحكم المنسوخ ثابتا قبل ثبوت حكم الناسخ",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 21,
+    "title": "والشرط الثالث: أن يكون الحكم المنسوخ مشروعا",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 21,
+    "title": "والشرط الرابع: أن يكون ثبوت الحكم الناسخ مشروعا كثبوت المنسوخ",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 21,
+    "title": "والشرط الخامس:",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 21,
+    "title": "الباب الخامس باب ذكر ما اختلف فيه هل هو شرط في النسخ أم لا؟",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 23,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 23,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 24,
+    "title": "الباب السادس باب فضيلة علم الناسخ والمنسوخ والأمر بتعلمه",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 27,
+    "title": "الباب السابع باب أقسام المنسوخ",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 27,
+    "title": "فالقسم الأول: ما نسخ رسمه وحكمه",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 30,
+    "title": "القسم الثاني: ما نسخ رسمه وبقي حكمه",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 33,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 35,
+    "title": "القسم الثالث: ما نسخ حكمه وبقي رسمه",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 35,
+    "title": "الباب الثامن باب ذكر السور التي تضمن الناسخ والمنسوخ، أو أحدهما، أو خلت عنهما",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 36,
+    "title": "الباب التاسع باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة البقرة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 36,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 36,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 37,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 38,
+    "title": "ذكر الآية الرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 38,
+    "title": "ذكر الآية الخامسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 39,
+    "title": "ذكر الآية السادسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 40,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 40,
+    "title": "ذكر الآية السابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 45,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 47,
+    "title": "ذكر الآية الثامنة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 47,
+    "title": "ذكر الآية التاسعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 48,
+    "title": "ذكر الآية العاشرة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 49,
+    "title": "ذكر الآية الحادية عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 50,
+    "title": "ذكر الآية الثانية عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 51,
+    "title": "ذكر الآية الثالثة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 52,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 58,
+    "title": "ذكر الآية الرابعة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 61,
+    "title": "ذكر الآية الخامسة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 61,
+    "title": "القول الأول: أنه يقتضي التخيير بين الصوم والإفطار مع الإطعام",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 63,
+    "title": "والقول الثاني: أنه محكم غير منسوخ",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 65,
+    "title": "ذكر الآية السادسة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 66,
+    "title": "القول الأول: أنها منسوخة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 66,
+    "title": "القول الثاني انها محكمة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 67,
+    "title": "ذكر الآية السابعة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 67,
+    "title": "القول الأول: أنها منسوخة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 67,
+    "title": "والقول الثاني: أنها محكمة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 68,
+    "title": "ذكر الآية الثامنة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 69,
+    "title": "ذكر الآية التاسعة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 69,
+    "title": "الأول: أن فيها منسوخا",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 70,
+    "title": "الثانى أنها محكمة غير منسوخة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 71,
+    "title": "ذكر الآية العشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 71,
+    "title": "ذكر الآية الحادية والعشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 72,
+    "title": "ذكر الآية الثانية والعشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 73,
+    "title": "ذكر الآية الثالثة والعشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 73,
+    "title": "ذكر الآية الرابعة والعشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 76,
+    "title": "ذكر الآية الخامسة والعشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 76,
+    "title": "ذكر الآية السادسة والعشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 77,
+    "title": "ذكر الآية السابعة والعشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 78,
+    "title": "ذكر الآية الثامنة والعشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 79,
+    "title": "ذكر الآية التاسعة والعشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 79,
+    "title": "القول الأول: أنه قوله: والمطلقات يتربصن بأنفسهن ثلاثة قروء.",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 79,
+    "title": "والقول الثاني: أن أول الآية محكم، وإنما المنسوخ منها قوله: وبعولتهن أحق بردهن [البقرة: ٢٢٨]",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 80,
+    "title": "ذكر الآية الثلاثين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 80,
+    "title": "ذكر الآية الحادية والثلاثين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 81,
+    "title": "ذكر الآية الثانية والثلاثين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 82,
+    "title": "ذكر الآية الثالثة والثلاثين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 83,
+    "title": "ذكر الآية الرابعة والثلاثين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 84,
+    "title": "فذهب قوم إلى أنه محكم",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 85,
+    "title": "والقول الثاني: أنه منسوخ",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 86,
+    "title": "ذكر الآية الخامسة والثلاثين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 89,
+    "title": "ذكر الآية السادسة والثلاثين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 95,
+    "title": "ذكر الآية السابعة والثلاثين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 95,
+    "title": "الأول: أنها محكمة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 95,
+    "title": "والثاني أنها منسوخة:",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 95,
+    "title": "الباب العاشر باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة آل عمران",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 95,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 96,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 96,
+    "title": "ذكر الآية الثالثة والرابعة والخامسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 98,
+    "title": "ذكر الآية السادسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 98,
+    "title": "ذكر الآية السابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 98,
+    "title": "القول الأول: أنه منسوخ",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 100,
+    "title": "والقول الثاني: أنها محكمة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 101,
+    "title": "ذكر الآية الثامنة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 101,
+    "title": "ذكر الآية التاسعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 102,
+    "title": "ذكر الآية العاشرة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 102,
+    "title": "الباب الحادي عشر باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة النساء وهي ست وعشرون",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 102,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 104,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 105,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 105,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 105,
+    "title": "الأول: أنها محكمة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 106,
+    "title": "القول الثاني: أنها منسوخة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 108,
+    "title": "ذكر الآية الرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 109,
+    "title": "ذكر الآية الخامسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 109,
+    "title": "ذكر الآية السادسة والسابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 111,
+    "title": "ذكر الآية الثامنة والتاسعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 112,
+    "title": "ذكر الآية العاشرة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 112,
+    "title": "ذكر الآية الحادية عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 112,
+    "title": "ذكر الآية الثانية عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 114,
+    "title": "ذكر الآية الثالثة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 115,
+    "title": "ذكر الآية الرابعة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 116,
+    "title": "فصل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 118,
+    "title": "ذكر الآية الخامسة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 118,
+    "title": "ذكر الآية السادسة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 119,
+    "title": "ذكر الآية السابعة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 119,
+    "title": "ذكر الآية الثامنة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 120,
+    "title": "ذكر الآية التاسعة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 120,
+    "title": "ذكر الآية العشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 120,
+    "title": "ذكر الآية الحادية والعشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 120,
+    "title": "ذكر الآية الثانية والعشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 121,
+    "title": "ذكر الآية الثالثة والعشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 121,
+    "title": "ذكر الآية الرابعة والعشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 121,
+    "title": "ذكر الآية الخامسة والعشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 122,
+    "title": "القول الأول: أنها منسوخة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 122,
+    "title": "والقول الثاني: أنها محكمة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 125,
+    "title": "ذكر الآية السادسة والعشرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 126,
+    "title": "الباب الثاني عشر باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة المائدة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 126,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 126,
+    "title": "القول الأول: أنها محكمة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 126,
+    "title": "والقول الثاني: أنها منسوخة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 128,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 130,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 131,
+    "title": "ذكر الآية الرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 131,
+    "title": "الأول: أنه منسوخ",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 131,
+    "title": "والقول الثاني: أنه محكم",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 132,
+    "title": "ذكر الآية الخامسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 132,
+    "title": "ذكر الآية السادسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 132,
+    "title": "الأول: أنها منسوخة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 133,
+    "title": "والقول الثاني: أنها محكمة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 134,
+    "title": "ذكر الآية السابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 134,
+    "title": "الأول: أنها محكمة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 135,
+    "title": "والثاني أنها منسوخة:",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 135,
+    "title": "ذكر الآية الثامنة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 135,
+    "title": "القول الأول: أنها منسوخة:",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 135,
+    "title": "القول الثاني: أنها محكمة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 137,
+    "title": "ذكر الآية التاسعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 138,
+    "title": "الباب الثالث عشر باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة الأنعام",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 138,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 138,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 138,
+    "title": "الأول أنها منسوخة:",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 139,
+    "title": "والثاني أنها محكمة:",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 139,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 139,
+    "title": "ذكر الآية الرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 139,
+    "title": "ذكر الآية الخامسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 140,
+    "title": "ذكر الآية السادسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 140,
+    "title": "ذكر الآية السابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 140,
+    "title": "ذكر الآية الثامنة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 140,
+    "title": "ذكر الآية التاسعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 141,
+    "title": "ذكر الآية العاشرة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 141,
+    "title": "ذكر الآية الحادية عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 141,
+    "title": "ذكر الآية الثانية عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 141,
+    "title": "ذكر الآية الثالثة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 141,
+    "title": "ذكر الآية الرابعة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 142,
+    "title": "ذكر الآية الخامسة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 143,
+    "title": "ذكر الآية السادسة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 144,
+    "title": "ذكر الآية السابعة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 144,
+    "title": "ذكر الآية الثامنة عشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 145,
+    "title": "الباب الرابع عشر باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة الأعراف",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 145,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 145,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 145,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 146,
+    "title": "الباب الخامس عشر باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة الأنفال",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 146,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 147,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 148,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 149,
+    "title": "ذكر الآية الرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 150,
+    "title": "ذكر الآية الخامسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 151,
+    "title": "ذكر الآية السادسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 152,
+    "title": "ذكر الآية السابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 153,
+    "title": "الباب السادس عشر باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة التوبة",
+    "verification": {
+      "similarity_ratio": 0.9961953075459734,
+      "has_differences": true,
+      "missing_words": [
+        "[التوبة:",
+        "٧١]،"
+      ],
+      "extra_words": [
+        "،"
+      ],
+      "diff_count": 5,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 153,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 0.9961953075459734,
+      "has_differences": true,
+      "missing_words": [
+        "[التوبة:",
+        "٧١]،"
+      ],
+      "extra_words": [
+        "،"
+      ],
+      "diff_count": 5,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 154,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 155,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 155,
+    "title": "ذكر الآية الرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 156,
+    "title": "ذكر الآية الخامسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 157,
+    "title": "ذكر الآية السادسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 157,
+    "title": "ذكر الآية السابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 158,
+    "title": "ذكر الآية الثامنة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 159,
+    "title": "ذكر الآية التاسعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 159,
+    "title": "الباب السابع عشر باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة يونس ﵇",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 159,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 160,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 160,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 160,
+    "title": "ذكر الآية الرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 160,
+    "title": "ذكر الآية الخامسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 161,
+    "title": "ذكر الآية السادسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 161,
+    "title": "الباب الثامن عشر باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة هود",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 161,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 161,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 162,
+    "title": "ذكر الآية الثالثة والرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 162,
+    "title": "الباب التاسع عشر باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة الرعد",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 162,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 162,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 163,
+    "title": "الباب العشرون باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة الحجر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 163,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 163,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 163,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 164,
+    "title": "ذكر الآية الرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 164,
+    "title": "ذكر الآية الخامسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 164,
+    "title": "الباب الحادي والعشرون باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة النحل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 164,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 166,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 166,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 167,
+    "title": "ذكر الآية الرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 167,
+    "title": "الأول أنها منسوخة:",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 167,
+    "title": "والثاني: أنها محكمة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 167,
+    "title": "ذكر الآية الخامسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 168,
+    "title": "الباب الثاني والعشرون باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة بني إسرائيل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 168,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 169,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 169,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 169,
+    "title": "ذكر الآية الرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 170,
+    "title": "فأما سورة الكهف: فليس فيها منسوخ",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 170,
+    "title": "الباب الثالث والعشرون باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة مريم",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 170,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 170,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 170,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 171,
+    "title": "ذكر الآية الرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 171,
+    "title": "ذكر الآية الخامسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 171,
+    "title": "الباب الرابع والعشرون باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة طه",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 171,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 172,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 172,
+    "title": "الباب الخامس والعشرون باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة الحج",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 172,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 172,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 172,
+    "title": "القول الأول: أنها منسوخة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 172,
+    "title": "والقول الثاني: أنها محكمة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 173,
+    "title": "الباب السادس والعشرون باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة المؤمنون",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 173,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 173,
+    "title": "الأول: أنها منسوخة بآية السيف",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 173,
+    "title": "والثاني أنها محكمة:",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 173,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 173,
+    "title": "الباب السابع والعشرون باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة النور",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 173,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 174,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 174,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 175,
+    "title": "ذكر الآية الرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 175,
+    "title": "ذكر الآية الخامسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 176,
+    "title": "ذكر الآية السادسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 176,
+    "title": "ذكر الآية السابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 177,
+    "title": "الباب الثامن والعشرون باب ذكر الآيات اللواتي ادعي عليهن النسخ في سورة الفرقان",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 177,
+    "title": "ذكر الآيات الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 177,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 178,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 0.9957173447537473,
+      "has_differences": true,
+      "missing_words": [
+        "٩٣]،",
+        "[النساء:"
+      ],
+      "extra_words": [],
+      "diff_count": 5,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 178,
+    "title": "القول الأول: أنها منسوخة",
+    "verification": {
+      "similarity_ratio": 0.9957716701902748,
+      "has_differences": true,
+      "missing_words": [
+        "٩٣]،",
+        "[النساء:"
+      ],
+      "extra_words": [],
+      "diff_count": 5,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 178,
+    "title": "والقول الثاني: أنها محكمة",
+    "verification": {
+      "similarity_ratio": 0.9957716701902748,
+      "has_differences": true,
+      "missing_words": [
+        "٩٣]،",
+        "[النساء:"
+      ],
+      "extra_words": [],
+      "diff_count": 5,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 178,
+    "title": "الباب التاسع والعشرون باب ذكر ما ادعي عليه النسخ في سورة الشعراء",
+    "verification": {
+      "similarity_ratio": 0.9957716701902748,
+      "has_differences": true,
+      "missing_words": [
+        "٩٣]،",
+        "[النساء:"
+      ],
+      "extra_words": [],
+      "diff_count": 5,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 179,
+    "title": "الباب الثلاثون باب ذكر ما ادعي عليه النسخ في سورة النمل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 179,
+    "title": "الباب الحادي والثلاثون باب ذكر ما ادعي عليه النسخ في سورة القصص",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 180,
+    "title": "الباب الثاني والثلاثون باب ذكر ما ادعي عليه النسخ في سورة العنكبوت",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 180,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 180,
+    "title": "القول الأول: أنها نسخت",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 180,
+    "title": "والقول الثاني: أنها ثابتة الحكم",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 181,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 181,
+    "title": "الباب الرابع والثلاثون باب ذكر ادعي عليه النسخ في سورة لقمان",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 181,
+    "title": "الباب الثالث والثلاثون باب ذكر ما ادعي عليه النسخ في سورة الروم",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 182,
+    "title": "الباب الخامس والثلاثون باب ذكر ما ادعي عليه النسخ في سورة السجدة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 182,
+    "title": "الباب السادس والثلاثون باب ذكر ما ادعي عليه النسخ في سورة الأحزاب",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 182,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 182,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 183,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 183,
+    "title": "القول الأول: أنها منسوخة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 184,
+    "title": "والقول الثاني: أنها محكمة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 184,
+    "title": "الباب السابع والثلاثون باب ذكر ما ادعي عليه النسخ في سورة سبأ",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 185,
+    "title": "الباب الثامن والثلاثون باب ذكر ما ادعي عليه النسخ في سورة فاطر",
+    "verification": {
+      "similarity_ratio": 0.8102189781021898,
+      "has_differences": true,
+      "missing_words": [
+        "١٧٨،",
+        "١٧٩]",
+        "[الصافات:"
+      ],
+      "extra_words": [],
+      "diff_count": 5,
+      "is_valid": false
+    }
+  },
+  {
+    "vol": "1",
+    "page": 185,
+    "title": "الباب التاسع والثلاثون باب ذكر ما ادعي عليه النسخ في سورة الصافات",
+    "verification": {
+      "similarity_ratio": 0.8102189781021898,
+      "has_differences": true,
+      "missing_words": [
+        "١٧٨،",
+        "١٧٩]",
+        "[الصافات:"
+      ],
+      "extra_words": [],
+      "diff_count": 5,
+      "is_valid": false
+    }
+  },
+  {
+    "vol": "1",
+    "page": 185,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 0.8102189781021898,
+      "has_differences": true,
+      "missing_words": [
+        "١٧٨،",
+        "١٧٩]",
+        "[الصافات:"
+      ],
+      "extra_words": [],
+      "diff_count": 5,
+      "is_valid": false
+    }
+  },
+  {
+    "vol": "1",
+    "page": 185,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 0.8102189781021898,
+      "has_differences": true,
+      "missing_words": [
+        "١٧٨،",
+        "١٧٩]",
+        "[الصافات:"
+      ],
+      "extra_words": [],
+      "diff_count": 5,
+      "is_valid": false
+    }
+  },
+  {
+    "vol": "1",
+    "page": 185,
+    "title": "ذكر الآية الثالثة والرابعة",
+    "verification": {
+      "similarity_ratio": 0.8102189781021898,
+      "has_differences": true,
+      "missing_words": [
+        "١٧٨،",
+        "١٧٩]",
+        "[الصافات:"
+      ],
+      "extra_words": [],
+      "diff_count": 5,
+      "is_valid": false
+    }
+  },
+  {
+    "vol": "1",
+    "page": 186,
+    "title": "الباب الأربعون باب ذكر ما ادعي عليه النسخ في سورة ص",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 186,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 186,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 186,
+    "title": "الباب الحادي والأربعون باب ذكر ما ادعي عليه النسخ في سورة الزمر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 186,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 187,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 187,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 187,
+    "title": "ذكر الآية الرابعة والخامسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 187,
+    "title": "ذكر الآية السادسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 187,
+    "title": "ذكر الآية السابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 188,
+    "title": "الباب الثاني والأربعون باب ذكر ما ادعي عليه النسخ في سورة المؤمن [غافر]",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 188,
+    "title": "الباب الثالث والأربعون باب ذكر ما ادعي عليه النسخ في سورة حم السجدة [فصلت]",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 189,
+    "title": "الباب الرابع والأربعون باب ذكر ما ادعي عليه النسخ في سورة حم عسق [الشورى]",
+    "verification": {
+      "similarity_ratio": 0.9966239027683997,
+      "has_differences": true,
+      "missing_words": [
+        "٦]",
+        "[غافر:"
+      ],
+      "extra_words": [],
+      "diff_count": 5,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 189,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 0.9966239027683997,
+      "has_differences": true,
+      "missing_words": [
+        "٦]",
+        "[غافر:"
+      ],
+      "extra_words": [],
+      "diff_count": 5,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 189,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 0.9966239027683997,
+      "has_differences": true,
+      "missing_words": [
+        "٦]",
+        "[غافر:"
+      ],
+      "extra_words": [],
+      "diff_count": 5,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 189,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 0.9966239027683997,
+      "has_differences": true,
+      "missing_words": [
+        "٦]",
+        "[غافر:"
+      ],
+      "extra_words": [],
+      "diff_count": 5,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 190,
+    "title": "ذكر الآية الرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 190,
+    "title": "الأول: أنه منسوخ",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 190,
+    "title": "والثاني: أنه محكم",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 190,
+    "title": "ذكر الآية الخامسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 191,
+    "title": "ذكر الآية السادسة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 191,
+    "title": "ذكر الآية السابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 191,
+    "title": "ذكر الآية الثامنة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 192,
+    "title": "ذكر الآية التاسعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 192,
+    "title": "الباب الخامس والأربعون باب ذكر ما ادعي عليه النسخ في سورة الزخرف",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 192,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 192,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 193,
+    "title": "الباب السادس والأربعون باب ذكر ما ادعي عليه النسخ في سورة الدخان",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 193,
+    "title": "الباب السابع والأربعون باب ذكر ما ادعي عليه النسخ في سورة الجاثية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 195,
+    "title": "الباب الثامن والأربعون باب ذكر ما ادعي عليه النسخ في سورة الأحقاف",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 195,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 196,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 197,
+    "title": "الباب التاسع والأربعون باب ذكر ما ادعي عليه النسخ في سورة محمد ﷺ",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 197,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 197,
+    "title": "الأول: أنها محكمة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 197,
+    "title": "والثاني: أن المن والفداء نسخ",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 198,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 198,
+    "title": "الباب الخمسون باب ذكر ما ادعي عليه النسخ في سورة ق",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 199,
+    "title": "الباب الحادي والخمسون باب ذكر ما ادعي عليه النسخ من سورة الذاريات",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 199,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 199,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 199,
+    "title": "الباب الثاني والخمسون باب ذكر ما ادعي عليه النسخ في سورة الطور",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 199,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 200,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 200,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 200,
+    "title": "الباب الثالث والخمسون باب ذكر ما ادعي عليه النسخ في سورة النجم",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 200,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 200,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 201,
+    "title": "الباب الرابع والخمسون باب ذكر ما ادعي عليه النسخ في سورة القمر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 201,
+    "title": "الباب الخامس والخمسون باب ذكر ما ادعي عليه النسخ في سورة المجادلة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 204,
+    "title": "الباب السادس والخمسون باب ذكر ما ادعي عليه النسخ في سورة الحشر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 205,
+    "title": "الباب السابع والخمسون باب ذكر ما ادعي عليهن النسخ من سورة الممتحنة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 205,
+    "title": "ذكر الآية الأولى والثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 206,
+    "title": "ذكر الآية الثالثة والرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 208,
+    "title": "الباب الثامن والخمسون باب ذكر ما ادعي عليه النسخ في سورة التغابن",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 209,
+    "title": "الباب التاسع والخمسون باب ذكر ما ادعي عليه النسخ في سورة ن",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 209,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 209,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 209,
+    "title": "الباب الستون باب ذكر ما ادعي عليه النسخ في سورة سأل سائل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 209,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 210,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 210,
+    "title": "الباب الحادي والستون باب ذكر ما ادعي عليه النسخ في سورة المزمل",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 210,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 212,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 212,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 212,
+    "title": "ذكر الآية الرابعة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 212,
+    "title": "الباب الثاني والستون باب ذكر ما ادعي عليه النسخ في سورة المدثر",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 213,
+    "title": "الباب الثالث والستون باب ذكر ما ادعي عليه النسخ في سورة (هل أتى)",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 213,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 214,
+    "title": "ذكر الآية الثانية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 214,
+    "title": "ذكر الآية الثالثة",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 214,
+    "title": "الباب الرابع والستون باب ذكر ما ادعي عليه النسخ في سورة الطارق",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 214,
+    "title": "ذكر الآية الأولى",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 214,
+    "title": "الباب الخامس والستون باب ذكر ما ادعي عليه النسخ في سورة الغاشية",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 215,
+    "title": "الباب السادس والستون باب ذكر ما ادعي عليه النسخ في سورة التين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 215,
+    "title": "الباب السابع والستون باب ذكر ما ادعي عليه النسخ في سورة الكافرين",
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 7,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 16,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 18,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 22,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 25,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 26,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 28,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 29,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 31,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 32,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 34,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 41,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 42,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 43,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 44,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 46,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 53,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 54,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 55,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 56,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 57,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 59,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 60,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 62,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 64,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 74,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 75,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 87,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 0.9971117529437903,
+      "has_differences": true,
+      "missing_words": [
+        "٩٢]",
+        "[النساء:"
+      ],
+      "extra_words": [],
+      "diff_count": 5,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 88,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 90,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 91,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 92,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 93,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 94,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 97,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 99,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 103,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 107,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 110,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 113,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 117,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 123,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 124,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 127,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 129,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 136,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 165,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 194,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 202,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 203,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 207,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  },
+  {
+    "vol": "1",
+    "page": 211,
+    "title": null,
+    "verification": {
+      "similarity_ratio": 1.0,
+      "has_differences": false,
+      "missing_words": [],
+      "extra_words": [],
+      "diff_count": 0,
+      "is_valid": true
+    }
+  }
+]
