@@ -62,7 +62,7 @@ Located in `chunked_output/chunks/`, each file follows this structure:
 ```json
 [
   {
-    "book_transliteration": "Book Title in English",
+    "book_transliteration": "Book Title",
     "book_slug": "N/A",
     "text": "Cleaned text content",
     "vol": "1",
