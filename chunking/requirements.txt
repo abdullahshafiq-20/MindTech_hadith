@@ -1,0 +1,11 @@
+# Core dependencies
+transformers>=4.36.0
+torch>=2.1.0
+beautifulsoup4>=4.12.0
+
+# Text processing and utilities
+numpy>=1.24.0
+tqdm>=4.66.0
+
+# Optional but recommended for better performance
+accelerate>=0.25.0

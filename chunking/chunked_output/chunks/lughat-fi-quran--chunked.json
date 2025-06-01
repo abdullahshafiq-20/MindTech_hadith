@@ -6,7 +6,7 @@
     "vol": "1",
     "page": 20,
     "title": "سورة البقرة",
-    "tokens": 101
+    "tokens": 383
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -15,7 +15,7 @@
     "vol": "1",
     "page": 22,
     "title": "سورة آل عمران",
-    "tokens": 92
+    "tokens": 339
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -24,7 +24,7 @@
     "vol": "1",
     "page": 24,
     "title": "سورة النساء",
-    "tokens": 135
+    "tokens": 520
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -33,7 +33,7 @@
     "vol": "1",
     "page": 25,
     "title": "سورة المائدة",
-    "tokens": 120
+    "tokens": 422
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -42,7 +42,7 @@
     "vol": "1",
     "page": 26,
     "title": "سورة الأنعام",
-    "tokens": 141
+    "tokens": 526
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -51,7 +51,7 @@
     "vol": "1",
     "page": 27,
     "title": "سورة الأعراف",
-    "tokens": 138
+    "tokens": 480
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -60,7 +60,7 @@
     "vol": "1",
     "page": 28,
     "title": "سورة الأنفال",
-    "tokens": 134
+    "tokens": 498
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -69,7 +69,7 @@
     "vol": "1",
     "page": 29,
     "title": "سورة التوبة",
-    "tokens": 125
+    "tokens": 454
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -78,7 +78,7 @@
     "vol": "1",
     "page": 30,
     "title": "سورة يونس",
-    "tokens": 146
+    "tokens": 538
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -87,7 +87,7 @@
     "vol": "1",
     "page": 30,
     "title": "سورة هود",
-    "tokens": 146
+    "tokens": 538
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -96,7 +96,7 @@
     "vol": "1",
     "page": 32,
     "title": "ومن سورة يوسف",
-    "tokens": 98
+    "tokens": 370
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -105,7 +105,7 @@
     "vol": "1",
     "page": 32,
     "title": "سورة ابراهيم",
-    "tokens": 98
+    "tokens": 370
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -114,7 +114,7 @@
     "vol": "1",
     "page": 33,
     "title": "سورة الحجر",
-    "tokens": 85
+    "tokens": 331
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -123,7 +123,7 @@
     "vol": "1",
     "page": 33,
     "title": "سورة النحل",
-    "tokens": 87
+    "tokens": 340
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -132,7 +132,7 @@
     "vol": "1",
     "page": 34,
     "title": "سورة بني إسرائيل",
-    "tokens": 114
+    "tokens": 455
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -141,7 +141,7 @@
     "vol": "1",
     "page": 35,
     "title": "سورة الكهف",
-    "tokens": 142
+    "tokens": 502
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -150,7 +150,7 @@
     "vol": "1",
     "page": 36,
     "title": "سورة مريم",
-    "tokens": 114
+    "tokens": 414
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -159,7 +159,7 @@
     "vol": "1",
     "page": 36,
     "title": "سورة طه",
-    "tokens": 114
+    "tokens": 414
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -168,7 +168,7 @@
     "vol": "1",
     "page": 37,
     "title": "سورة الأنبياء",
-    "tokens": 107
+    "tokens": 378
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -177,7 +177,7 @@
     "vol": "1",
     "page": 37,
     "title": "ومن سورة الحج",
-    "tokens": 107
+    "tokens": 378
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -186,7 +186,7 @@
     "vol": "1",
     "page": 38,
     "title": "ومن سورة قد أفلح",
-    "tokens": 112
+    "tokens": 450
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -195,7 +195,7 @@
     "vol": "1",
     "page": 38,
     "title": "ومن سورة النور",
-    "tokens": 112
+    "tokens": 450
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -204,7 +204,7 @@
     "vol": "1",
     "page": 39,
     "title": "ومن سورة الفرقان",
-    "tokens": 84
+    "tokens": 318
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -213,7 +213,7 @@
     "vol": "1",
     "page": 39,
     "title": "سورة الشعراء",
-    "tokens": 84
+    "tokens": 318
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -222,7 +222,7 @@
     "vol": "1",
     "page": 39,
     "title": "سورة النمل",
-    "tokens": 84
+    "tokens": 318
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -231,7 +231,7 @@
     "vol": "1",
     "page": 40,
     "title": "سورة القصص",
-    "tokens": 105
+    "tokens": 399
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -240,7 +240,7 @@
     "vol": "1",
     "page": 40,
     "title": "سورة السجدة",
-    "tokens": 107
+    "tokens": 408
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -249,7 +249,7 @@
     "vol": "1",
     "page": 40,
     "title": "سورة الأحزاب",
-    "tokens": 107
+    "tokens": 408
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -258,7 +258,7 @@
     "vol": "1",
     "page": 41,
     "title": "سورة سبأ",
-    "tokens": 92
+    "tokens": 359
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -267,7 +267,7 @@
     "vol": "1",
     "page": 41,
     "title": "سورة يسن",
-    "tokens": 92
+    "tokens": 359
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -276,7 +276,7 @@
     "vol": "1",
     "page": 41,
     "title": "سورة الصافات",
-    "tokens": 92
+    "tokens": 359
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -285,7 +285,7 @@
     "vol": "1",
     "page": 42,
     "title": "سورة صاد",
-    "tokens": 127
+    "tokens": 455
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -294,7 +294,7 @@
     "vol": "1",
     "page": 43,
     "title": "سورة الزمر",
-    "tokens": 104
+    "tokens": 385
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -303,7 +303,7 @@
     "vol": "1",
     "page": 43,
     "title": "سورة غافر",
-    "tokens": 104
+    "tokens": 385
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -312,7 +312,7 @@
     "vol": "1",
     "page": 43,
     "title": "سورة فصلت",
-    "tokens": 104
+    "tokens": 385
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -321,7 +321,7 @@
     "vol": "1",
     "page": 44,
     "title": "سورة الزخرف",
-    "tokens": 96
+    "tokens": 343
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -330,7 +330,7 @@
     "vol": "1",
     "page": 44,
     "title": "سورة الدخان",
-    "tokens": 98
+    "tokens": 353
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -339,7 +339,7 @@
     "vol": "1",
     "page": 44,
     "title": "سورة الجاثية",
-    "tokens": 98
+    "tokens": 353
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -348,7 +348,7 @@
     "vol": "1",
     "page": 44,
     "title": "سورة الأحقاف",
-    "tokens": 98
+    "tokens": 353
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -357,7 +357,7 @@
     "vol": "1",
     "page": 45,
     "title": "سورة محمد ﷺ",
-    "tokens": 87
+    "tokens": 327
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -366,7 +366,7 @@
     "vol": "1",
     "page": 45,
     "title": "سورة الفتح",
-    "tokens": 87
+    "tokens": 327
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -375,7 +375,7 @@
     "vol": "1",
     "page": 45,
     "title": "سورة ق",
-    "tokens": 87
+    "tokens": 327
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -384,7 +384,7 @@
     "vol": "1",
     "page": 46,
     "title": "سورة الذاريات",
-    "tokens": 103
+    "tokens": 394
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -393,7 +393,7 @@
     "vol": "1",
     "page": 46,
     "title": "سورة الطور",
-    "tokens": 105
+    "tokens": 406
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -402,7 +402,7 @@
     "vol": "1",
     "page": 47,
     "title": "سورة القمر",
-    "tokens": 121
+    "tokens": 425
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -411,7 +411,7 @@
     "vol": "1",
     "page": 48,
     "title": "سورة الرحمن",
-    "tokens": 77
+    "tokens": 300
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -420,7 +420,7 @@
     "vol": "1",
     "page": 48,
     "title": "سورة الواقعة",
-    "tokens": 79
+    "tokens": 310
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -429,7 +429,7 @@
     "vol": "1",
     "page": 48,
     "title": "سورة الحديد",
-    "tokens": 79
+    "tokens": 310
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -438,7 +438,7 @@
     "vol": "1",
     "page": 48,
     "title": "من المجادلة",
-    "tokens": 79
+    "tokens": 310
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -447,7 +447,7 @@
     "vol": "1",
     "page": 48,
     "title": "سورة الحشر",
-    "tokens": 79
+    "tokens": 310
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -456,7 +456,7 @@
     "vol": "1",
     "page": 49,
     "title": "سورة الصف",
-    "tokens": 82
+    "tokens": 313
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -465,7 +465,7 @@
     "vol": "1",
     "page": 49,
     "title": "سورة الجمعة",
-    "tokens": 82
+    "tokens": 313
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -474,7 +474,7 @@
     "vol": "1",
     "page": 49,
     "title": "سورة المنافقين",
-    "tokens": 82
+    "tokens": 313
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -483,7 +483,7 @@
     "vol": "1",
     "page": 50,
     "title": "سورة التغابن",
-    "tokens": 100
+    "tokens": 367
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -492,7 +492,7 @@
     "vol": "1",
     "page": 50,
     "title": "سورة تبارك الذي",
-    "tokens": 102
+    "tokens": 378
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -501,7 +501,7 @@
     "vol": "1",
     "page": 50,
     "title": "سورة الحاقة",
-    "tokens": 102
+    "tokens": 378
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -510,7 +510,7 @@
     "vol": "1",
     "page": 51,
     "title": "سورة المعارج",
-    "tokens": 84
+    "tokens": 312
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -519,7 +519,7 @@
     "vol": "1",
     "page": 51,
     "title": "سورة نوح",
-    "tokens": 86
+    "tokens": 323
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -528,7 +528,7 @@
     "vol": "1",
     "page": 51,
     "title": "سورة الجن",
-    "tokens": 86
+    "tokens": 323
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -537,7 +537,7 @@
     "vol": "1",
     "page": 51,
     "title": "سورة المزمل",
-    "tokens": 86
+    "tokens": 323
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -546,7 +546,7 @@
     "vol": "1",
     "page": 52,
     "title": "سورة المدثر",
-    "tokens": 81
+    "tokens": 306
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -555,7 +555,7 @@
     "vol": "1",
     "page": 52,
     "title": "سورة القيامة",
-    "tokens": 83
+    "tokens": 316
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -564,7 +564,7 @@
     "vol": "1",
     "page": 52,
     "title": "سورة المرسلات",
-    "tokens": 83
+    "tokens": 316
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -573,7 +573,7 @@
     "vol": "1",
     "page": 53,
     "title": "سورة النازعات",
-    "tokens": 88
+    "tokens": 339
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -582,7 +582,7 @@
     "vol": "1",
     "page": 53,
     "title": "سورة عبس",
-    "tokens": 88
+    "tokens": 339
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -591,7 +591,7 @@
     "vol": "1",
     "page": 53,
     "title": "سورة التكوير",
-    "tokens": 88
+    "tokens": 339
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -600,7 +600,7 @@
     "vol": "1",
     "page": 54,
     "title": "سورة المطففين",
-    "tokens": 92
+    "tokens": 340
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -609,7 +609,7 @@
     "vol": "1",
     "page": 54,
     "title": "سورة الطارق",
-    "tokens": 94
+    "tokens": 352
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -618,7 +618,7 @@
     "vol": "1",
     "page": 54,
     "title": "سورة الغاشية",
-    "tokens": 94
+    "tokens": 352
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -627,7 +627,7 @@
     "vol": "1",
     "page": 54,
     "title": "سورة البلد",
-    "tokens": 94
+    "tokens": 352
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -636,7 +636,7 @@
     "vol": "1",
     "page": 54,
     "title": "سورة الليل",
-    "tokens": 94
+    "tokens": 352
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -645,7 +645,7 @@
     "vol": "1",
     "page": 55,
     "title": "سورة العلق",
-    "tokens": 94
+    "tokens": 418
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -654,7 +654,7 @@
     "vol": "1",
     "page": 55,
     "title": "سورة البينة",
-    "tokens": 96
+    "tokens": 427
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -663,7 +663,7 @@
     "vol": "1",
     "page": 55,
     "title": "سورة العاديات",
-    "tokens": 96
+    "tokens": 427
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -672,7 +672,7 @@
     "vol": "1",
     "page": 3,
     "title": null,
-    "tokens": 69
+    "tokens": 338
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -681,7 +681,7 @@
     "vol": "1",
     "page": 19,
     "title": null,
-    "tokens": 133
+    "tokens": 530
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -690,7 +690,7 @@
     "vol": "1",
     "page": 21,
     "title": null,
-    "tokens": 129
+    "tokens": 447
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -699,7 +699,7 @@
     "vol": "1",
     "page": 23,
     "title": null,
-    "tokens": 143
+    "tokens": 533
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -708,7 +708,7 @@
     "vol": "1",
     "page": 31,
     "title": null,
-    "tokens": 140
+    "tokens": 506
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -717,7 +717,7 @@
     "vol": "1",
     "page": 56,
     "title": null,
-    "tokens": 81
+    "tokens": 332
   },
   {
     "book_transliteration": "Kitāb al-Lughāt fī al-Qurʾān li-Ibn Ḥasanūn",
@@ -726,6 +726,6 @@
     "vol": "1",
     "page": 57,
     "title": null,
-    "tokens": 49
+    "tokens": 235
   }
 ]

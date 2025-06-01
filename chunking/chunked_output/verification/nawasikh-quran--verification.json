@@ -137,8 +137,8 @@
       "similarity_ratio": 0.9964373801041381,
       "has_differences": true,
       "missing_words": [
-        "٣٨]",
-        "[النساء:"
+        "[النساء:",
+        "٣٨]"
       ],
       "extra_words": [],
       "diff_count": 5,
@@ -2467,8 +2467,8 @@
       "similarity_ratio": 0.9961953075459734,
       "has_differences": true,
       "missing_words": [
-        "[التوبة:",
-        "٧١]،"
+        "٧١]،",
+        "[التوبة:"
       ],
       "extra_words": [
         "،"
@@ -2485,8 +2485,8 @@
       "similarity_ratio": 0.9961953075459734,
       "has_differences": true,
       "missing_words": [
-        "[التوبة:",
-        "٧١]،"
+        "٧١]،",
+        "[التوبة:"
       ],
       "extra_words": [
         "،"
@@ -3439,8 +3439,8 @@
       "similarity_ratio": 0.9957173447537473,
       "has_differences": true,
       "missing_words": [
-        "٩٣]،",
-        "[النساء:"
+        "[النساء:",
+        "٩٣]،"
       ],
       "extra_words": [],
       "diff_count": 5,
@@ -3455,8 +3455,8 @@
       "similarity_ratio": 0.9957716701902748,
       "has_differences": true,
       "missing_words": [
-        "٩٣]،",
-        "[النساء:"
+        "[النساء:",
+        "٩٣]،"
       ],
       "extra_words": [],
       "diff_count": 5,
@@ -3471,8 +3471,8 @@
       "similarity_ratio": 0.9957716701902748,
       "has_differences": true,
       "missing_words": [
-        "٩٣]،",
-        "[النساء:"
+        "[النساء:",
+        "٩٣]،"
       ],
       "extra_words": [],
       "diff_count": 5,
@@ -3487,8 +3487,8 @@
       "similarity_ratio": 0.9957716701902748,
       "has_differences": true,
       "missing_words": [
-        "٩٣]،",
-        "[النساء:"
+        "[النساء:",
+        "٩٣]،"
       ],
       "extra_words": [],
       "diff_count": 5,

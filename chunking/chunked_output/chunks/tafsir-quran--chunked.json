@@ -6,7 +6,7 @@
     "vol": "1",
     "page": 2,
     "title": "الجزء الأول من التفسير تفسير القرآن من جامع عبد الله بن وهب",
-    "tokens": 92
+    "tokens": 348
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -15,7 +15,7 @@
     "vol": "1",
     "page": 3,
     "title": "بسم الله الرحمن الرحيم",
-    "tokens": 38
+    "tokens": 170
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -24,7 +24,7 @@
     "vol": "1",
     "page": 3,
     "title": "تفسير ما بين المغرب والعشاء",
-    "tokens": 42
+    "tokens": 189
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -33,7 +33,7 @@
     "vol": "1",
     "page": 95,
     "title": "النهي عن المسألة عن القرآن",
-    "tokens": 146
+    "tokens": 573
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -42,7 +42,7 @@
     "vol": "1",
     "page": 95,
     "title": "الجزء الثاني",
-    "tokens": 151
+    "tokens": 594
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -51,7 +51,7 @@
     "vol": "1",
     "page": 95,
     "title": "الجزء الثالث",
-    "tokens": 151
+    "tokens": 594
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -60,7 +60,7 @@
     "vol": "1",
     "page": 95,
     "title": "الغلاف",
-    "tokens": 151
+    "tokens": 594
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -69,7 +69,7 @@
     "vol": "3",
     "page": 15,
     "title": "ترغيب القرآن",
-    "tokens": 170
+    "tokens": 679
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -78,7 +78,7 @@
     "vol": "3",
     "page": 39,
     "title": "في العربية بالقرآن",
-    "tokens": 142
+    "tokens": 578
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -87,7 +87,7 @@
     "vol": "3",
     "page": 39,
     "title": "في اختلاف حروف القرآن",
-    "tokens": 145
+    "tokens": 593
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -96,7 +96,7 @@
     "vol": "3",
     "page": 64,
     "title": "باب الناسخ: وهذا كتاب الناسخ والمنسوخ",
-    "tokens": 118
+    "tokens": 481
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -105,7 +105,7 @@
     "vol": "3",
     "page": 84,
     "title": "الناسخ من القرآن",
-    "tokens": 74
+    "tokens": 285
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -114,7 +114,7 @@
     "vol": "3",
     "page": 88,
     "title": "السجود",
-    "tokens": 96
+    "tokens": 377
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -123,7 +123,7 @@
     "vol": "3",
     "page": 88,
     "title": "في سجود القرآن",
-    "tokens": 97
+    "tokens": 383
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -132,7 +132,7 @@
     "vol": "1",
     "page": 4,
     "title": null,
-    "tokens": 106
+    "tokens": 421
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -141,7 +141,7 @@
     "vol": "1",
     "page": 5,
     "title": null,
-    "tokens": 85
+    "tokens": 332
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -150,7 +150,7 @@
     "vol": "1",
     "page": 6,
     "title": null,
-    "tokens": 92
+    "tokens": 352
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -159,7 +159,7 @@
     "vol": "1",
     "page": 7,
     "title": null,
-    "tokens": 71
+    "tokens": 288
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -168,7 +168,7 @@
     "vol": "1",
     "page": 8,
     "title": null,
-    "tokens": 118
+    "tokens": 485
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -177,7 +177,7 @@
     "vol": "1",
     "page": 9,
     "title": null,
-    "tokens": 79
+    "tokens": 329
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -186,7 +186,7 @@
     "vol": "1",
     "page": 10,
     "title": null,
-    "tokens": 69
+    "tokens": 295
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -195,7 +195,7 @@
     "vol": "1",
     "page": 11,
     "title": null,
-    "tokens": 155
+    "tokens": 652
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -204,7 +204,7 @@
     "vol": "1",
     "page": 12,
     "title": null,
-    "tokens": 71
+    "tokens": 284
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -213,7 +213,7 @@
     "vol": "1",
     "page": 13,
     "title": null,
-    "tokens": 100
+    "tokens": 414
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -222,7 +222,7 @@
     "vol": "1",
     "page": 14,
     "title": null,
-    "tokens": 86
+    "tokens": 393
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -231,7 +231,7 @@
     "vol": "1",
     "page": 15,
     "title": null,
-    "tokens": 125
+    "tokens": 507
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -240,7 +240,7 @@
     "vol": "1",
     "page": 16,
     "title": null,
-    "tokens": 83
+    "tokens": 322
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -249,7 +249,7 @@
     "vol": "1",
     "page": 17,
     "title": null,
-    "tokens": 110
+    "tokens": 441
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -258,7 +258,7 @@
     "vol": "1",
     "page": 18,
     "title": null,
-    "tokens": 78
+    "tokens": 305
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -267,7 +267,7 @@
     "vol": "1",
     "page": 19,
     "title": null,
-    "tokens": 75
+    "tokens": 296
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -276,7 +276,7 @@
     "vol": "1",
     "page": 20,
     "title": null,
-    "tokens": 86
+    "tokens": 334
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -285,7 +285,7 @@
     "vol": "1",
     "page": 21,
     "title": null,
-    "tokens": 49
+    "tokens": 218
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -294,7 +294,7 @@
     "vol": "1",
     "page": 22,
     "title": null,
-    "tokens": 64
+    "tokens": 255
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -303,7 +303,7 @@
     "vol": "1",
     "page": 23,
     "title": null,
-    "tokens": 84
+    "tokens": 340
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -312,7 +312,7 @@
     "vol": "1",
     "page": 24,
     "title": null,
-    "tokens": 98
+    "tokens": 371
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -321,7 +321,7 @@
     "vol": "1",
     "page": 25,
     "title": null,
-    "tokens": 81
+    "tokens": 315
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -330,7 +330,7 @@
     "vol": "1",
     "page": 26,
     "title": null,
-    "tokens": 84
+    "tokens": 320
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -339,7 +339,7 @@
     "vol": "1",
     "page": 27,
     "title": null,
-    "tokens": 199
+    "tokens": 853
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -348,16 +348,25 @@
     "vol": "1",
     "page": 28,
     "title": null,
-    "tokens": 42
+    "tokens": 154
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
     "book_slug": "N/A",
-    "text": "٦٢ - قال: وحدثني عمارة بن عيسى، عن يونس بن يزيد، عن من حدثه، عن ابن عباس أنه قال: لكعب: أخبرني عن ست آياتٍ في القرآن لم أكن علمتهن، ولا تخبرني عنهن إلا ما تجد في كتاب الله المنزل: ما ﴿سجين﴾، وما ﴿عليون﴾، وما ﴿سدرة المنتهى﴾، وما ﴿جنة المأوى﴾، وما بال ﴿أصحاب الرس﴾، ذكرهم الله في الكتاب، وما بال ﴿طالوت﴾، رغب عنه قومه، وما بال إدريس ذكره الله فقال: ﴿رفعناه مكانا عليا﴾؛ قال: كعب: والذي نفسي بيده، لا أخبرك عنهن إلا بما أجد في كتاب الله المنزل؛ أما سجين، فإنها شجرةٌ سوداء تحت الأرضين السبع مكتوبٌ فيها اسم كل شيطان، فإذا قبضت نفس الكافر عرج بها إلى السماء فغلقت أبواب السماء دونها، ثم ترمى إلى سجين، فذلك سجين؛ وأما عليون، فإنه إذا قبضت نفس المرء المسلم عرج بها إلى السماء وفتحت لها أبواب السماء، حتى ينتهي إلى العرش فيكتب له نزله وكرامته، فذلك عليون،؛ أما سدرة المنتهى، فإنها شجرةٌ عن يمين العرش انتهى إليها علم العلماء، فلا يعلم العلماء ما وراء تلك السدرة؛ أما جنة المأوى، فإنها جنةٌ يأوى ⦗٣٠⦘ إليها أرواح المؤمنين؛ وأما أصحاب الرس، فإنهم كانوا قوما مؤمنين يعبدون الله في ملك جبارٍ لا يعبد الله، فخيرهم في أن يكفروا أو يقتلهم، فاختاروا القتل على الكفر، فقتلهم، ثم رمى بهم في قليب، فبذلك سموا أصحاب الرس؛ وأما طالوت، فإنه كان من غير السبط الذي الملك فيه، فبذلك رغب قومه عنه؛ وأما إدريس، فإنه كان يعرج بعمله إلى السماء فيعدل عمله جميع عمل أهل الأرض، فاستأذن فيه ملكٌ من الملائكة أن يؤاخيه، فأذن الله له أن يؤاخيه، فسأله إدريس: أي أخي، هل بينك وبين ملك الموت إخاءٌ، فقال نعم، ذلك أخي دون الملائكة وهم يتآخون كما يتآخى بنو آدم، قال: هل لك أن تسأله لي كم بقي من أجلي لكي أزداد في العمل، قال: إن شئت سألته وأنت تسمع قال: فجعله الملك تحت جناحه حتى صعد به إلى السماء فسأل ملك الموت: أي أخي، كم بقى من أجل إدريس، قال: ما أدري حتى أنظر، قال: فنظر، قال: إنك تسألني عن رجلٍ ما بقى من أجله إلا طرف عينٍ؛ قال: فنظر الملك تحت جناحه، فإذا إدريس قد قبض وهو لا يشعر.",
+    "text": "- قال : وحدثني عمارة بن عيسى ، عن يونس بن يزيد ، عن من حدثه ، عن ابن عباس انه قال : لكعب : اخبرني عن ست ايات في القران لم اكن علمتهن ، ولا تخبرني عنهن الا ما تجد في كتاب الله المنزل : ما سجين ، وما عليون ، وما سدرة المنتهى ، وما جنة الماوى ، وما بال اصحاب الرس ، ذكرهم الله في الكتاب ، وما بال طالوت ، رغب عنه قومه ، وما بال ادريس ذكره الله فقال : رفعناه مكانا عليا قال : كعب : والذي نفسي بيده ، لا اخبرك عنهن الا بما اجد في كتاب الله المنزل اما سجين ، فانها شجرة سوداء تحت الارضين السبع مكتوب فيها اسم كل شيطان ، فاذا قبضت نفس الكافر عرج بها الى السماء فغلقت ابواب السماء دونها ، ثم ترمى الى سجين ، فذلك سجين واما عليون ، فانه اذا قبضت نفس المرء المسلم عرج بها الى السماء وفتحت لها ابواب السماء ، حتى ينتهي الى العرش فيكتب له نزله وكرامته ، فذلك عليون ، اما سدرة المنتهى ، فانها شجرة عن يمين العرش انتهى اليها علم العلماء ، فلا يعلم العلماء ما وراء تلك السدرة اما جنة الماوى ، فانها جنة ياوى اليها ارواح المومنين واما اصحاب الرس ، فانهم كانوا قوما مومنين يعبدون الله في ملك جبار لا يعبد الله ، فخيرهم في ان يكفروا او يقتلهم ، فاختاروا القتل على الكفر ، فقتلهم ، ثم رمى بهم في قليب ، فبذلك سموا اصحاب الرس واما طالوت ، فانه كان من غير السبط الذي الملك فيه ، فبذلك رغب قومه عنه واما ادريس ، فانه كان يعرج بعمله الى السماء فيعدل عمله جميع عمل اهل الارض ، فاستاذن فيه ملك من الملايكة ان يواخيه ، ف",
     "vol": "1",
     "page": 29,
     "title": null,
-    "tokens": 341
+    "tokens": 1024
+  },
+  {
+    "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
+    "book_slug": "N/A",
+    "text": "##ب قومه عنه واما ادريس ، فانه كان يعرج بعمله الى السماء فيعدل عمله جميع عمل اهل الارض ، فاستاذن فيه ملك من الملايكة ان يواخيه ، فاذن الله له ان يواخيه ، فساله ادريس : اي اخي ، هل بينك وبين ملك الموت اخاء ، فقال نعم ، ذلك اخي دون الملايكة وهم يتاخون كما يتاخى بنو ادم ، قال : هل لك ان تساله لي كم بقي من اجلي لكي ازداد في العمل ، قال : ان شيت سالته وانت تسمع قال : فجعله الملك تحت جناحه حتى صعد به الى السماء فسال ملك الموت : اي اخي ، كم بقى من اجل ادريس ، قال : ما ادري حتى انظر ، قال : فنظر ، قال : انك تسالني عن رجل ما بقى من اجله الا طرف عين قال : فنظر الملك تحت جناحه ، فاذا ادريس قد قبض وهو لا يشعر.",
+    "vol": "1",
+    "page": 29,
+    "title": null,
+    "tokens": 458
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -366,7 +375,7 @@
     "vol": "1",
     "page": 30,
     "title": null,
-    "tokens": 32
+    "tokens": 117
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -375,7 +384,7 @@
     "vol": "1",
     "page": 31,
     "title": null,
-    "tokens": 104
+    "tokens": 436
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -384,7 +393,7 @@
     "vol": "1",
     "page": 32,
     "title": null,
-    "tokens": 70
+    "tokens": 324
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -393,7 +402,7 @@
     "vol": "1",
     "page": 33,
     "title": null,
-    "tokens": 133
+    "tokens": 501
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -402,7 +411,7 @@
     "vol": "1",
     "page": 34,
     "title": null,
-    "tokens": 100
+    "tokens": 430
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -411,7 +420,7 @@
     "vol": "1",
     "page": 35,
     "title": null,
-    "tokens": 145
+    "tokens": 578
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -420,7 +429,7 @@
     "vol": "1",
     "page": 36,
     "title": null,
-    "tokens": 70
+    "tokens": 265
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -429,7 +438,7 @@
     "vol": "1",
     "page": 37,
     "title": null,
-    "tokens": 171
+    "tokens": 720
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -438,7 +447,7 @@
     "vol": "1",
     "page": 38,
     "title": null,
-    "tokens": 135
+    "tokens": 502
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -447,16 +456,25 @@
     "vol": "1",
     "page": 39,
     "title": null,
-    "tokens": 88
+    "tokens": 360
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
     "book_slug": "N/A",
-    "text": "٨٣ - قَالَ: وَأَخْبَرَنِي شَبِيبٌ عَنْ أَبِي الْجَوْزَاءِ، عَنِ ابْنِ عَبَّاسٍ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: لَوْ رَحِمَ اللَّهُ مِنْ قَوْمِ نُوحٍ أَحَدًا لَرَحِمَ امْرَأَةً، لَمَّا رَأَتِ الْمَاءَ حَمَلَتْ وَلَدَهَا، ثُمَّ صَعِدَتِ الْجَبَلَ، فَلَمَّا بَلَغَهَا الْمَاءُ صَعِدَتْ بِهِ عَلَى مَنْكِبَيْهَا، فَلَمَّا بَلَغَ الْمَاءُ مَنْكِبَيْهَا وَضَعَتْ وَلَدَهَا عَلَى رَأْسِهَا، فَلَمَّا بَلَغَ الْمَاءُ رَأْسَهَا رَفَعَتْ وَلَدَهَا بِيَدَيْهَا، فَلَوْ رَحِمَ اللَّهُ مِنْهُمْ أَحَدًا لَرَحِمَ هَذِهِ المرأة.٨٤ - وَأَخْبَرَنِي شَبِيبٌ عَنْ أَبَانٍ عَنْ أَنَسِ بْنِ مَالِكٍ، عَنْ رَسُولِ اللَّهِ ﷺ أَنَّهُ قَالَ: نَزَلَتْ عَلَيْهِ سُورَةُ الْحَجِّ وَهُوَ فِي مسيرٍ لَهُ يَتَعَشَّوْنَ مُتَبَدِّدِينَ، فَرَفَعَ بها صوته فنادى: ﴿يا أيها النَّاسُ اتَّقُوا رَبَّكُمْ إِنَّ زَلْزَلَةَ السَّاعَةِ شيءٌ عظيمٌ يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مرضعةٍ عَمَّا أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حملٍ حَمْلَهَا وَتَرَى ⦗٤١⦘ النَّاسَ سُكَارَى وَمَا هُمْ بِسُكَارَى وَلَكِنَّ عَذَابَ الله شديدٌ﴾؛ فَاجْتَمَعَ إِلَيْهِ أَصْحَابُهُ فَقَالَ لَهُمْ: هَلْ تَدْرُونَ أَيَّ يَوْمٍ ذَلِكَ، ذَلِكَ يَوْمَ يَقُولُ اللَّهُ لآدَمَ: يَا آدَمُ، ابْعَثْ بَعْثًا إِلَى النَّارِ مِنْ بَنِيكَ وَبَنَاتِكَ، قَالَ: يَا رَبِّ، مِنْ كَمْ، قَالَ: مِنْ كُلِّ ألفٍ تِسْعَ مائةٍ وَتِسْعَةً وَتِسْعِينَ إِلَى النَّارِ وواحدٌ إِلَى الْجَنَّةِ؛ وَإِنَّ الْقَوْمَ لَمَّا سَمِعُوا ذَلِكَ أُبْلِسُوا وَكَبُرَ عَلَيْهِمْ، فَلَمَّا رَأَى النَّبِيُّ ﷺ مَا لَقَوْا قَالَ: أَبْشِرُوا، فَإِنَّكُمْ مَعَ خَلِيقَتَيْنِ لَمْ يَكُونَا مَعَ شَيْءٍ قَطُّ إِلا كَثَّرَتَاهُ يَأْجُوجُ وَمَأْجُوجُ، وَهُمْ مِنْ كُلِّ حدبٍ يَنْسِلُونَ، وَمَا أَنْتُمْ فِي النَّاسِ إِلا كَالرَّقْمَةِ فِي ذِرَاعِ الدَّابَّةِ أَوْ كَالشَّامَةِ فِي جَنْبِ البعير، ثم قال: إني لأرجوا أَنْ يَكُونَ مَنْ يَدْخُلُ مِنْ أُمَّتِي رُبُعَ أَهْلِ الْجَنَّةِ، فَكَبَّرَ الْقَوْمُ، ثُمَّ قَالَ: إِنِّي لأرجوا أَنْ يَكُونُوا ثُلُثَ أَهْلِ الْجَنَّةِ، ثُمَّ قَالَ: إني لأرجوا أَنْ يَكُونُوا نِصْفَ أَهْلِ الْجَنَّةِ، ثُمَّ قَالَ: وسبعون ألفًا يَدْخُلُونَ الْجَنَّةَ بِغَيْرِ حسابٍ؛ وَإِنَّهُمْ لَمَا سَمِعُوا ذَلِكَ قَالُوا: فَهَؤُلاءِ السَّبْعُونَ أَلْفًا مَا هُمْ، فَتَذَاكَرُوا بَيْنَهُمْ قَالُوا: هُمْ قومٌ وُلِدُوا فِي الإِسْلامِ وَلَمْ يُشْرِكُوا بِاللَّهِ شَيْئًا، حَتَّى بَلَغَ النَّبِيَّ قَوْلُهُمْ، فَقَالَ: هُمُ الَّذِينَ لا يَسْتَرْقُونَ، وَلا يَكْتَوُونَ، وَلا يَتَطَيَّرُونَ، وَعَلَى رَبِّهِمْ يَتَوَّكُلونَ؛ فَقَامَ رجلٌ فَقَالَ: يَا رَسُولَ اللَّهِ، ادْعُ اللَّهَ أَنْ يَجْعَلَنِي بَيْنَهُمْ، فَقَالَ: اللَّهُمَّ، اجْعَلْهُ مِنْهُمْ، فَقَامَ آخَرُ، فَقَالَ رَسُولُ اللَّهِ: سَبَقَكَ بها عكاشة.",
+    "text": "- قال : واخبرني شبيب عن ابي الجوزاء ، عن ابن عباس قال : قال رسول الله : لو رحم الله من قوم نوح احدا لرحم امراة ، لما رات الماء حملت ولدها ، ثم صعدت الجبل ، فلما بلغها الماء صعدت به على منكبيها ، فلما بلغ الماء منكبيها وضعت ولدها على راسها ، فلما بلغ الماء راسها رفعت ولدها بيديها ، فلو رحم الله منهم احدا لرحم هذه المراة. - واخبرني شبيب عن ابان عن انس بن مالك ، عن رسول الله انه قال : نزلت عليه سورة الحج وهو في مسير له يتعشون متبددين ، فرفع بها صوته فنادى : يا ايها الناس اتقوا ربكم ان زلزلة الساعة شيء عظيم يوم ترونها تذهل كل مرضعة عما ارضعت وتضع كل ذات حمل حملها وترى الناس سكارى وما هم بسكارى ولكن عذاب الله شديد فاجتمع اليه اصحابه فقال لهم : هل تدرون اي يوم ذلك ، ذلك يوم يقول الله لادم : يا ادم ، ابعث بعثا الى النار من بنيك وبناتك ، قال : يا رب ، من كم ، قال : من كل الف تسع ماية وتسعة وتسعين الى النار وواحد الى الجنة وان القوم لما سمعوا ذلك ابلسوا وكبر عليهم ، فلما راى النبي ما لقوا قال : ابشروا ، فانكم مع خليقتين لم يكونا مع شيء قط الا كثرتاه ياجوج وماجوج ، وهم من كل حدب ينسلون ، وما انتم في الناس الا كالرقمة في ذراع الدابة او كالشامة في جنب البعير ، ثم قال : اني لارجوا ان يكون من يدخل من امتي ربع اهل الجنة ، فكبر القوم ، ثم قال : اني لارجوا ان يكونوا ثلث اهل الجنة ، ثم قال : اني لارجوا ان يكونوا نصف اهل الجنة ، ثم قال : وسبعون الفا يدخلون الجنة بغير حساب وانهم لما سمعوا ذلك قالوا : فهولاء",
     "vol": "1",
     "page": 40,
     "title": null,
-    "tokens": 316
+    "tokens": 1024
+  },
+  {
+    "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
+    "book_slug": "N/A",
+    "text": "##ة ، ثم قال : اني لارجوا ان يكونوا نصف اهل الجنة ، ثم قال : وسبعون الفا يدخلون الجنة بغير حساب وانهم لما سمعوا ذلك قالوا : فهولاء السبعون الفا ما هم ، فتذاكروا بينهم قالوا : هم قوم ولدوا في الاسلام ولم يشركوا بالله شييا ، حتى بلغ النبي قولهم ، فقال : هم الذين لا يسترقون ، ولا يكتوون ، ولا يتطيرون ، وعلى ربهم يتوكلون فقام رجل فقال : يا رسول الله ، ادع الله ان يجعلني بينهم ، فقال : اللهم ، اجعله منهم ، فقام اخر ، فقال رسول الله : سبقك بها عكاشة.",
+    "vol": "1",
+    "page": 40,
+    "title": null,
+    "tokens": 348
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -465,7 +483,7 @@
     "vol": "1",
     "page": 41,
     "title": null,
-    "tokens": 27
+    "tokens": 103
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -474,7 +492,7 @@
     "vol": "1",
     "page": 42,
     "title": null,
-    "tokens": 177
+    "tokens": 728
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -483,7 +501,7 @@
     "vol": "1",
     "page": 43,
     "title": null,
-    "tokens": 80
+    "tokens": 350
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -492,7 +510,7 @@
     "vol": "1",
     "page": 44,
     "title": null,
-    "tokens": 97
+    "tokens": 404
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -501,7 +519,7 @@
     "vol": "1",
     "page": 45,
     "title": null,
-    "tokens": 139
+    "tokens": 567
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -510,7 +528,7 @@
     "vol": "1",
     "page": 46,
     "title": null,
-    "tokens": 120
+    "tokens": 501
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -519,7 +537,7 @@
     "vol": "1",
     "page": 47,
     "title": null,
-    "tokens": 29
+    "tokens": 111
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -528,7 +546,7 @@
     "vol": "1",
     "page": 48,
     "title": null,
-    "tokens": 150
+    "tokens": 603
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -537,7 +555,7 @@
     "vol": "1",
     "page": 49,
     "title": null,
-    "tokens": 81
+    "tokens": 328
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -546,7 +564,7 @@
     "vol": "1",
     "page": 50,
     "title": null,
-    "tokens": 68
+    "tokens": 289
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -555,7 +573,7 @@
     "vol": "1",
     "page": 51,
     "title": null,
-    "tokens": 95
+    "tokens": 372
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -564,7 +582,7 @@
     "vol": "1",
     "page": 52,
     "title": null,
-    "tokens": 99
+    "tokens": 376
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -573,7 +591,7 @@
     "vol": "1",
     "page": 53,
     "title": null,
-    "tokens": 121
+    "tokens": 518
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -582,7 +600,7 @@
     "vol": "1",
     "page": 54,
     "title": null,
-    "tokens": 63
+    "tokens": 251
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -591,7 +609,7 @@
     "vol": "1",
     "page": 55,
     "title": null,
-    "tokens": 122
+    "tokens": 465
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -600,7 +618,7 @@
     "vol": "1",
     "page": 56,
     "title": null,
-    "tokens": 123
+    "tokens": 467
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -609,7 +627,7 @@
     "vol": "1",
     "page": 57,
     "title": null,
-    "tokens": 106
+    "tokens": 405
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -618,7 +636,7 @@
     "vol": "1",
     "page": 58,
     "title": null,
-    "tokens": 107
+    "tokens": 442
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -627,7 +645,7 @@
     "vol": "1",
     "page": 59,
     "title": null,
-    "tokens": 138
+    "tokens": 607
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -636,7 +654,7 @@
     "vol": "1",
     "page": 60,
     "title": null,
-    "tokens": 153
+    "tokens": 654
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -645,7 +663,7 @@
     "vol": "1",
     "page": 61,
     "title": null,
-    "tokens": 80
+    "tokens": 345
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -654,7 +672,7 @@
     "vol": "1",
     "page": 62,
     "title": null,
-    "tokens": 179
+    "tokens": 750
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -663,7 +681,7 @@
     "vol": "1",
     "page": 63,
     "title": null,
-    "tokens": 66
+    "tokens": 269
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -672,7 +690,7 @@
     "vol": "1",
     "page": 64,
     "title": null,
-    "tokens": 75
+    "tokens": 298
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -681,7 +699,7 @@
     "vol": "1",
     "page": 65,
     "title": null,
-    "tokens": 140
+    "tokens": 576
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -690,7 +708,7 @@
     "vol": "1",
     "page": 66,
     "title": null,
-    "tokens": 104
+    "tokens": 417
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -699,7 +717,7 @@
     "vol": "1",
     "page": 67,
     "title": null,
-    "tokens": 136
+    "tokens": 490
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -708,7 +726,7 @@
     "vol": "1",
     "page": 68,
     "title": null,
-    "tokens": 82
+    "tokens": 298
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -717,7 +735,7 @@
     "vol": "1",
     "page": 69,
     "title": null,
-    "tokens": 193
+    "tokens": 858
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -726,7 +744,7 @@
     "vol": "1",
     "page": 70,
     "title": null,
-    "tokens": 143
+    "tokens": 556
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -735,7 +753,7 @@
     "vol": "1",
     "page": 71,
     "title": null,
-    "tokens": 173
+    "tokens": 697
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -744,7 +762,7 @@
     "vol": "1",
     "page": 72,
     "title": null,
-    "tokens": 114
+    "tokens": 463
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -753,7 +771,7 @@
     "vol": "1",
     "page": 73,
     "title": null,
-    "tokens": 87
+    "tokens": 365
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -762,7 +780,7 @@
     "vol": "1",
     "page": 74,
     "title": null,
-    "tokens": 118
+    "tokens": 462
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -771,7 +789,7 @@
     "vol": "1",
     "page": 75,
     "title": null,
-    "tokens": 128
+    "tokens": 521
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -780,7 +798,7 @@
     "vol": "1",
     "page": 76,
     "title": null,
-    "tokens": 113
+    "tokens": 453
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -789,7 +807,7 @@
     "vol": "1",
     "page": 77,
     "title": null,
-    "tokens": 93
+    "tokens": 401
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -798,7 +816,7 @@
     "vol": "1",
     "page": 78,
     "title": null,
-    "tokens": 106
+    "tokens": 405
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -807,7 +825,7 @@
     "vol": "1",
     "page": 79,
     "title": null,
-    "tokens": 87
+    "tokens": 361
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -816,7 +834,7 @@
     "vol": "1",
     "page": 80,
     "title": null,
-    "tokens": 130
+    "tokens": 521
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -825,7 +843,7 @@
     "vol": "1",
     "page": 81,
     "title": null,
-    "tokens": 94
+    "tokens": 351
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -834,7 +852,7 @@
     "vol": "1",
     "page": 82,
     "title": null,
-    "tokens": 48
+    "tokens": 204
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -843,7 +861,7 @@
     "vol": "1",
     "page": 83,
     "title": null,
-    "tokens": 241
+    "tokens": 1019
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -852,7 +870,7 @@
     "vol": "1",
     "page": 84,
     "title": null,
-    "tokens": 30
+    "tokens": 108
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -861,7 +879,7 @@
     "vol": "1",
     "page": 85,
     "title": null,
-    "tokens": 100
+    "tokens": 406
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -870,7 +888,7 @@
     "vol": "1",
     "page": 86,
     "title": null,
-    "tokens": 111
+    "tokens": 461
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -879,7 +897,7 @@
     "vol": "1",
     "page": 87,
     "title": null,
-    "tokens": 85
+    "tokens": 361
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -888,7 +906,7 @@
     "vol": "1",
     "page": 88,
     "title": null,
-    "tokens": 87
+    "tokens": 363
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -897,7 +915,7 @@
     "vol": "1",
     "page": 89,
     "title": null,
-    "tokens": 175
+    "tokens": 680
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -906,7 +924,7 @@
     "vol": "1",
     "page": 90,
     "title": null,
-    "tokens": 63
+    "tokens": 291
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -915,7 +933,7 @@
     "vol": "1",
     "page": 91,
     "title": null,
-    "tokens": 79
+    "tokens": 334
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -924,7 +942,7 @@
     "vol": "1",
     "page": 92,
     "title": null,
-    "tokens": 80
+    "tokens": 312
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -933,7 +951,7 @@
     "vol": "1",
     "page": 93,
     "title": null,
-    "tokens": 85
+    "tokens": 326
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -942,7 +960,7 @@
     "vol": "1",
     "page": 94,
     "title": null,
-    "tokens": 162
+    "tokens": 631
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -951,7 +969,7 @@
     "vol": "1",
     "page": 96,
     "title": null,
-    "tokens": 133
+    "tokens": 583
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -960,7 +978,7 @@
     "vol": "1",
     "page": 97,
     "title": null,
-    "tokens": 48
+    "tokens": 185
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -969,7 +987,7 @@
     "vol": "1",
     "page": 98,
     "title": null,
-    "tokens": 69
+    "tokens": 276
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -978,7 +996,7 @@
     "vol": "1",
     "page": 99,
     "title": null,
-    "tokens": 118
+    "tokens": 489
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -987,7 +1005,7 @@
     "vol": "1",
     "page": 100,
     "title": null,
-    "tokens": 38
+    "tokens": 168
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -996,7 +1014,7 @@
     "vol": "1",
     "page": 101,
     "title": null,
-    "tokens": 99
+    "tokens": 397
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1005,7 +1023,7 @@
     "vol": "1",
     "page": 102,
     "title": null,
-    "tokens": 76
+    "tokens": 299
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1014,7 +1032,7 @@
     "vol": "1",
     "page": 103,
     "title": null,
-    "tokens": 166
+    "tokens": 646
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1023,7 +1041,7 @@
     "vol": "1",
     "page": 104,
     "title": null,
-    "tokens": 66
+    "tokens": 250
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1032,7 +1050,7 @@
     "vol": "1",
     "page": 105,
     "title": null,
-    "tokens": 68
+    "tokens": 267
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1041,7 +1059,7 @@
     "vol": "1",
     "page": 106,
     "title": null,
-    "tokens": 99
+    "tokens": 385
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1050,7 +1068,7 @@
     "vol": "1",
     "page": 107,
     "title": null,
-    "tokens": 99
+    "tokens": 407
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1059,7 +1077,7 @@
     "vol": "1",
     "page": 108,
     "title": null,
-    "tokens": 147
+    "tokens": 586
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1068,7 +1086,7 @@
     "vol": "1",
     "page": 109,
     "title": null,
-    "tokens": 97
+    "tokens": 387
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1077,7 +1095,7 @@
     "vol": "1",
     "page": 110,
     "title": null,
-    "tokens": 113
+    "tokens": 465
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1086,7 +1104,7 @@
     "vol": "1",
     "page": 111,
     "title": null,
-    "tokens": 78
+    "tokens": 325
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1095,7 +1113,7 @@
     "vol": "1",
     "page": 112,
     "title": null,
-    "tokens": 81
+    "tokens": 349
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1104,7 +1122,7 @@
     "vol": "1",
     "page": 113,
     "title": null,
-    "tokens": 88
+    "tokens": 334
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1113,7 +1131,7 @@
     "vol": "1",
     "page": 114,
     "title": null,
-    "tokens": 123
+    "tokens": 529
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1122,7 +1140,7 @@
     "vol": "1",
     "page": 115,
     "title": null,
-    "tokens": 90
+    "tokens": 363
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1131,7 +1149,7 @@
     "vol": "1",
     "page": 116,
     "title": null,
-    "tokens": 76
+    "tokens": 316
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1140,7 +1158,7 @@
     "vol": "1",
     "page": 117,
     "title": null,
-    "tokens": 102
+    "tokens": 392
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1149,7 +1167,7 @@
     "vol": "1",
     "page": 118,
     "title": null,
-    "tokens": 110
+    "tokens": 440
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1158,7 +1176,7 @@
     "vol": "1",
     "page": 119,
     "title": null,
-    "tokens": 123
+    "tokens": 481
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1167,7 +1185,7 @@
     "vol": "1",
     "page": 120,
     "title": null,
-    "tokens": 100
+    "tokens": 387
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1176,7 +1194,7 @@
     "vol": "1",
     "page": 121,
     "title": null,
-    "tokens": 109
+    "tokens": 442
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1185,7 +1203,7 @@
     "vol": "1",
     "page": 122,
     "title": null,
-    "tokens": 117
+    "tokens": 486
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1194,7 +1212,7 @@
     "vol": "1",
     "page": 123,
     "title": null,
-    "tokens": 36
+    "tokens": 157
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1203,16 +1221,25 @@
     "vol": "1",
     "page": 124,
     "title": null,
-    "tokens": 88
+    "tokens": 360
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
     "book_slug": "N/A",
-    "text": "٢٨٨ - قال: وأخبرني سعيد عن بشير بن أبي عمرو الخولاني قال: سمعت عكرمة يقول: ﴿والخيل المسومة﴾، قال: تسويمها للحسن.٢٨٩ - قال: وأخبرني الليث بن سعد، عن سعيد بن أبي هلال، عن زيد بن أسلم: ﴿لواحةٌ للبشر﴾، أن تلوح أجسادهم عليها.٢٩٠ - قال سعيد بن أبي هلال: وقال زيد بن أسلم في هذه الآية: ﴿لا ⦗١٢٦⦘ يحل لكم أن ترثوا النساء كرها ولا تعضلوهن لِتَذْهَبُوا بِبَعْضِ مَا آتَيْتُمُوهُنَّ إِلا أَنْ يَأْتِينَ بفاحشةٍ مبينةٍ وعاشروهن بالمعروف﴾، فكان أهل يثرب إذا مات الرجل منهم في الجاهلية ورث امرأته من يرث ماله وكان يعضلها حتى يتزوجها أو يزوجها من أراد؛ وكان أهل تهامة يسيء الرجل صحبة المرأة حتى يطلقها ويشترط عليها ألا تنكح إلا من أراد حتى تفتدي منه ببعض ما أعطاه؛ فنهى الله المؤمنين عن ذلك؛ وقال زيد: وأما قوله: ﴿إلا أن يأتين بفاحشةٍ مبينةٍ﴾، فإنه كان في الزنا ثلاثة أنحاء، أما نحو قال الله: ﴿لا تقربوا الزنا إنه كان فاحشة﴾، فلم ينته الناس، قال: ثم نزل: ﴿واللاتي يأتين الفاحشة من نسائك فَاسْتَشْهِدُوا عَلَيْهِنَّ أَرْبَعَةً مِنْكُمْ فَإِنْ شَهِدُوا فَأَمْسِكُوهُنَّ فِي الْبُيُوتِ حَتَّى يَتَوَفَّاهُنَّ الْمَوْتُ أَوْ يَجْعَلَ الله لهن سبيلا﴾، كانت المرأة الثيب إذا زنت فشهد عليها أربعة عطلت فلم يتزوجها أحدٌ، فهي التي قال الله: ﴿ولا تعضلوهن إلا أن يأتين بفاحشةٍ مبينةٍ﴾. قال زيد: ثم نزلت: ﴿واللذان يأتيانها منكم فآذوهما﴾، فهذان البكران اللذان إن لم يتزوجها وآذاهما أن يعرفا بذنبهما، فيقال: يا زان حتى ترى منهما توبةٌ، حتى نزل السبيل، قال: ﴿الزانية والزاني فاجلدوا كل واحدٍ منهما مائة جلدةٍ﴾، فهذا للبكرين. قال زيد: وكان للثيب الرجم؛ وقال الله: ﴿إلا أن يخافا ألا يقيما حدود ⦗١٢٧⦘ الله﴾، إذا خافت المرأة ألا تؤدي حق زوجها وخاف الرجل ألا يؤدي حقها، فلا جناح في الفدية.",
+    "text": "- قال : واخبرني سعيد عن بشير بن ابي عمرو الخولاني قال : سمعت عكرمة يقول : والخيل المسومة ، قال : تسويمها للحسن. - قال : واخبرني الليث بن سعد ، عن سعيد بن ابي هلال ، عن زيد بن اسلم : لواحة للبشر ، ان تلوح اجسادهم عليها. - قال سعيد بن ابي هلال : وقال زيد بن اسلم في هذه الاية : لا يحل لكم ان ترثوا النساء كرها ولا تعضلوهن لتذهبوا ببعض ما اتيتموهن الا ان ياتين بفاحشة مبينة وعاشروهن بالمعروف ، فكان اهل يثرب اذا مات الرجل منهم في الجاهلية ورث امراته من يرث ماله وكان يعضلها حتى يتزوجها او يزوجها من اراد وكان اهل تهامة يسيء الرجل صحبة المراة حتى يطلقها ويشترط عليها الا تنكح الا من اراد حتى تفتدي منه ببعض ما اعطاه فنهى الله المومنين عن ذلك وقال زيد : واما قوله : الا ان ياتين بفاحشة مبينة ، فانه كان في الزنا ثلاثة انحاء ، اما نحو قال الله : لا تقربوا الزنا انه كان فاحشة ، فلم ينته الناس ، قال : ثم نزل : واللاتي ياتين الفاحشة من نسايك فاستشهدوا عليهن اربعة منكم فان شهدوا فامسكوهن في البيوت حتى يتوفاهن الموت او يجعل الله لهن سبيلا ، كانت المراة الثيب اذا زنت فشهد عليها اربعة عطلت فلم يتزوجها احد ، فهي التي قال الله : ولا تعضلوهن الا ان ياتين بفاحشة مبينة. قال زيد : ثم نزلت : واللذان ياتيانها منكم فاذوهما ، فهذان البكران اللذان ان لم يتزوجها واذاهما ان يعرفا بذنبهما ، فيقال : يا زان حتى ترى منهما توبة ، حتى نزل السبيل ، قال : الزانية والزاني فاجلدوا كل واحد منهما ماية جلدة ، ف",
     "vol": "1",
     "page": 125,
     "title": null,
-    "tokens": 270
+    "tokens": 1024
+  },
+  {
+    "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
+    "book_slug": "N/A",
+    "text": "ان يعرفا بذنبهما ، فيقال : يا زان حتى ترى منهما توبة ، حتى نزل السبيل ، قال : الزانية والزاني فاجلدوا كل واحد منهما ماية جلدة ، فهذا للبكرين. قال زيد : وكان للثيب الرجم وقال الله : الا ان يخافا الا يقيما حدود الله ، اذا خافت المراة الا تودي حق زوجها وخاف الرجل الا يودي حقها ، فلا جناح في الفدية.",
+    "vol": "1",
+    "page": 125,
+    "title": null,
+    "tokens": 237
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1221,7 +1248,7 @@
     "vol": "1",
     "page": 127,
     "title": null,
-    "tokens": 134
+    "tokens": 581
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1230,7 +1257,7 @@
     "vol": "1",
     "page": 128,
     "title": null,
-    "tokens": 125
+    "tokens": 556
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1239,7 +1266,7 @@
     "vol": "1",
     "page": 129,
     "title": null,
-    "tokens": 116
+    "tokens": 504
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1248,7 +1275,7 @@
     "vol": "1",
     "page": 130,
     "title": null,
-    "tokens": 112
+    "tokens": 461
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1257,7 +1284,7 @@
     "vol": "1",
     "page": 131,
     "title": null,
-    "tokens": 115
+    "tokens": 531
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1266,7 +1293,7 @@
     "vol": "1",
     "page": 132,
     "title": null,
-    "tokens": 145
+    "tokens": 590
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1275,7 +1302,7 @@
     "vol": "1",
     "page": 133,
     "title": null,
-    "tokens": 63
+    "tokens": 274
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1284,7 +1311,7 @@
     "vol": "1",
     "page": 134,
     "title": null,
-    "tokens": 108
+    "tokens": 435
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1293,7 +1320,7 @@
     "vol": "1",
     "page": 135,
     "title": null,
-    "tokens": 71
+    "tokens": 286
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1302,7 +1329,7 @@
     "vol": "1",
     "page": 136,
     "title": null,
-    "tokens": 77
+    "tokens": 339
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1311,7 +1338,7 @@
     "vol": "1",
     "page": 137,
     "title": null,
-    "tokens": 76
+    "tokens": 303
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1320,7 +1347,7 @@
     "vol": "1",
     "page": 138,
     "title": null,
-    "tokens": 76
+    "tokens": 315
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1329,7 +1356,7 @@
     "vol": "1",
     "page": 139,
     "title": null,
-    "tokens": 111
+    "tokens": 444
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1338,7 +1365,7 @@
     "vol": "1",
     "page": 140,
     "title": null,
-    "tokens": 74
+    "tokens": 287
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1347,7 +1374,7 @@
     "vol": "1",
     "page": 141,
     "title": null,
-    "tokens": 131
+    "tokens": 523
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1356,7 +1383,7 @@
     "vol": "1",
     "page": 142,
     "title": null,
-    "tokens": 132
+    "tokens": 541
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1365,7 +1392,7 @@
     "vol": "1",
     "page": 143,
     "title": null,
-    "tokens": 88
+    "tokens": 350
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1374,7 +1401,7 @@
     "vol": "1",
     "page": 144,
     "title": null,
-    "tokens": 119
+    "tokens": 484
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1383,7 +1410,7 @@
     "vol": "1",
     "page": 145,
     "title": null,
-    "tokens": 94
+    "tokens": 367
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1392,7 +1419,7 @@
     "vol": "1",
     "page": 146,
     "title": null,
-    "tokens": 71
+    "tokens": 298
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1401,7 +1428,7 @@
     "vol": "1",
     "page": 147,
     "title": null,
-    "tokens": 89
+    "tokens": 347
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1410,7 +1437,7 @@
     "vol": "1",
     "page": 148,
     "title": null,
-    "tokens": 100
+    "tokens": 442
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1419,7 +1446,7 @@
     "vol": "1",
     "page": 149,
     "title": null,
-    "tokens": 177
+    "tokens": 786
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1428,7 +1455,7 @@
     "vol": "1",
     "page": 150,
     "title": null,
-    "tokens": 167
+    "tokens": 660
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1437,7 +1464,7 @@
     "vol": "1",
     "page": 151,
     "title": null,
-    "tokens": 91
+    "tokens": 361
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1446,7 +1473,7 @@
     "vol": "1",
     "page": 152,
     "title": null,
-    "tokens": 166
+    "tokens": 690
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1455,7 +1482,7 @@
     "vol": "2",
     "page": 1,
     "title": null,
-    "tokens": 97
+    "tokens": 400
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1464,7 +1491,7 @@
     "vol": "2",
     "page": 2,
     "title": null,
-    "tokens": 31
+    "tokens": 129
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1473,7 +1500,7 @@
     "vol": "2",
     "page": 3,
     "title": null,
-    "tokens": 154
+    "tokens": 646
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1482,7 +1509,7 @@
     "vol": "2",
     "page": 5,
     "title": null,
-    "tokens": 59
+    "tokens": 240
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1491,7 +1518,7 @@
     "vol": "2",
     "page": 6,
     "title": null,
-    "tokens": 128
+    "tokens": 491
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1500,7 +1527,7 @@
     "vol": "2",
     "page": 7,
     "title": null,
-    "tokens": 26
+    "tokens": 96
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1509,7 +1536,7 @@
     "vol": "2",
     "page": 8,
     "title": null,
-    "tokens": 47
+    "tokens": 166
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1518,7 +1545,7 @@
     "vol": "2",
     "page": 9,
     "title": null,
-    "tokens": 93
+    "tokens": 388
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1527,7 +1554,7 @@
     "vol": "2",
     "page": 10,
     "title": null,
-    "tokens": 75
+    "tokens": 314
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1536,7 +1563,7 @@
     "vol": "2",
     "page": 11,
     "title": null,
-    "tokens": 62
+    "tokens": 224
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1545,7 +1572,7 @@
     "vol": "2",
     "page": 12,
     "title": null,
-    "tokens": 44
+    "tokens": 169
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1554,7 +1581,7 @@
     "vol": "2",
     "page": 13,
     "title": null,
-    "tokens": 75
+    "tokens": 291
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1563,7 +1590,7 @@
     "vol": "2",
     "page": 14,
     "title": null,
-    "tokens": 51
+    "tokens": 179
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1572,7 +1599,7 @@
     "vol": "2",
     "page": 15,
     "title": null,
-    "tokens": 172
+    "tokens": 616
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1581,7 +1608,7 @@
     "vol": "2",
     "page": 16,
     "title": null,
-    "tokens": 46
+    "tokens": 150
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1590,7 +1617,7 @@
     "vol": "2",
     "page": 17,
     "title": null,
-    "tokens": 166
+    "tokens": 691
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1599,7 +1626,7 @@
     "vol": "2",
     "page": 18,
     "title": null,
-    "tokens": 82
+    "tokens": 317
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1608,7 +1635,7 @@
     "vol": "2",
     "page": 19,
     "title": null,
-    "tokens": 81
+    "tokens": 330
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1617,7 +1644,7 @@
     "vol": "2",
     "page": 20,
     "title": null,
-    "tokens": 113
+    "tokens": 481
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1626,7 +1653,7 @@
     "vol": "2",
     "page": 21,
     "title": null,
-    "tokens": 112
+    "tokens": 441
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1635,7 +1662,7 @@
     "vol": "2",
     "page": 22,
     "title": null,
-    "tokens": 101
+    "tokens": 402
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1644,7 +1671,7 @@
     "vol": "2",
     "page": 23,
     "title": null,
-    "tokens": 54
+    "tokens": 214
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1653,7 +1680,7 @@
     "vol": "2",
     "page": 24,
     "title": null,
-    "tokens": 61
+    "tokens": 230
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1662,7 +1689,7 @@
     "vol": "2",
     "page": 25,
     "title": null,
-    "tokens": 109
+    "tokens": 424
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1671,7 +1698,7 @@
     "vol": "2",
     "page": 26,
     "title": null,
-    "tokens": 86
+    "tokens": 322
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1680,7 +1707,7 @@
     "vol": "2",
     "page": 27,
     "title": null,
-    "tokens": 36
+    "tokens": 140
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1689,7 +1716,7 @@
     "vol": "2",
     "page": 28,
     "title": null,
-    "tokens": 61
+    "tokens": 219
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1698,7 +1725,7 @@
     "vol": "2",
     "page": 29,
     "title": null,
-    "tokens": 97
+    "tokens": 403
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1707,7 +1734,7 @@
     "vol": "2",
     "page": 30,
     "title": null,
-    "tokens": 100
+    "tokens": 387
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1716,7 +1743,7 @@
     "vol": "2",
     "page": 31,
     "title": null,
-    "tokens": 52
+    "tokens": 198
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1725,7 +1752,7 @@
     "vol": "2",
     "page": 32,
     "title": null,
-    "tokens": 153
+    "tokens": 631
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1734,7 +1761,7 @@
     "vol": "2",
     "page": 33,
     "title": null,
-    "tokens": 60
+    "tokens": 232
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1743,7 +1770,7 @@
     "vol": "2",
     "page": 34,
     "title": null,
-    "tokens": 70
+    "tokens": 265
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1752,7 +1779,7 @@
     "vol": "2",
     "page": 35,
     "title": null,
-    "tokens": 61
+    "tokens": 250
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1761,7 +1788,7 @@
     "vol": "2",
     "page": 36,
     "title": null,
-    "tokens": 101
+    "tokens": 394
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1770,7 +1797,7 @@
     "vol": "2",
     "page": 37,
     "title": null,
-    "tokens": 139
+    "tokens": 519
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1779,7 +1806,7 @@
     "vol": "2",
     "page": 38,
     "title": null,
-    "tokens": 120
+    "tokens": 475
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1788,7 +1815,7 @@
     "vol": "2",
     "page": 39,
     "title": null,
-    "tokens": 104
+    "tokens": 417
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1797,7 +1824,7 @@
     "vol": "2",
     "page": 40,
     "title": null,
-    "tokens": 121
+    "tokens": 503
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1806,7 +1833,7 @@
     "vol": "2",
     "page": 41,
     "title": null,
-    "tokens": 65
+    "tokens": 264
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1815,7 +1842,7 @@
     "vol": "2",
     "page": 42,
     "title": null,
-    "tokens": 108
+    "tokens": 405
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1824,7 +1851,7 @@
     "vol": "2",
     "page": 43,
     "title": null,
-    "tokens": 68
+    "tokens": 248
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1833,7 +1860,7 @@
     "vol": "2",
     "page": 44,
     "title": null,
-    "tokens": 107
+    "tokens": 430
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1842,7 +1869,7 @@
     "vol": "2",
     "page": 45,
     "title": null,
-    "tokens": 69
+    "tokens": 271
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1851,7 +1878,7 @@
     "vol": "2",
     "page": 46,
     "title": null,
-    "tokens": 91
+    "tokens": 351
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1860,7 +1887,7 @@
     "vol": "2",
     "page": 47,
     "title": null,
-    "tokens": 62
+    "tokens": 259
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1869,7 +1896,7 @@
     "vol": "2",
     "page": 48,
     "title": null,
-    "tokens": 88
+    "tokens": 373
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1878,7 +1905,7 @@
     "vol": "2",
     "page": 49,
     "title": null,
-    "tokens": 71
+    "tokens": 284
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1887,7 +1914,7 @@
     "vol": "2",
     "page": 50,
     "title": null,
-    "tokens": 66
+    "tokens": 242
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1896,7 +1923,7 @@
     "vol": "2",
     "page": 51,
     "title": null,
-    "tokens": 54
+    "tokens": 198
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1905,7 +1932,7 @@
     "vol": "2",
     "page": 52,
     "title": null,
-    "tokens": 53
+    "tokens": 234
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1914,7 +1941,7 @@
     "vol": "2",
     "page": 53,
     "title": null,
-    "tokens": 90
+    "tokens": 392
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1923,7 +1950,7 @@
     "vol": "2",
     "page": 54,
     "title": null,
-    "tokens": 53
+    "tokens": 210
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1932,7 +1959,7 @@
     "vol": "2",
     "page": 55,
     "title": null,
-    "tokens": 68
+    "tokens": 294
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1941,7 +1968,7 @@
     "vol": "2",
     "page": 56,
     "title": null,
-    "tokens": 64
+    "tokens": 252
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1950,7 +1977,7 @@
     "vol": "2",
     "page": 57,
     "title": null,
-    "tokens": 62
+    "tokens": 265
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1959,7 +1986,7 @@
     "vol": "2",
     "page": 58,
     "title": null,
-    "tokens": 83
+    "tokens": 340
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1968,7 +1995,7 @@
     "vol": "2",
     "page": 59,
     "title": null,
-    "tokens": 98
+    "tokens": 410
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1977,7 +2004,7 @@
     "vol": "2",
     "page": 60,
     "title": null,
-    "tokens": 139
+    "tokens": 528
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1986,7 +2013,7 @@
     "vol": "2",
     "page": 61,
     "title": null,
-    "tokens": 99
+    "tokens": 411
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -1995,7 +2022,7 @@
     "vol": "2",
     "page": 62,
     "title": null,
-    "tokens": 69
+    "tokens": 237
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2004,7 +2031,7 @@
     "vol": "2",
     "page": 63,
     "title": null,
-    "tokens": 51
+    "tokens": 189
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2013,7 +2040,7 @@
     "vol": "2",
     "page": 64,
     "title": null,
-    "tokens": 105
+    "tokens": 391
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2022,7 +2049,7 @@
     "vol": "2",
     "page": 65,
     "title": null,
-    "tokens": 91
+    "tokens": 345
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2031,7 +2058,7 @@
     "vol": "2",
     "page": 66,
     "title": null,
-    "tokens": 156
+    "tokens": 656
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2040,7 +2067,7 @@
     "vol": "2",
     "page": 67,
     "title": null,
-    "tokens": 115
+    "tokens": 463
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2049,7 +2076,7 @@
     "vol": "2",
     "page": 68,
     "title": null,
-    "tokens": 105
+    "tokens": 423
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2058,7 +2085,7 @@
     "vol": "2",
     "page": 69,
     "title": null,
-    "tokens": 89
+    "tokens": 375
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2067,7 +2094,7 @@
     "vol": "2",
     "page": 70,
     "title": null,
-    "tokens": 215
+    "tokens": 920
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2076,7 +2103,7 @@
     "vol": "2",
     "page": 71,
     "title": null,
-    "tokens": 38
+    "tokens": 150
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2085,7 +2112,7 @@
     "vol": "2",
     "page": 72,
     "title": null,
-    "tokens": 147
+    "tokens": 584
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2094,7 +2121,7 @@
     "vol": "2",
     "page": 73,
     "title": null,
-    "tokens": 82
+    "tokens": 327
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2103,7 +2130,7 @@
     "vol": "2",
     "page": 74,
     "title": null,
-    "tokens": 58
+    "tokens": 260
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2112,7 +2139,7 @@
     "vol": "2",
     "page": 75,
     "title": null,
-    "tokens": 103
+    "tokens": 444
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2121,7 +2148,7 @@
     "vol": "2",
     "page": 76,
     "title": null,
-    "tokens": 90
+    "tokens": 347
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2130,7 +2157,7 @@
     "vol": "2",
     "page": 77,
     "title": null,
-    "tokens": 193
+    "tokens": 820
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2139,7 +2166,7 @@
     "vol": "2",
     "page": 78,
     "title": null,
-    "tokens": 107
+    "tokens": 476
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2148,7 +2175,7 @@
     "vol": "2",
     "page": 79,
     "title": null,
-    "tokens": 233
+    "tokens": 947
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2157,7 +2184,7 @@
     "vol": "2",
     "page": 81,
     "title": null,
-    "tokens": 96
+    "tokens": 358
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2166,7 +2193,7 @@
     "vol": "2",
     "page": 82,
     "title": null,
-    "tokens": 57
+    "tokens": 217
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2175,7 +2202,7 @@
     "vol": "2",
     "page": 83,
     "title": null,
-    "tokens": 86
+    "tokens": 333
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2184,7 +2211,7 @@
     "vol": "2",
     "page": 84,
     "title": null,
-    "tokens": 23
+    "tokens": 86
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2193,7 +2220,7 @@
     "vol": "2",
     "page": 85,
     "title": null,
-    "tokens": 103
+    "tokens": 415
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2202,7 +2229,7 @@
     "vol": "2",
     "page": 86,
     "title": null,
-    "tokens": 101
+    "tokens": 429
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2211,7 +2238,7 @@
     "vol": "2",
     "page": 87,
     "title": null,
-    "tokens": 174
+    "tokens": 705
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2220,7 +2247,7 @@
     "vol": "2",
     "page": 88,
     "title": null,
-    "tokens": 38
+    "tokens": 148
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2229,7 +2256,7 @@
     "vol": "2",
     "page": 89,
     "title": null,
-    "tokens": 75
+    "tokens": 297
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2238,7 +2265,7 @@
     "vol": "2",
     "page": 90,
     "title": null,
-    "tokens": 145
+    "tokens": 558
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2247,7 +2274,7 @@
     "vol": "2",
     "page": 91,
     "title": null,
-    "tokens": 89
+    "tokens": 351
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2256,7 +2283,7 @@
     "vol": "2",
     "page": 92,
     "title": null,
-    "tokens": 82
+    "tokens": 359
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2265,7 +2292,7 @@
     "vol": "2",
     "page": 93,
     "title": null,
-    "tokens": 76
+    "tokens": 291
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2274,7 +2301,7 @@
     "vol": "2",
     "page": 94,
     "title": null,
-    "tokens": 86
+    "tokens": 355
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2283,7 +2310,7 @@
     "vol": "2",
     "page": 95,
     "title": null,
-    "tokens": 114
+    "tokens": 423
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2292,7 +2319,7 @@
     "vol": "2",
     "page": 96,
     "title": null,
-    "tokens": 115
+    "tokens": 423
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2301,7 +2328,7 @@
     "vol": "2",
     "page": 97,
     "title": null,
-    "tokens": 86
+    "tokens": 315
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2310,7 +2337,7 @@
     "vol": "2",
     "page": 98,
     "title": null,
-    "tokens": 98
+    "tokens": 418
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2319,7 +2346,7 @@
     "vol": "2",
     "page": 99,
     "title": null,
-    "tokens": 150
+    "tokens": 585
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2328,7 +2355,7 @@
     "vol": "2",
     "page": 100,
     "title": null,
-    "tokens": 53
+    "tokens": 198
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2337,7 +2364,7 @@
     "vol": "2",
     "page": 101,
     "title": null,
-    "tokens": 54
+    "tokens": 226
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2346,7 +2373,7 @@
     "vol": "2",
     "page": 102,
     "title": null,
-    "tokens": 54
+    "tokens": 210
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2355,7 +2382,7 @@
     "vol": "2",
     "page": 103,
     "title": null,
-    "tokens": 125
+    "tokens": 495
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2364,7 +2391,7 @@
     "vol": "2",
     "page": 104,
     "title": null,
-    "tokens": 114
+    "tokens": 446
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2373,7 +2400,7 @@
     "vol": "2",
     "page": 105,
     "title": null,
-    "tokens": 61
+    "tokens": 246
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2382,7 +2409,7 @@
     "vol": "2",
     "page": 106,
     "title": null,
-    "tokens": 91
+    "tokens": 384
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2391,7 +2418,7 @@
     "vol": "2",
     "page": 107,
     "title": null,
-    "tokens": 97
+    "tokens": 385
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2400,7 +2427,7 @@
     "vol": "2",
     "page": 108,
     "title": null,
-    "tokens": 117
+    "tokens": 459
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2409,7 +2436,7 @@
     "vol": "2",
     "page": 109,
     "title": null,
-    "tokens": 86
+    "tokens": 330
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2418,7 +2445,7 @@
     "vol": "2",
     "page": 110,
     "title": null,
-    "tokens": 114
+    "tokens": 453
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2427,7 +2454,7 @@
     "vol": "2",
     "page": 111,
     "title": null,
-    "tokens": 52
+    "tokens": 210
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2436,7 +2463,7 @@
     "vol": "2",
     "page": 112,
     "title": null,
-    "tokens": 148
+    "tokens": 585
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2445,7 +2472,7 @@
     "vol": "2",
     "page": 113,
     "title": null,
-    "tokens": 112
+    "tokens": 484
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2454,7 +2481,7 @@
     "vol": "2",
     "page": 114,
     "title": null,
-    "tokens": 52
+    "tokens": 191
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2463,7 +2490,7 @@
     "vol": "2",
     "page": 115,
     "title": null,
-    "tokens": 49
+    "tokens": 182
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2472,7 +2499,7 @@
     "vol": "2",
     "page": 116,
     "title": null,
-    "tokens": 112
+    "tokens": 463
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2481,7 +2508,7 @@
     "vol": "2",
     "page": 117,
     "title": null,
-    "tokens": 80
+    "tokens": 333
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2490,7 +2517,7 @@
     "vol": "2",
     "page": 118,
     "title": null,
-    "tokens": 192
+    "tokens": 843
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2499,7 +2526,7 @@
     "vol": "2",
     "page": 119,
     "title": null,
-    "tokens": 79
+    "tokens": 315
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2508,7 +2535,7 @@
     "vol": "2",
     "page": 120,
     "title": null,
-    "tokens": 44
+    "tokens": 183
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2517,7 +2544,7 @@
     "vol": "2",
     "page": 121,
     "title": null,
-    "tokens": 82
+    "tokens": 355
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2526,7 +2553,7 @@
     "vol": "2",
     "page": 122,
     "title": null,
-    "tokens": 81
+    "tokens": 317
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2535,7 +2562,7 @@
     "vol": "2",
     "page": 123,
     "title": null,
-    "tokens": 104
+    "tokens": 398
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2544,7 +2571,7 @@
     "vol": "2",
     "page": 124,
     "title": null,
-    "tokens": 83
+    "tokens": 347
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2553,7 +2580,7 @@
     "vol": "2",
     "page": 125,
     "title": null,
-    "tokens": 120
+    "tokens": 543
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2562,7 +2589,7 @@
     "vol": "2",
     "page": 126,
     "title": null,
-    "tokens": 209
+    "tokens": 818
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2571,7 +2598,7 @@
     "vol": "2",
     "page": 127,
     "title": null,
-    "tokens": 34
+    "tokens": 127
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2580,7 +2607,7 @@
     "vol": "2",
     "page": 128,
     "title": null,
-    "tokens": 53
+    "tokens": 216
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2589,7 +2616,7 @@
     "vol": "2",
     "page": 129,
     "title": null,
-    "tokens": 90
+    "tokens": 344
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2598,7 +2625,7 @@
     "vol": "2",
     "page": 130,
     "title": null,
-    "tokens": 125
+    "tokens": 514
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2607,7 +2634,7 @@
     "vol": "2",
     "page": 131,
     "title": null,
-    "tokens": 34
+    "tokens": 139
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2616,7 +2643,7 @@
     "vol": "2",
     "page": 132,
     "title": null,
-    "tokens": 79
+    "tokens": 342
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2625,7 +2652,7 @@
     "vol": "2",
     "page": 133,
     "title": null,
-    "tokens": 58
+    "tokens": 243
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2634,7 +2661,7 @@
     "vol": "2",
     "page": 134,
     "title": null,
-    "tokens": 50
+    "tokens": 208
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2643,7 +2670,7 @@
     "vol": "2",
     "page": 135,
     "title": null,
-    "tokens": 94
+    "tokens": 368
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2652,7 +2679,7 @@
     "vol": "2",
     "page": 136,
     "title": null,
-    "tokens": 97
+    "tokens": 408
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2661,7 +2688,7 @@
     "vol": "2",
     "page": 137,
     "title": null,
-    "tokens": 71
+    "tokens": 292
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2670,7 +2697,7 @@
     "vol": "2",
     "page": 138,
     "title": null,
-    "tokens": 127
+    "tokens": 517
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2679,7 +2706,7 @@
     "vol": "2",
     "page": 139,
     "title": null,
-    "tokens": 66
+    "tokens": 245
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2688,7 +2715,7 @@
     "vol": "2",
     "page": 140,
     "title": null,
-    "tokens": 52
+    "tokens": 229
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2697,7 +2724,7 @@
     "vol": "2",
     "page": 141,
     "title": null,
-    "tokens": 127
+    "tokens": 509
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2706,7 +2733,7 @@
     "vol": "2",
     "page": 142,
     "title": null,
-    "tokens": 59
+    "tokens": 242
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2715,7 +2742,7 @@
     "vol": "2",
     "page": 143,
     "title": null,
-    "tokens": 74
+    "tokens": 283
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2724,7 +2751,7 @@
     "vol": "2",
     "page": 144,
     "title": null,
-    "tokens": 125
+    "tokens": 491
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2733,7 +2760,7 @@
     "vol": "2",
     "page": 145,
     "title": null,
-    "tokens": 89
+    "tokens": 337
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2742,7 +2769,7 @@
     "vol": "2",
     "page": 146,
     "title": null,
-    "tokens": 38
+    "tokens": 157
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2751,7 +2778,7 @@
     "vol": "2",
     "page": 147,
     "title": null,
-    "tokens": 69
+    "tokens": 274
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2760,7 +2787,7 @@
     "vol": "2",
     "page": 148,
     "title": null,
-    "tokens": 93
+    "tokens": 396
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2769,7 +2796,7 @@
     "vol": "2",
     "page": 149,
     "title": null,
-    "tokens": 72
+    "tokens": 293
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2778,7 +2805,7 @@
     "vol": "2",
     "page": 150,
     "title": null,
-    "tokens": 77
+    "tokens": 309
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2787,7 +2814,7 @@
     "vol": "2",
     "page": 151,
     "title": null,
-    "tokens": 99
+    "tokens": 403
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2796,7 +2823,7 @@
     "vol": "2",
     "page": 152,
     "title": null,
-    "tokens": 49
+    "tokens": 194
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2805,7 +2832,7 @@
     "vol": "2",
     "page": 153,
     "title": null,
-    "tokens": 113
+    "tokens": 452
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2814,7 +2841,7 @@
     "vol": "2",
     "page": 154,
     "title": null,
-    "tokens": 59
+    "tokens": 244
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2823,7 +2850,7 @@
     "vol": "2",
     "page": 155,
     "title": null,
-    "tokens": 72
+    "tokens": 306
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2832,7 +2859,7 @@
     "vol": "2",
     "page": 156,
     "title": null,
-    "tokens": 56
+    "tokens": 223
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2841,7 +2868,7 @@
     "vol": "2",
     "page": 157,
     "title": null,
-    "tokens": 92
+    "tokens": 351
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2850,7 +2877,7 @@
     "vol": "2",
     "page": 158,
     "title": null,
-    "tokens": 64
+    "tokens": 286
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2859,7 +2886,7 @@
     "vol": "2",
     "page": 159,
     "title": null,
-    "tokens": 53
+    "tokens": 210
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2868,7 +2895,7 @@
     "vol": "2",
     "page": 160,
     "title": null,
-    "tokens": 75
+    "tokens": 303
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2877,7 +2904,7 @@
     "vol": "2",
     "page": 161,
     "title": null,
-    "tokens": 76
+    "tokens": 321
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2886,7 +2913,7 @@
     "vol": "2",
     "page": 162,
     "title": null,
-    "tokens": 89
+    "tokens": 379
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2895,7 +2922,7 @@
     "vol": "2",
     "page": 163,
     "title": null,
-    "tokens": 73
+    "tokens": 300
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2904,7 +2931,7 @@
     "vol": "2",
     "page": 164,
     "title": null,
-    "tokens": 114
+    "tokens": 448
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2913,7 +2940,7 @@
     "vol": "2",
     "page": 165,
     "title": null,
-    "tokens": 74
+    "tokens": 310
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2922,7 +2949,7 @@
     "vol": "2",
     "page": 166,
     "title": null,
-    "tokens": 59
+    "tokens": 212
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2931,7 +2958,7 @@
     "vol": "2",
     "page": 167,
     "title": null,
-    "tokens": 137
+    "tokens": 597
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2940,7 +2967,7 @@
     "vol": "2",
     "page": 168,
     "title": null,
-    "tokens": 116
+    "tokens": 489
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2949,7 +2976,7 @@
     "vol": "2",
     "page": 169,
     "title": null,
-    "tokens": 33
+    "tokens": 133
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2958,7 +2985,7 @@
     "vol": "2",
     "page": 170,
     "title": null,
-    "tokens": 100
+    "tokens": 394
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2967,7 +2994,7 @@
     "vol": "2",
     "page": 171,
     "title": null,
-    "tokens": 111
+    "tokens": 435
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2976,7 +3003,7 @@
     "vol": "3",
     "page": 5,
     "title": null,
-    "tokens": 73
+    "tokens": 261
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2985,7 +3012,7 @@
     "vol": "3",
     "page": 6,
     "title": null,
-    "tokens": 225
+    "tokens": 885
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -2994,7 +3021,7 @@
     "vol": "3",
     "page": 8,
     "title": null,
-    "tokens": 100
+    "tokens": 389
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3003,7 +3030,7 @@
     "vol": "3",
     "page": 9,
     "title": null,
-    "tokens": 69
+    "tokens": 265
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3012,7 +3039,7 @@
     "vol": "3",
     "page": 10,
     "title": null,
-    "tokens": 80
+    "tokens": 309
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3021,7 +3048,7 @@
     "vol": "3",
     "page": 11,
     "title": null,
-    "tokens": 28
+    "tokens": 97
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3030,7 +3057,7 @@
     "vol": "3",
     "page": 12,
     "title": null,
-    "tokens": 90
+    "tokens": 368
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3039,7 +3066,7 @@
     "vol": "3",
     "page": 13,
     "title": null,
-    "tokens": 93
+    "tokens": 340
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3048,7 +3075,7 @@
     "vol": "3",
     "page": 14,
     "title": null,
-    "tokens": 77
+    "tokens": 297
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3057,7 +3084,7 @@
     "vol": "3",
     "page": 16,
     "title": null,
-    "tokens": 40
+    "tokens": 159
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3066,7 +3093,7 @@
     "vol": "3",
     "page": 17,
     "title": null,
-    "tokens": 53
+    "tokens": 241
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3075,7 +3102,7 @@
     "vol": "3",
     "page": 18,
     "title": null,
-    "tokens": 59
+    "tokens": 234
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3084,7 +3111,7 @@
     "vol": "3",
     "page": 19,
     "title": null,
-    "tokens": 113
+    "tokens": 399
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3093,7 +3120,7 @@
     "vol": "3",
     "page": 20,
     "title": null,
-    "tokens": 36
+    "tokens": 133
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3102,7 +3129,7 @@
     "vol": "3",
     "page": 21,
     "title": null,
-    "tokens": 110
+    "tokens": 393
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3111,7 +3138,7 @@
     "vol": "3",
     "page": 22,
     "title": null,
-    "tokens": 64
+    "tokens": 238
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3120,7 +3147,7 @@
     "vol": "3",
     "page": 23,
     "title": null,
-    "tokens": 119
+    "tokens": 412
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3129,7 +3156,7 @@
     "vol": "3",
     "page": 24,
     "title": null,
-    "tokens": 128
+    "tokens": 518
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3138,16 +3165,25 @@
     "vol": "3",
     "page": 25,
     "title": null,
-    "tokens": 77
+    "tokens": 322
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
     "book_slug": "N/A",
-    "text": "٤٠ - قال: وحدثني الليث بن سعد قال: نزل القرآن على سبعة أحرف، خمس أحرف منها بلسان عجز هوازن؛ والعجز: قبائل؛ قال: وهم الذين ربوا رسول الله؛ قال: وحرفان في سائر .٤١ - قال: وكان أول من بذلك عليه عمر بن الخطاب، وذلك حين قتل أصحاب رسول الله الصديق قال لعمر: فمن يكتبه، قال: زيد بن ثابت فإنه فطن رسول الله؛ وكتبه زيد بن ثابت، وكان الناس يأتون زيد بن ثابت إلا بشاهدٍ في عدلٍ؛ وإن آخر سورة براءة لم توجد إلا مع خزيمة بن ثابت، فقال: اكتبوها، فإن رسول الله جعل شهادته شهادة رجلين، فكتبت؛ وإن عمر بن الخطاب أتى بآية الرجم فلم يكتبوها، لأنه كان وحده، فلما فرغ من ذلك المصحف كان عند أبي بكر، ثم كان بعد عند عمر، ثم كان بعد عمر ⦗٢٧⦘ عند حفصة زوج النبي، حتى قدم حذيفة بن اليمان على عثمان بن عفان، فقال: يا أمير المؤمنين، إني سمعت الناس قد اختلفوا في القرآن، فيقول الرجل: حرفي الذي أقرأ به خيرٌ من حرفك؛ فأرسل عثمان إلى حفصة أن تبعث به إليه، فقالت: على أن ترده إلي، قال: نعم؛ قال: فنسخ منها مصاحف فبعث بها إلى الآفاق وأمرهم أن يبعثوا إليه بما كان عندهم منها، وأمر بها أن تحرق؛ قال: ومن حبس عنده منها شيئا فهو غلولٌ. قال ابن مسعود: مصحفي هذا سمعته من رسول الله ﷺ، وإن الله يقول: ﴿ومن يغلل يأت بما غل يوم القيامة﴾، فأنا أغله حتى ألقى الله به يوم القيامة. قال: وكان حين جمع القرآن جعل زيد بن ثابت وأبي بن كعب يكتبان القرآن، وجعل معهما سعيد بن العاص يقيم عربيته، فقال أبي بن كعب: التابوه، فقال سعيد: إنما هو التابوت، فقال عثمان: اكتبوه كما قال سعيد: التابوت، فكتبوا: ﴿التابوت﴾.",
+    "text": "- قال : وحدثني الليث بن سعد قال : نزل القران على سبعة احرف ، خمس احرف منها بلسان عجز هوازن والعجز : قبايل قال : وهم الذين ربوا رسول الله قال : وحرفان في ساير. - قال : وكان اول من بذلك عليه عمر بن الخطاب ، وذلك حين قتل اصحاب رسول الله الصديق قال لعمر : فمن يكتبه ، قال : زيد بن ثابت فانه فطن رسول الله وكتبه زيد بن ثابت ، وكان الناس ياتون زيد بن ثابت الا بشاهد في عدل وان اخر سورة براءة لم توجد الا مع خزيمة بن ثابت ، فقال : اكتبوها ، فان رسول الله جعل شهادته شهادة رجلين ، فكتبت وان عمر بن الخطاب اتى باية الرجم فلم يكتبوها ، لانه كان وحده ، فلما فرغ من ذلك المصحف كان عند ابي بكر ، ثم كان بعد عند عمر ، ثم كان بعد عمر عند حفصة زوج النبي ، حتى قدم حذيفة بن اليمان على عثمان بن عفان ، فقال : يا امير المومنين ، اني سمعت الناس قد اختلفوا في القران ، فيقول الرجل : حرفي الذي اقرا به خير من حرفك فارسل عثمان الى حفصة ان تبعث به اليه ، فقالت : على ان ترده الي ، قال : نعم قال : فنسخ منها مصاحف فبعث بها الى الافاق وامرهم ان يبعثوا اليه بما كان عندهم منها ، وامر بها ان تحرق قال : ومن حبس عنده منها شييا فهو غلول. قال ابن مسعود : مصحفي هذا سمعته من رسول الله ، وان الله يقول : ومن يغلل يات بما غل يوم القيامة ، فانا اغله حتى القى الله به يوم القيامة. قال : وكان حين جمع القران جعل زيد بن ثابت وابي بن كعب يكتبان القران ، وجعل معهما سعيد بن العاص يقيم عربيته ، فقال ابي بن كعب : التابوه ، فقال سعيد : انما هو التابوت ، فقال عثمان : اكتبوه كما قال سع",
     "vol": "3",
     "page": 26,
     "title": null,
-    "tokens": 271
+    "tokens": 1024
+  },
+  {
+    "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
+    "book_slug": "N/A",
+    "text": "##ان ، وجعل معهما سعيد بن العاص يقيم عربيته ، فقال ابي بن كعب : التابوه ، فقال سعيد : انما هو التابوت ، فقال عثمان : اكتبوه كما قال سعيد : التابوت ، فكتبوا : التابوت.",
+    "vol": "3",
+    "page": 26,
+    "title": null,
+    "tokens": 128
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3156,7 +3192,7 @@
     "vol": "3",
     "page": 27,
     "title": null,
-    "tokens": 40
+    "tokens": 147
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3165,7 +3201,7 @@
     "vol": "3",
     "page": 28,
     "title": null,
-    "tokens": 148
+    "tokens": 557
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3174,7 +3210,7 @@
     "vol": "3",
     "page": 29,
     "title": null,
-    "tokens": 140
+    "tokens": 560
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3183,7 +3219,7 @@
     "vol": "3",
     "page": 30,
     "title": null,
-    "tokens": 33
+    "tokens": 134
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3192,7 +3228,7 @@
     "vol": "3",
     "page": 31,
     "title": null,
-    "tokens": 223
+    "tokens": 885
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3201,7 +3237,7 @@
     "vol": "3",
     "page": 32,
     "title": null,
-    "tokens": 55
+    "tokens": 226
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3210,7 +3246,7 @@
     "vol": "3",
     "page": 33,
     "title": null,
-    "tokens": 112
+    "tokens": 413
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3219,7 +3255,7 @@
     "vol": "3",
     "page": 34,
     "title": null,
-    "tokens": 152
+    "tokens": 604
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3228,7 +3264,7 @@
     "vol": "3",
     "page": 35,
     "title": null,
-    "tokens": 158
+    "tokens": 653
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3237,7 +3273,7 @@
     "vol": "3",
     "page": 36,
     "title": null,
-    "tokens": 137
+    "tokens": 541
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3246,7 +3282,7 @@
     "vol": "3",
     "page": 37,
     "title": null,
-    "tokens": 125
+    "tokens": 493
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3255,7 +3291,7 @@
     "vol": "3",
     "page": 38,
     "title": null,
-    "tokens": 121
+    "tokens": 448
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3264,7 +3300,7 @@
     "vol": "3",
     "page": 40,
     "title": null,
-    "tokens": 82
+    "tokens": 296
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3273,7 +3309,7 @@
     "vol": "3",
     "page": 41,
     "title": null,
-    "tokens": 79
+    "tokens": 312
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3282,7 +3318,7 @@
     "vol": "3",
     "page": 42,
     "title": null,
-    "tokens": 123
+    "tokens": 471
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3291,7 +3327,7 @@
     "vol": "3",
     "page": 43,
     "title": null,
-    "tokens": 146
+    "tokens": 570
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3300,7 +3336,7 @@
     "vol": "3",
     "page": 44,
     "title": null,
-    "tokens": 73
+    "tokens": 296
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3309,7 +3345,7 @@
     "vol": "3",
     "page": 45,
     "title": null,
-    "tokens": 91
+    "tokens": 352
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3318,7 +3354,7 @@
     "vol": "3",
     "page": 46,
     "title": null,
-    "tokens": 111
+    "tokens": 447
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3327,7 +3363,7 @@
     "vol": "3",
     "page": 47,
     "title": null,
-    "tokens": 122
+    "tokens": 497
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3336,7 +3372,7 @@
     "vol": "3",
     "page": 48,
     "title": null,
-    "tokens": 65
+    "tokens": 248
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3345,7 +3381,7 @@
     "vol": "3",
     "page": 49,
     "title": null,
-    "tokens": 97
+    "tokens": 376
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3354,7 +3390,7 @@
     "vol": "3",
     "page": 50,
     "title": null,
-    "tokens": 52
+    "tokens": 204
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3363,7 +3399,7 @@
     "vol": "3",
     "page": 51,
     "title": null,
-    "tokens": 101
+    "tokens": 409
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3372,7 +3408,7 @@
     "vol": "3",
     "page": 52,
     "title": null,
-    "tokens": 124
+    "tokens": 528
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3381,7 +3417,7 @@
     "vol": "3",
     "page": 53,
     "title": null,
-    "tokens": 64
+    "tokens": 259
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3390,7 +3426,7 @@
     "vol": "3",
     "page": 54,
     "title": null,
-    "tokens": 151
+    "tokens": 620
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3399,7 +3435,7 @@
     "vol": "3",
     "page": 55,
     "title": null,
-    "tokens": 112
+    "tokens": 453
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3408,7 +3444,7 @@
     "vol": "3",
     "page": 56,
     "title": null,
-    "tokens": 124
+    "tokens": 478
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3417,7 +3453,7 @@
     "vol": "3",
     "page": 57,
     "title": null,
-    "tokens": 126
+    "tokens": 495
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3426,7 +3462,7 @@
     "vol": "3",
     "page": 58,
     "title": null,
-    "tokens": 141
+    "tokens": 574
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3435,7 +3471,7 @@
     "vol": "3",
     "page": 59,
     "title": null,
-    "tokens": 115
+    "tokens": 451
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3444,7 +3480,7 @@
     "vol": "3",
     "page": 60,
     "title": null,
-    "tokens": 132
+    "tokens": 536
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3453,7 +3489,7 @@
     "vol": "3",
     "page": 61,
     "title": null,
-    "tokens": 96
+    "tokens": 381
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3462,7 +3498,7 @@
     "vol": "3",
     "page": 62,
     "title": null,
-    "tokens": 107
+    "tokens": 474
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3471,7 +3507,7 @@
     "vol": "3",
     "page": 63,
     "title": null,
-    "tokens": 45
+    "tokens": 169
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3480,7 +3516,7 @@
     "vol": "3",
     "page": 65,
     "title": null,
-    "tokens": 137
+    "tokens": 579
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3489,7 +3525,7 @@
     "vol": "3",
     "page": 66,
     "title": null,
-    "tokens": 94
+    "tokens": 417
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3498,7 +3534,7 @@
     "vol": "3",
     "page": 67,
     "title": null,
-    "tokens": 126
+    "tokens": 579
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3507,7 +3543,7 @@
     "vol": "3",
     "page": 68,
     "title": null,
-    "tokens": 85
+    "tokens": 387
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3516,16 +3552,25 @@
     "vol": "3",
     "page": 69,
     "title": null,
-    "tokens": 120
+    "tokens": 549
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
     "book_slug": "N/A",
-    "text": "١٥٧ - وقال في سورة النساء: ﴿يا أيها الَّذِينَ آمَنُوا لا تَقْرَبُوا الصَّلاةَ وَأَنْتُمْ سُكَارَى حتى تعلموا ما تقولون﴾؛ وقال في سورة البقرة ﴿يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ قُلْ فِيهِمَا إثمٌ كبيرٌ وَمَنَافِعُ لِلنَّاسِ وَإِثْمُهُمَا أَكْبَرُ مِنْ نفعهما﴾؛ فنسخت في المائدة فقال: ﴿يا أيها الَّذِينَ آمَنُوا إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالأَنْصَابُ وَالأَزْلامُ رجسٌ مِنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ﴾.١٥٨ - وقال في سورة النساء: ﴿إِلا الَّذِينَ يَصِلُونَ إِلَى قومٍ بَيْنَكُمْ ⦗٧١⦘ وَبَيْنَهُمْ ميثاقٌ أَوْ جَاءُوكُمْ حَصِرَتْ صُدُورُهُمْ أَنْ يُقَاتِلُوكُمْ أَوْ يُقَاتِلُوا قَوْمَهُمْ وَلَوْ شَاءَ اللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ فَلَقَاتَلُوكُمْ فَإِنِ اعْتَزَلُوكُمْ فَلَمْ يُقَاتِلُوكُمْ وَأَلْقَوْا إِلَيْكُمُ السَّلَمَ فَمَا جَعَلَ اللَّهُ لَكُمْ عليهم سبيلًا﴾؛ وقال: سَتَجِدُونَ آخَرِينَ يُرِيدُونَ أَنْ يَأْمَنُوكُمْ وَيَأْمَنُوا قَوْمَهُمْ كُلَّ مَا رُدُّوا إِلَى الْفِتْنَةِ أُرْكِسُوا فِيهَا فَإِنْ لَمْ يَعْتَزِلُوكُمْ وَيُلْقُوا إِلَيْكُمُ السَّلَمَ ويكفوا أيديهم فخذوهم واقتلوهم حيث ثقفتموهم وأولائكم جعلنا لكم عليهم سلطانًا مبينًا﴾؛ وقال في سورة الممتحنة: ﴿لا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ أَنْ تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ إِنَّ اللَّهَ يُحِبُّ المقسطين﴾؛ ثم قال فيها: ﴿إِنَّمَا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ ⦗٧٢⦘ وَأَخْرَجُوكُمْ مِنْ دِيَارِكُمْ وَظَاهَرُوا عَلَى إِخْرَاجِكُمْ أَنْ تَوَلَّوْهُمْ وَمَنْ يَتَوَلَّهُمْ فأولائك هم الظالمون﴾؛ فنسخ هؤلاء الآيات في شأن المشركين، فقال: ﴿براءةٌ مِنَ اللَّهِ وَرَسُولِهِ إِلَى الَّذِينَ عَاهَدْتُمْ مِنَ الْمُشْرِكِينَ فَسِيحُوا فِي الأَرْضِ أَرْبَعَةَ أشهرٍ وَاعْلَمُوا أَنَّكُمْ غَيْرُ مُعْجِزِي اللَّهِ وَأَنَّ اللَّهَ مخزي الكافرين﴾؛ فجعل لهم أجلا أربعة أشهر يسيحون فيها وأبطل ما كان قبل ذلك، ثم قال في الآية التي تليها: ﴿فَإِذَا انْسَلَخَ الأَشْهُرُ الحرم فاقتلوا المشركين حيث وجدتموهم واحصروهم واقعدوا لهم كل مرصدٍ﴾؛ ثم نسخ واستثنى: ﴿فَإِنْ تَابُوا وَأَقَامُوا الصَّلاةَ وَآتَوُا الزَّكَاةَ فَخَلُّوا سَبِيلَهُمْ إِنَّ اللَّهَ غفورٌ رحيمٌ﴾؛ وقال: ﴿وَإِنْ أحدٌ مِنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّى يَسْمَعَ كَلامَ اللَّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُ.",
+    "text": "- وقال في سورة النساء : يا ايها الذين امنوا لا تقربوا الصلاة وانتم سكارى حتى تعلموا ما تقولون وقال في سورة البقرة يسالونك عن الخمر والميسر قل فيهما اثم كبير ومنافع للناس واثمهما اكبر من نفعهما فنسخت في المايدة فقال : يا ايها الذين امنوا انما الخمر والميسر والانصاب والازلام رجس من عمل الشيطان فاجتنبوه لعلكم تفلحون. - وقال في سورة النساء : الا الذين يصلون الى قوم بينكم وبينهم ميثاق او جاءوكم حصرت صدورهم ان يقاتلوكم او يقاتلوا قومهم ولو شاء الله لسلطهم عليكم فلقاتلوكم فان اعتزلوكم فلم يقاتلوكم والقوا اليكم السلم فما جعل الله لكم عليهم سبيلا وقال : ستجدون اخرين يريدون ان يامنوكم ويامنوا قومهم كل ما ردوا الى الفتنة اركسوا فيها فان لم يعتزلوكم ويلقوا اليكم السلم ويكفوا ايديهم فخذوهم واقتلوهم حيث ثقفتموهم واولايكم جعلنا لكم عليهم سلطانا مبينا وقال في سورة الممتحنة : لا ينهاكم الله عن الذين لم يقاتلوكم في الدين ولم يخرجوكم من دياركم ان تبروهم وتقسطوا اليهم ان الله يحب المقسطين ثم قال فيها : انما ينهاكم الله عن الذين قاتلوكم في الدين واخرجوكم من دياركم وظاهروا على اخراجكم ان تولوهم ومن يتولهم فاولايك هم الظالمون فنسخ هولاء الايات في شان المشركين ، فقال : براءة من الله ورسوله الى الذين عاهدتم من المشركين فسيحوا في الارض اربعة اشهر واعلموا انكم غير معجزي الله وان الله مخزي الكافرين فجعل لهم اجلا اربعة اشهر يسيحون فيه",
     "vol": "3",
     "page": 70,
     "title": null,
-    "tokens": 272
+    "tokens": 1024
+  },
+  {
+    "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
+    "book_slug": "N/A",
+    "text": "##مشركين فسيحوا في الارض اربعة اشهر واعلموا انكم غير معجزي الله وان الله مخزي الكافرين فجعل لهم اجلا اربعة اشهر يسيحون فيها وابطل ما كان قبل ذلك ، ثم قال في الاية التي تليها : فاذا انسلخ الاشهر الحرم فاقتلوا المشركين حيث وجدتموهم واحصروهم واقعدوا لهم كل مرصد ثم نسخ واستثنى : فان تابوا واقاموا الصلاة واتوا الزكاة فخلوا سبيلهم ان الله غفور رحيم وقال : وان احد من المشركين استجارك فاجره حتى يسمع كلام الله ثم ابلغه مامنه.",
+    "vol": "3",
+    "page": 70,
+    "title": null,
+    "tokens": 345
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3534,7 +3579,7 @@
     "vol": "3",
     "page": 72,
     "title": null,
-    "tokens": 80
+    "tokens": 329
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3543,7 +3588,7 @@
     "vol": "3",
     "page": 73,
     "title": null,
-    "tokens": 134
+    "tokens": 589
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3552,7 +3597,7 @@
     "vol": "3",
     "page": 74,
     "title": null,
-    "tokens": 147
+    "tokens": 654
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3561,7 +3606,7 @@
     "vol": "3",
     "page": 75,
     "title": null,
-    "tokens": 98
+    "tokens": 452
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3570,7 +3615,7 @@
     "vol": "3",
     "page": 76,
     "title": null,
-    "tokens": 126
+    "tokens": 492
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3579,7 +3624,7 @@
     "vol": "3",
     "page": 77,
     "title": null,
-    "tokens": 113
+    "tokens": 471
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3588,7 +3633,7 @@
     "vol": "3",
     "page": 78,
     "title": null,
-    "tokens": 185
+    "tokens": 807
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3597,7 +3642,7 @@
     "vol": "3",
     "page": 79,
     "title": null,
-    "tokens": 81
+    "tokens": 342
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3606,7 +3651,7 @@
     "vol": "3",
     "page": 80,
     "title": null,
-    "tokens": 187
+    "tokens": 789
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3615,7 +3660,7 @@
     "vol": "3",
     "page": 81,
     "title": null,
-    "tokens": 54
+    "tokens": 241
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3624,7 +3669,7 @@
     "vol": "3",
     "page": 82,
     "title": null,
-    "tokens": 146
+    "tokens": 609
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3633,7 +3678,7 @@
     "vol": "3",
     "page": 83,
     "title": null,
-    "tokens": 108
+    "tokens": 442
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3642,7 +3687,7 @@
     "vol": "3",
     "page": 85,
     "title": null,
-    "tokens": 58
+    "tokens": 263
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3651,7 +3696,7 @@
     "vol": "3",
     "page": 86,
     "title": null,
-    "tokens": 156
+    "tokens": 673
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3660,7 +3705,7 @@
     "vol": "3",
     "page": 87,
     "title": null,
-    "tokens": 61
+    "tokens": 263
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3669,7 +3714,7 @@
     "vol": "3",
     "page": 89,
     "title": null,
-    "tokens": 125
+    "tokens": 477
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3678,7 +3723,7 @@
     "vol": "3",
     "page": 90,
     "title": null,
-    "tokens": 187
+    "tokens": 699
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3687,7 +3732,7 @@
     "vol": "3",
     "page": 91,
     "title": null,
-    "tokens": 134
+    "tokens": 489
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3696,7 +3741,7 @@
     "vol": "3",
     "page": 92,
     "title": null,
-    "tokens": 129
+    "tokens": 491
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3705,7 +3750,7 @@
     "vol": "3",
     "page": 93,
     "title": null,
-    "tokens": 128
+    "tokens": 489
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3714,7 +3759,7 @@
     "vol": "3",
     "page": 94,
     "title": null,
-    "tokens": 134
+    "tokens": 493
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3723,7 +3768,7 @@
     "vol": "3",
     "page": 95,
     "title": null,
-    "tokens": 65
+    "tokens": 249
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3732,7 +3777,7 @@
     "vol": "3",
     "page": 96,
     "title": null,
-    "tokens": 87
+    "tokens": 338
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3741,7 +3786,7 @@
     "vol": "3",
     "page": 97,
     "title": null,
-    "tokens": 102
+    "tokens": 406
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3750,7 +3795,7 @@
     "vol": "3",
     "page": 98,
     "title": null,
-    "tokens": 90
+    "tokens": 337
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3759,7 +3804,7 @@
     "vol": "3",
     "page": 99,
     "title": null,
-    "tokens": 124
+    "tokens": 481
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3768,7 +3813,7 @@
     "vol": "3",
     "page": 100,
     "title": null,
-    "tokens": 65
+    "tokens": 258
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3777,7 +3822,7 @@
     "vol": "3",
     "page": 101,
     "title": null,
-    "tokens": 140
+    "tokens": 511
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3786,7 +3831,7 @@
     "vol": "3",
     "page": 102,
     "title": null,
-    "tokens": 140
+    "tokens": 551
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3795,7 +3840,7 @@
     "vol": "3",
     "page": 103,
     "title": null,
-    "tokens": 111
+    "tokens": 428
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3804,7 +3849,7 @@
     "vol": "3",
     "page": 104,
     "title": null,
-    "tokens": 142
+    "tokens": 547
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3813,7 +3858,7 @@
     "vol": "3",
     "page": 105,
     "title": null,
-    "tokens": 81
+    "tokens": 299
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3822,7 +3867,7 @@
     "vol": "3",
     "page": 106,
     "title": null,
-    "tokens": 186
+    "tokens": 724
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3831,7 +3876,7 @@
     "vol": "3",
     "page": 107,
     "title": null,
-    "tokens": 144
+    "tokens": 542
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3840,7 +3885,7 @@
     "vol": "3",
     "page": 108,
     "title": null,
-    "tokens": 119
+    "tokens": 445
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3849,7 +3894,7 @@
     "vol": "3",
     "page": 109,
     "title": null,
-    "tokens": 89
+    "tokens": 324
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3858,7 +3903,7 @@
     "vol": "3",
     "page": 110,
     "title": null,
-    "tokens": 83
+    "tokens": 309
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3867,7 +3912,7 @@
     "vol": "3",
     "page": 111,
     "title": null,
-    "tokens": 113
+    "tokens": 440
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3876,7 +3921,7 @@
     "vol": "3",
     "page": 112,
     "title": null,
-    "tokens": 129
+    "tokens": 502
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3885,7 +3930,7 @@
     "vol": "3",
     "page": 113,
     "title": null,
-    "tokens": 63
+    "tokens": 207
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3894,7 +3939,7 @@
     "vol": "3",
     "page": 114,
     "title": null,
-    "tokens": 186
+    "tokens": 685
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3903,7 +3948,7 @@
     "vol": "3",
     "page": 115,
     "title": null,
-    "tokens": 87
+    "tokens": 322
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3912,7 +3957,7 @@
     "vol": "3",
     "page": 116,
     "title": null,
-    "tokens": 209
+    "tokens": 774
   },
   {
     "book_transliteration": "Tafsīr al-Qurʾān min al-Jāmiʿ li-Ibn Wahb",
@@ -3921,6 +3966,6 @@
     "vol": "3",
     "page": 117,
     "title": null,
-    "tokens": 125
+    "tokens": 483
   }
 ]
